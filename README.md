@@ -57,7 +57,10 @@ If you are new to the project:
 # Current Status
 
 This hub is under active development as a semantic navigation layer across the AI Text Project ecosystem.
+
+
 ---
+
 
 ## Journey Map
 
