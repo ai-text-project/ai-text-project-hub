@@ -15,6 +15,7 @@ Bridge / Textbook Layer
 ↓
 Public Medium Layer
 
+```text
 ---
 
 ## Journey Map
