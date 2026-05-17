@@ -1,4 +1,4 @@
-# ai-text-project-hub
+# AI Text Project Hub
 Navigation hub connecting the AI Textbook and Dialogue-Phase Reasoning repositories.
 
 # AI Text Project Hub
