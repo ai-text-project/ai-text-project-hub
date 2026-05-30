@@ -69,6 +69,36 @@ Examples:
 
 ---
 
+## Key Documents
+
+### Repository Relations
+Structural relationships and role differentiation across repositories.
+
+→ [Repository Relations](1-repository-relations.md)
+
+### Projection Paths
+Navigation pathways connecting research, bridge, educational, and public-facing layers.
+
+→ [Projection Paths](2-projection-paths.md)
+
+### Topology Overview
+High-level semantic topology and cross-repository structural organization.
+
+→ [Topology Overview](3-topology-overview.md)
+
+### Research Navigation
+Reader-oriented navigation strategies across different density layers.
+
+→ [Research Navigation](4-research-navigation.md)
+
+### Emergence Notes
+Observations related to topology emergence and semantic organization.
+
+→ [Emergence Notes](5-emergence-notes.md)
+
+
+---
+
 ## Working Perspective
 
 This layer treats the project ecosystem not only as a collection of repositories,
@@ -76,3 +106,4 @@ but as a navigable semantic environment organized through layered projection str
 
 The goal is not maximal abstraction,
 but stable and readable navigation across different density layers.
+
