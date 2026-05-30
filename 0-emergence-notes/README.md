@@ -168,4 +168,11 @@ and more as:
 This document records the early emergence phase
 of that topology-oriented transformation.
 
+---
+
+# Related Notes
+
+- [From Storage to Research Space](from-storage-to-research-space.md)
+
+A supplementary observation describing how repository structures gradually transitioned from storage-oriented organization toward research-space topology.
 
