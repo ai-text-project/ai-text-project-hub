@@ -188,7 +188,7 @@ This question remains open.
 
 - [Project Topology Layer](../00-project-topology/)
 - [Emergence Notes](./README.md)
-- [Case Cluster Review](https://github.com/ai-text-project/dialogue-phase-reasoning/tree/main/30-externalization)
+- [Case Cluster Review](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/30-externalization/case-index.md)
 - [Crystallization Layer](https://github.com/ai-text-project/dialogue-phase-reasoning/tree/main/20-crystallization)
 - [Externalization Layer](https://github.com/ai-text-project/dialogue-phase-reasoning/tree/main/30-externalization)
 
