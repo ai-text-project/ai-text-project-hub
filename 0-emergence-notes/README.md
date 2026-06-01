@@ -170,9 +170,13 @@ of that topology-oriented transformation.
 
 ---
 
-# Related Notes
+---
 
-- [From Storage to Research Space](from-storage-to-research-space.md)
+## Emergence Notes
 
-A supplementary observation describing how repository structures gradually transitioned from storage-oriented organization toward research-space topology.
+### Structural Evolution Records
 
+- [00 — From Storage to Research Space](./00-from-storage-to-research-space.md)
+- [01 — Research Space Evolution](./01-research-space-evolution.md)
+
+These notes document the gradual emergence of the topology-oriented research-space structure behind the AI Text Project Hub.
