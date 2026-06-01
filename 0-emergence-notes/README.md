@@ -170,8 +170,6 @@ of that topology-oriented transformation.
 
 ---
 
----
-
 ## Emergence Notes
 
 ### Structural Evolution Records
