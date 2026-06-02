@@ -170,11 +170,10 @@ of that topology-oriented transformation.
 
 ---
 
-## Emergence Notes
+## Structural Evolution Records
 
-### Structural Evolution Records
-
-- [00 — From Storage to Research Space](./00-from-storage-to-research-space.md)
-- [01 — Research Space Evolution](./01-research-space-evolution.md)
+- [00 — From Storage to Research Space](00-from-storage-to-research-space.md)
+- [01 — Research Space Evolution](01-research-space-evolution.md)
+- [02 — Research Space Reconstruction](02-research-space-reconstruction.md)
 
 These notes document the gradual emergence of the topology-oriented research-space structure behind the AI Text Project Hub.
