@@ -182,6 +182,10 @@ what additional organizational principles may emerge as the environment continue
 
 This question remains open.
 
+## Related Research Questions
+
+- [Adaptive Placement Question](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/02-open-questions/35-cross-stage/00-adaptive-placement-question.md)
+
 ---
 
 ## Related Documents
