@@ -191,9 +191,9 @@ Can a sufficiently organized research space function as a carrier of both struct
 
 This question remains open.
 
-## Research Map Reference
+## Research Map Development
 
-This question is further developed in:
+The question introduced above has been further developed as a dedicated Research Map question:
 
 - [Adaptive Placement Question](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/02-open-questions/35-cross-stage/00-adaptive-placement-question.md)
 
