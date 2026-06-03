@@ -77,6 +77,20 @@ Navigation Structures
 Research Architecture
 ```
 
+# Architecture Documents
+
+The following documents provide detailed explanations of specific layers within the research architecture:
+
+* [Observation Layers](01-observation-layers.md)
+  - Dialogue and observed phenomena
+
+* [Case Lifecycle](02-case-lifecycle.md)
+  - Case formation, stabilization, and comparative observation
+
+* [Research-Space Evolution](03-research-space-evolution.md)
+  - Evolution from repository organization to research-space reconstruction
+
+
 ---
 
 # Layer Descriptions
