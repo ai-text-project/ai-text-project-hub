@@ -194,3 +194,14 @@ Further observation is required before stronger interpretation becomes appropria
 
 Research-Space Evolution describes how repeated observation activities may gradually reshape the structures that support observation itself.
 
+
+## Related Development
+
+Subsequent observations suggested that repeated comparative review may generate higher-order observational structures.
+
+For further discussion, see:
+
+- [Meta Observation](04-meta-observation.md)
+
+This document focuses on research-space evolution itself, while Meta Observation focuses on the observation of observational structures.
+
