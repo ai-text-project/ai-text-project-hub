@@ -27,11 +27,6 @@ This diagram summarizes the relationship between dialogue, observed phenomena, c
 
 # Core Principle
 
-
----
-
-# Core Principle
-
 The project does not treat documents, repositories, or theories as primary objects.
 
 Instead, the primary object of observation is:
