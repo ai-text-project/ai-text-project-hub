@@ -10,7 +10,7 @@ The figures are intended to support orientation, navigation, and conceptual unde
 
 ## Research Architecture Map v0.1
 
-* [Research Architecture Map v0.1](Research Architecture Map-v0.1.md)
+* [Research Architecture Map v0.1](Research Architecture Map-v0.1.png)
 
 This diagram provides a visual overview of:
 
