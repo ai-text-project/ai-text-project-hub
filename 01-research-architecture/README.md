@@ -19,7 +19,7 @@ The goal is to clarify what is being observed, how observations are organized, a
 
 For a visual overview of the research architecture:
 
-[Research Architecture Map v0.1](Figures/Research_Architecture_Map-v0.1.pdf)
+[Research Architecture Map v0.1](Figures/Research_Architecture_Map-v0.1.png)
 
 This diagram summarizes the relationship between dialogue, observed phenomena, case observations, comparative review, research mapping, and research-space evolution.
 
