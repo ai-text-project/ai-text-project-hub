@@ -184,3 +184,20 @@ Version 0.1
 
 For Orientation and Research Architecture Development
 
+---
+
+## Related Example
+
+The transition described in this document is illustrated through the emergence of Meta Case 01 and its supplementary observation memo.
+
+See:
+
+* Meta Case 01
+* Meta Case 01A — Supplementary Observation Memo
+
+Repository:
+
+dialogue-phase-reasoning
+/40-research-map/03-meta-cases/
+
+These records provide a concrete example of how comparative observation may evolve into research mapping and architectural reorganization.
