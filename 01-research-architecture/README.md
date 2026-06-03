@@ -15,6 +15,21 @@ The goal is to clarify what is being observed, how observations are organized, a
 
 ---
 
+## Architecture Diagram
+
+For a visual overview of the research architecture:
+
+[Research Architecture Map v0.1](Figures/Research_Architecture_Map-v0.1.md)
+
+This diagram summarizes the relationship between dialogue, observed phenomena, case observations, comparative review, research mapping, and research-space evolution.
+
+---
+
+# Core Principle
+
+
+---
+
 # Core Principle
 
 The project does not treat documents, repositories, or theories as primary objects.
