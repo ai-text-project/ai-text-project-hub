@@ -192,12 +192,6 @@ The transition described in this document is illustrated through the emergence o
 
 See:
 
-* Meta Case 01
-* Meta Case 01A — Supplementary Observation Memo
+- [Meta Case 01](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/01-meta-case-01.md)
 
-Repository:
-
-dialogue-phase-reasoning
-/40-research-map/03-meta-cases/
-
-These records provide a concrete example of how comparative observation may evolve into research mapping and architectural reorganization.
+- [Meta Case 01A — Supplementary Observation Memo](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/02-meta-case-01A-supplementary.md)
