@@ -191,26 +191,30 @@ Can a sufficiently organized research space function as a carrier of both struct
 
 This question remains open.
 
-## Status
-
-Active Research Question
-
 ---
 
-## Related Observations
+## Why This Question Emerged
+
+The question gradually emerged through the following observations:
+
+### Related Observations
 
 - Research Space Reconstruction and Adaptation
 - Meta Observation Emergence
 
----
-
-## Related Meta Cases
+### Related Meta Cases
 
 - Meta Case 01
 - Meta Case 01A
 - Meta Case 01B
 
+These observations collectively suggested that research environments may support not only preservation and reconstruction, but also adaptive placement of newly emerging structures.
+
 ---
+
+## Status
+
+Active Research Question
 
 This question remains under active observation.
 
