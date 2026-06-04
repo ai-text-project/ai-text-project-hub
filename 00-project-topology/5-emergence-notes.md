@@ -8,6 +8,12 @@ The goal was not simply repository organization,
 but the stabilization of low-friction semantic navigation
 across multiple research layers.
 
+Subsequent emergence observations are maintained in:
+
+0-emergence-notes/
+
+which documents the evolution of the research space beyond repository topology formation.
+
 ---
 
 # Initial Observation
