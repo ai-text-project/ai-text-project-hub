@@ -108,8 +108,9 @@ For conceptual discussion, see:
 
 For the original observational record, see:
 
-- dialogue-phase-reasoning / Meta Case 01
-- dialogue-phase-reasoning / Meta Case 01A Supplementary Observation Memo
+- [Meta Case 01](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/01-meta-case-01.md)
+
+- [Meta Case 01A — Supplementary Observation Memo](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/02-meta-case-01A-supplementary.md)
 
 ---
 
