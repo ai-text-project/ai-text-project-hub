@@ -191,20 +191,26 @@ Can a sufficiently organized research space function as a carrier of both struct
 
 This question remains open.
 
-Status
+## Status
 
 Active Research Question
 
-Related Observations
+---
 
-• Research Space Reconstruction and Adaptation
-• Meta Observation Emergence
+## Related Observations
 
-Related Meta Cases
+- Research Space Reconstruction and Adaptation
+- Meta Observation Emergence
 
-• Meta Case 01
-• Meta Case 01A
-• Meta Case 01B
+---
+
+## Related Meta Cases
+
+- Meta Case 01
+- Meta Case 01A
+- Meta Case 01B
+
+---
 
 This question remains under active observation.
 
