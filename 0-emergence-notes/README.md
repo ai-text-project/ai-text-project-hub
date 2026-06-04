@@ -175,5 +175,7 @@ of that topology-oriented transformation.
 - [00 — From Storage to Research Space](00-from-storage-to-research-space.md)
 - [01 — Research Space Evolution](01-research-space-evolution.md)
 - [02 — Research Space Reconstruction](02-research-space-reconstruction.md)
+- [03 — Research Space Reconstruction and Adaptation](./03-research-space-reconstruction-and-adaptation.md)
+- [04 — Meta Observation Emergence](./04-meta-observation-emergence.md)
 
 These notes document the gradual emergence of the topology-oriented research-space structure behind the AI Text Project Hub.
