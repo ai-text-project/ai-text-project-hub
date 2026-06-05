@@ -19,15 +19,17 @@ The purpose of this layer is not to establish theory, but to preserve the observ
 
 Current observations suggest a provisional progression:
 
+```text
 Repository Topology
-↓
+        ↓
 Research-Space Evolution
-↓
+        ↓
 Research-Space Reconstruction
-↓
+        ↓
 Research-Space Adaptation
-↓
+        ↓
 Meta Observation Emergence
+```
 
 This interpretation remains observational and subject to future revision.
 
