@@ -1,114 +1,62 @@
-# AI Text Project Hub
+# Emergence Notes
 
-This repository serves as the navigation and documentation layer for the AI Text Project.
+This section documents the observed evolution of the research space beyond the initial formation of repository topology.
 
-Its role is not limited to repository indexing.
-
-The Hub also preserves observations regarding:
-
-* repository formation
-* topology stabilization
-* research-space evolution
-* research architecture
-* meta observation emergence
-
-As the project evolved, the Hub gradually became both:
-
-* a navigation environment
-* a documentation environment
-
-for the ongoing development of the research space.
-
----
-
-# Main Sections
-
-## 00-project-topology
-
-Documents describing the structural organization of the Hub itself.
+Unlike the topology layer, these records focus on dynamic organizational development, structural adaptation, and emerging architectural patterns observed during repository evolution.
 
 Topics include:
 
-* repository relations
-* projection paths
-* navigation structure
-* topology stabilization
+- research-space evolution
+- research-space reconstruction
+- adaptive organization
+- meta observation emergence
 
-This layer primarily records the formation of the repository topology.
-
----
-
-## 0-emergence-notes
-
-Observational records documenting how the research space evolved beyond repository topology formation.
-
-Topics include:
-
-* research-space evolution
-* reconstruction
-* adaptation
-* meta observation emergence
-
-This layer focuses on dynamic organizational development.
+The purpose of this layer is not to establish theory, but to preserve the observational history of how the research space gradually evolved.
 
 ---
 
-## 01-research-architecture
+## Current Interpretation
 
-Conceptual descriptions of structures observed through emergence notes.
+Current observations suggest a provisional progression:
 
-Topics include:
-
-* observation layers
-* case lifecycle
-* research-space evolution
-* meta observation
-
-This layer focuses on architectural interpretation.
-
----
-
-## repositories
-
-Cross-repository navigation documents.
-
-Provides orientation between:
-
-* Dialogue-Phase Reasoning
-* AI Textbook Bridge
-
----
-
-# Current Interpretation
-
-Current observations suggest that the Hub functions not only as a repository index, but also as a record of research-space development.
-
-A provisional relationship appears as:
-
-```text
 Repository Topology
-        ↓
+↓
 Research-Space Evolution
-        ↓
-Research Architecture
-        ↓
-Cross-Repository Navigation
-```
+↓
+Research-Space Reconstruction
+↓
+Research-Space Adaptation
+↓
+Meta Observation Emergence
 
-This interpretation remains observational and may evolve through future research.
+This interpretation remains observational and subject to future revision.
 
 ---
 
-# Future Development
+## Structural Evolution Records
 
-Recent observations suggest that additional organizational layers may emerge from the interaction between:
+- 00 — From Storage to Research Space
+- 01 — Research Space Evolution
+- 02 — Research Space Reconstruction
+- 03 — Research Space Reconstruction and Adaptation
+- 04 — Meta Observation Emergence
 
-* Meta Observation
-* Research Architecture
-* Research-Space Evolution
-* Research Program Documentation
+These notes document the gradual emergence of organizational structures observed during the development of the AI Text Project Hub.
 
-Whether a dedicated research-program layer will eventually emerge remains an open question.
+---
+
+## Relationship to Research Architecture
+
+Some observations preserved in this layer have subsequently contributed to the development of conceptual descriptions maintained in:
+
+- 01-research-architecture
+
+Examples include:
+
+- Research-Space Evolution
+- Meta Observation
+
+This relationship remains observational and does not imply a finalized theoretical structure.
 
 ---
 
