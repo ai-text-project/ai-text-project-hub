@@ -108,7 +108,7 @@ Research Architecture
 
 ↓
 
-Level 6
+Level 6 (provisional)
 
 Research Program Evolution
 ```
