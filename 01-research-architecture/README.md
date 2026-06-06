@@ -212,7 +212,7 @@ Examples include:
 
 ---
 
-## Level 6 — Research Program Evolution
+## Level 6 — Research Program Evolution (provisional)
 
 At this stage, the focus shifts from research-space organization toward the development of a broader research program.
 
