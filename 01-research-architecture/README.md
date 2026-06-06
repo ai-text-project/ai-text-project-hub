@@ -2,16 +2,14 @@
 
 This section describes the conceptual architecture of the Dialogue-Phase Reasoning research program.
 
-Unlike repository topology, which organizes files and navigation paths, the Research Architecture layer organizes the relationship between:
+Unlike repository topology, which organizes files and navigation paths, the Research Architecture layer organizes the relationships between dialogue, observations, case formation, comparative analysis, research mapping, and long-term research-space development.
 
-* dialogue
-* observed phenomena
-* case observations
-* comparative analysis
-* research mapping
-* research-space evolution
+The purpose of this layer is to clarify:
 
-The goal is to clarify what is being observed, how observations are organized, and how research structures emerge over time.
+* what is being observed
+* how observations are organized
+* how research structures emerge
+* how those structures gradually reshape the research environment itself
 
 ---
 
@@ -21,23 +19,45 @@ For a visual overview of the research architecture:
 
 [Research Architecture Map v0.1](Figures/Research_Architecture_Map-v0.1.png)
 
-This diagram summarizes the relationship between dialogue, observed phenomena, case observations, comparative review, research mapping, and research-space evolution.
+This diagram summarizes the relationships between dialogue, observed phenomena, case observations, comparative review, research mapping, and research-space evolution.
 
 ---
 
-# Core Principle
+## Architecture Progression
+
+```text
+Dialogue
+↓
+Observed Phenomena
+↓
+Case Observation
+↓
+Comparative Observation
+↓
+Research Mapping
+↓
+Research-Space Evolution
+↓
+Research Program Evolution
+```
+
+This progression represents the current observational interpretation of how research structures emerge and evolve.
+
+---
+
+## Core Principle
 
 The project does not treat documents, repositories, or theories as primary objects.
 
 Instead, the primary object of observation is:
 
-Human–AI Dialogue
+**Human–AI Dialogue**
 
 and the semantic phenomena that emerge through long-horizon interaction.
 
 ---
 
-# Architecture Overview
+## Architecture Overview
 
 ```text
 Level 0
@@ -88,30 +108,36 @@ Research Architecture
 
 ↓
 
-Candidate Direction
+Level 6
 
-Research Program Ecology
-
+Research Program Evolution
 ```
 
-# Architecture Documents
+---
+
+## Architecture Documents
 
 The following documents provide detailed explanations of specific layers within the research architecture:
 
 * [Observation Layers](01-observation-layers.md)
-  - Dialogue and observed phenomena
+
+  * Dialogue and observed phenomena
 
 * [Case Lifecycle](02-case-lifecycle.md)
-  - Case formation, stabilization, and comparative observation
+
+  * Case formation, stabilization, and comparative observation
 
 * [Research-Space Evolution](03-research-space-evolution.md)
-  - Evolution from repository organization to research-space reconstruction
 
-* [Meta Observation](./04-meta-observation.md)
-  - Emergence of higher-order observation structures
+  * Evolution from repository organization to research-space reconstruction
 
-* [Research Program Evolution](./05-research-program-evolution.md)
-  - Long-term organizational development of the research program
+* [Meta Observation](04-meta-observation.md)
+
+  * Emergence of higher-order observation structures
+
+* [Research Program Evolution](05-research-program-evolution.md)
+
+  * Long-term organizational development of the research program
 
 ---
 
@@ -186,7 +212,17 @@ Examples include:
 
 ---
 
-# Current Position of Meta Cases
+## Level 6 — Research Program Evolution
+
+At this stage, the focus shifts from research-space organization toward the development of a broader research program.
+
+Current observations suggest that research-space evolution may represent only one stage within a longer organizational trajectory.
+
+This interpretation remains provisional and observational.
+
+---
+
+## Current Position of Meta Cases
 
 Meta Cases occupy a unique position within the research architecture.
 
@@ -194,29 +230,24 @@ They do not primarily observe dialogue phenomena.
 
 Instead, they observe:
 
+```text
 Case
-
 ↓
-
 Case Comparison
-
 ↓
-
 Cluster Formation
-
 ↓
-
 Open Question Generation
-
 ↓
-
 Research-Space Reorganization
+```
 
 For this reason, Meta Cases are placed within the Research Mapping layer rather than within the individual phenomenon layers.
 
 ---
 
-# One-Line Summary
+## One-Line Summary
 
-The Research Architecture layer describes how dialogue observations evolve into Cases, how Cases evolve into research structures, and how research structures gradually reshape the research space itself.
+The Research Architecture layer describes how dialogue observations evolve into Cases, how Cases evolve into research structures, and how those research structures gradually reshape both the research space and the research program itself.
+
 
