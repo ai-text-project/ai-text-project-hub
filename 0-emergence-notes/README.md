@@ -35,6 +35,7 @@ This interpretation remains observational and subject to future revision.
 
 ## Structural Evolution Records
 
+- [0 — GitHub as Observation System](./0-github-as-observation-system.md)
 - [00 — From Storage to Research Space](00-from-storage-to-research-space.md)
 - [01 — Research Space Evolution](01-research-space-evolution.md)
 - [02 — Research Space Reconstruction](02-research-space-reconstruction.md)
