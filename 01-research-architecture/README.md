@@ -85,6 +85,13 @@ Research Notes
 Topology Design
 Navigation Structures
 Research Architecture
+
+↓
+
+Candidate Direction
+
+Research Program Evolution
+
 ```
 
 # Architecture Documents
