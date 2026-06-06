@@ -100,6 +100,11 @@ The following documents provide detailed explanations of specific layers within 
 * [Research-Space Evolution](03-research-space-evolution.md)
   - Evolution from repository organization to research-space reconstruction
 
+* [Meta Observation](./04-meta-observation.md)
+  - Emergence of higher-order observation structures
+
+* [Research Program Evolution](./05-research-program-evolution.md)
+  - Long-term organizational development of the research program
 
 ---
 
