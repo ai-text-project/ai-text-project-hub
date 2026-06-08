@@ -270,3 +270,12 @@ Diagrams are not generated directly from text.
 
 They emerge through a sequence of structural extraction, visual stabilization, and external projection.
 
+---
+
+## Related Figure
+
+For a visual overview of the workflow:
+
+[Diagram Generation Workflow](../figures/Diagram-generation-workflow.png)
+
+---
