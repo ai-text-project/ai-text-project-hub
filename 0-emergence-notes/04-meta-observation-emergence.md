@@ -157,7 +157,7 @@ to organizational stabilization through
 repeated comparative observation.
 
 See:
-Case42
-Comparative Observation Protocol v0.1
+- Case42
+- Comparative Observation Protocol v0.1
 
 ---
