@@ -44,7 +44,8 @@ They serve as visual companions to the architecture and evolution of the researc
 
 For the methodology used to transform conceptual structures into visual artifacts, see:
 
-- ../01-research-architecture/06-structural-projection-workflow.md
+- [Structural Projection Workflow](../01-research-architecture/06-structural-projection-workflow.md)
+
 
 ---
 
