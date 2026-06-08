@@ -147,3 +147,17 @@ Further observation is required before stronger conclusions become appropriate.
 ## One-Line Summary
 
 Meta Observation emerged when the focus of inquiry shifted from observed Cases to the structures that organize observation itself.
+
+---
+
+## Related Notes 
+
+Cluster Review activities may contribute
+to organizational stabilization through
+repeated comparative observation.
+
+See:
+Case42
+Comparative Observation Protocol v0.1
+
+---
