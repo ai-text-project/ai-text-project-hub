@@ -46,6 +46,17 @@ For the methodology used to transform conceptual structures into visual artifact
 
 - [Structural Projection Workflow](../01-research-architecture/06-structural-projection-workflow.md)
 
+---
+
+## Diagram Generation Workflow
+
+This figure illustrates the workflow used to transform conceptual structures into visual artifacts.
+
+![Diagram Generation Workflow](Diagram-generation-workflow.png)
+
+---
+
+## Current Figures
 
 ---
 
