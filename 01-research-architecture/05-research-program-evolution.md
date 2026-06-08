@@ -109,3 +109,8 @@ From this perspective, AGI can be interpreted as one possible development occurr
 
 This interpretation remains provisional and is included only as an orientation note.
 
+
+## Related Documents
+
+- Structural Projection Workflow
+  - ../06-structural-projection-workflow.md
