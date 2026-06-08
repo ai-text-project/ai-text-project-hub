@@ -112,5 +112,5 @@ This interpretation remains provisional and is included only as an orientation n
 
 ## Related Documents
 
-- Structural Projection Workflow
-  - ../06-structural-projection-workflow.md
+- [Structural Projection Workflow](06-structural-projection-workflow.md)
+  - Methodology for transforming conceptual structures into visual and navigational artifacts.
