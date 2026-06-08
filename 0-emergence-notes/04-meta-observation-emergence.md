@@ -150,14 +150,16 @@ Meta Observation emerged when the focus of inquiry shifted from observed Cases t
 
 ---
 
-## Related Notes 
+## Related Notes
 
-Cluster Review activities may contribute
-to organizational stabilization through
-repeated comparative observation.
+Cluster Review activities may contribute to organizational stabilization through repeated comparative observation.
 
-See:
-- Case42
-- Comparative Observation Protocol v0.1
+Examples include:
+
+- [Case42 — Cluster Review as Organizational Observation](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/00-emergence-observations/case-42-cluster-review-as-organizational-observation.md)
+
+- [Comparative Observation Protocol v0.1](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/00-comparative-observation-protocol-v01.md)
+
+These documents provide observational context regarding the emergence of higher-order observation structures through comparative review activities.
 
 ---
