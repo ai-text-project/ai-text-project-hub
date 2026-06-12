@@ -1,32 +1,41 @@
-Research Program Evolution
+# Research Program Evolution
 
-Purpose
+## Purpose
 
-To document observations concerning
-the evolution of the research program itself.
+To document observations concerning the evolution of the research program itself.
 
-Scope
+---
 
-- Research Space Reconstruction
-- Asset Recognition
-- Value Recognition
-- Harvest Strategy Formation
-- Role Specialization
+## Scope
 
-Out of Scope
+The following observations are within the scope of this section:
 
-- Theory Development
-- Case Classification
-- Governance Documents
+* Research Space Reconstruction
+* Asset Recognition
+* Value Recognition
+* Harvest Strategy Formation
+* Role Specialization
 
-Current Documents
+---
 
-01 Research Space Reconstruction Through Asset Recognition
+## Out of Scope
 
-02 Research Program Asset Inventory Observation
+The following topics are outside the scope of this section:
 
-03 Value Proposition Emergence
+* Theory Development
+* Case Classification
+* Governance Documents
 
-04 Harvest Strategy Emergence
+---
 
-05 Role Specialization: Harvest Strategist
+## Current Documents
+
+### 01. Research Space Reconstruction Through Asset Recognition
+
+### 02. Research Program Asset Inventory Observation
+
+### 03. Value Proposition Emergence
+
+### 04. Harvest Strategy Emergence
+
+### 05. Role Specialization: Harvest Strategist
