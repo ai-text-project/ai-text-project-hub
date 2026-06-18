@@ -67,6 +67,9 @@ This project explores a simple question:
 Can long-horizon dialogue exhibit
 observable structural transitions?
 
+Current focus:
+10-Jump → 20-Crystallization → 30-Externalization
+
 Rather than focusing on outputs alone,
 the project investigates how dialogue structures
 form, stabilize, and become externalized
