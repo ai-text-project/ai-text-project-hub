@@ -58,9 +58,32 @@ If you are new to the project:
 
 This hub is under active development as a semantic navigation layer across the AI Text Project ecosystem.
 
-
 ---
 
+# Why This Project?
+
+This project explores a simple question:
+
+Can long-horizon dialogue exhibit
+observable structural transitions?
+
+Rather than focusing on outputs alone,
+the project investigates how dialogue structures
+form, stabilize, and become externalized
+through extended interaction.
+
+The ecosystem contains:
+
+- Research papers
+- Case observations
+- Terminology systems
+- Structural diagrams
+- Educational bridge materials
+
+New readers may start from the Bridge Layer.
+Researchers may proceed directly to the Research Layer.
+
+---
 
 ## Journey Map
 
