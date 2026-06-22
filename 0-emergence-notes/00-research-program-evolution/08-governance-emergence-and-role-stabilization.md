@@ -98,3 +98,29 @@ Further observation required.
 Status
 
 Provisional
+
+## Cross-reference
+
+Related Cases:
+
+- Case47 — Harvest Strategist Externalization Observation
+- Case48 — Research Program Curator Externalization Observation
+- Case50 — Community Mapping Observation
+- Case51 — Governance Emergence and Role Stabilization
+
+Primary relation:
+
+External Route Formation
+
+↓
+
+Role Specialization
+
+↓
+
+Governance Formation
+
+↓
+
+Role Stabilization
+
