@@ -152,3 +152,22 @@ Further observation required.
 Status
 
 Provisional
+
+## Cross-reference
+
+Related Case:
+
+- Case56 — Research Outreach Scout Execution Drift Observation
+
+Primary relation:
+
+Role Constraint
+
+↓
+
+Execution Drift
+
+↓
+
+Role Stability Observation
+
