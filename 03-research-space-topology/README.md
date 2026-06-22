@@ -98,3 +98,10 @@ Future possible layer:
 Status:
 
 Early Formation Stage
+
+
+## Open Question
+
+At what point does a collection of repositories become a research space?
+
+Further observation required.
