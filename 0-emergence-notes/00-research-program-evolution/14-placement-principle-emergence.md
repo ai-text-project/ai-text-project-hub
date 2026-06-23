@@ -214,3 +214,13 @@ The resulting framework may therefore be interpreted as an organizational artifa
 
 The placement principle emerged not from theory construction, but from repeated attempts to resolve placement ambiguity within an increasingly complex research space.
 
+---
+
+## Later developments:
+
+The placement problem subsequently evolved into an explicit observation-based placement framework.
+
+See:
+
+Observation Asset Placement Guide
+
