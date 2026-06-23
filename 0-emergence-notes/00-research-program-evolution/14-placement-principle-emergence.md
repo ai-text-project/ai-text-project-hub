@@ -224,3 +224,10 @@ See:
 
 Observation Asset Placement Guide
 
+
+## Structural Representation
+
+See also:
+
+* Placement Principle Emergence (ASCII Representation)
+
