@@ -176,3 +176,27 @@ No formal taxonomy proposed.
 
 Further observation required.
 
+---
+
+## Foot note
+
+Observation
+
+↓
+
+What is being observed?
+
+↓
+
+Structure
+or
+Formation Process
+or
+Observation Process
+or
+Operational Process
+
+↓
+
+Placement
+
