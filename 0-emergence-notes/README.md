@@ -61,3 +61,17 @@ This relationship remains observational and does not imply a finalized theoretic
 
 ---
 
+## Related Mapping Layer
+
+Observations that primarily concern:
+
+* Case classification
+* Research Notes
+* Open Questions
+* Meta Observations
+
+are maintained within:
+
+dialogue-phase-reasoning
+
+40-research-map/
