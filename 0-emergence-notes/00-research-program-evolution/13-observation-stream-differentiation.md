@@ -188,13 +188,13 @@ What is being observed?
 
 ↓
 
--Structure
--or
--Formation Process
--or
--Observation Process
--or
--Operational Process
+* Structure
+* or
+* Formation Process
+* or
+* Observation Process
+* or
+* Operational Process
 
 ↓
 
