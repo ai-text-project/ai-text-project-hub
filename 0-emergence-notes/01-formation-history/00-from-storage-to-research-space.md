@@ -140,11 +140,16 @@ This document records the historical significance of the first integrated format
 
 ---
 
-## Related Documents
+---
 
-This Formation History note corresponds to the following working manuscript in the Dialogue Repository:
+## Related Paper
 
-- **Working Manuscript:** [From Storage to Research Space](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/01-papers/0-overview-papers/from-storage-to-research-space/manuscript.md)
+This historical reconstruction is further developed as a scholarly manuscript in the Dialogue Repository.
+
+- **From Storage to Research Space — Working Manuscript**  
+  https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/01-papers/0-overview-papers/from-storage-to-research-space/manuscript.md
+
+  
 
 - 
 
