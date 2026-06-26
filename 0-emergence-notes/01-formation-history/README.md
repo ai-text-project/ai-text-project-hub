@@ -77,6 +77,16 @@ Formation History therefore serves as an intermediate historical layer connectin
 
 ---
 
+## Related Research Space Topology
+
+The broader structural implications of this document are further discussed in the following Research Space Topology observation:
+
+- **Developmental Topology Invariance (Hypothesis)**
+
+https://github.com/ai-text-project/ai-text-project-hub/blob/main/03-research-space-topology/02-developmental-topology-invariance-hypothesis.md
+
+---
+
 ## Status
 
 This section is expected to evolve as additional historical reconstructions become available.
