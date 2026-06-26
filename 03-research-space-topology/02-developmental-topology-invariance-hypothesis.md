@@ -155,10 +155,10 @@ Current observations suggest that the repeated developmental topology may not be
 
 Similar structural preservation appears during projection from multiple organizational layers, including:
 
-• research assets
-• repository structures
-• historical reconstructions
-• operational roles
+* research assets
+* repository structures
+* historical reconstructions
+* operational roles
 
 This raises the provisional possibility that the observed developmental topology reflects a more general projection invariant rather than an asset-specific characteristic.
 
