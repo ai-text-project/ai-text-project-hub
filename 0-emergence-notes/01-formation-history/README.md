@@ -64,7 +64,7 @@ Formation History therefore serves as an intermediate historical layer connectin
 ## Current Documents
 
 * 00 — From Storage to Research Space
-- * From Storage to Research Space — Working Manuscript**  
+* From Storage to Research Space — Working Manuscript**  
   https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/01-papers/0-overview-papers/from-storage-to-research-space/manuscript.md
 
 ---
