@@ -138,3 +138,13 @@ Within the Research Program Formation History layer, it serves as the current re
 
 This document records the historical significance of the first integrated formation-history paper rather than the paper itself, linking the manuscript to the broader evolution of the research program.
 
+---
+
+## Related Documents
+
+This Formation History note corresponds to the following working manuscript in the Dialogue Repository:
+
+- **Working Manuscript:** [From Storage to Research Space](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/01-papers/0-overview-papers/from-storage-to-research-space/manuscript.md)
+
+- 
+
