@@ -93,11 +93,3 @@ This section is expected to evolve as additional historical reconstructions beco
 
 ---
 
-## Related Dialogue Repository
-
-This Formation History section is accompanied by a corresponding paper workspace in the Dialogue Repository.
-
-→ **Formation History (Dialogue Repository)**
-
-https://github.com/ai-text-project/dialogue-phase-reasoning/tree/main/01-papers/0-overview-papers/from-storage-to-research-space
-
