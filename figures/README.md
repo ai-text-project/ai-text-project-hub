@@ -52,7 +52,7 @@ For the methodology used to transform conceptual structures into visual artifact
 
 This figure illustrates the workflow used to transform conceptual structures into visual artifacts.
 
-![Diagram Generation Workflow](Diagram-generation-workflow-B-E.png)
+![Diagram Generation Workflow](Diagram-Generation-Workflow-Mode-B-E.png)
 
 ---
 
