@@ -20,6 +20,18 @@ Instead, this document organizes an evaluation methodology derived from the obse
 
 ---
 
+## Working Operational Diagram
+
+The following diagram summarizes the overall evaluation framework presented in this document.
+
+![Topology Evaluation Framework](../figures/Topology_Evaluation_Framework-rv1.png)
+
+---
+
+## Background
+
+---
+
 ## Background
 
 Previous documents established that comparable developmental topology appeared across multiple observational domains.
