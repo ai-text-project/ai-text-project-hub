@@ -26,9 +26,6 @@ The following diagram summarizes the overall evaluation framework presented in t
 
 ![Topology Evaluation Framework](../figures/Topology_Evaluation_Framework-rv1.png)
 
----
-
-## Background
 
 ---
 
