@@ -39,3 +39,25 @@ The following topics are outside the scope of this section:
 ### 04. Harvest Strategy Emergence
 
 ### 05. Role Specialization: Harvest Strategist
+
+
+---
+
+## Observation Categories
+
+The documents in this directory are organized not only chronologically but also according to the primary object of observation.
+
+The category tags indicate the principal aspect of Research Program Evolution recorded by each document.
+
+| Tag      | Category             | Description                                                                            |
+| -------- | -------------------- | -------------------------------------------------------------------------------------- |
+| **[FH]** | Formation History    | Historical reconstruction and development of the research space and research program   |
+| **[RL]** | Role Evolution       | Emergence, specialization, and evolution of operational roles                          |
+| **[GV]** | Governance           | Governance formation, operational continuity, and organizational stabilization         |
+| **[PP]** | Placement Principle  | Development and operationalization of the Placement Principle                          |
+| **[AL]** | Architectural Layer  | Evolution of repository architecture and recording structures                          |
+| **[ML]** | Methodological Layer | Emergence of observation methodology, evaluation frameworks, and observation protocols |
+
+These tags complement the chronological numbering by providing a second organizational dimension based on the primary object of observation.
+
+
