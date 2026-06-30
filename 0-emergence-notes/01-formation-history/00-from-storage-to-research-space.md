@@ -105,9 +105,21 @@ from-storage-to-research-space/
 The historical formation process underlying this paper is documented in:
 
 * Case61 — Historical Reconstruction
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/case-61-historical-reconstruction-of-research-program-formation.md
+
 * Case62 — Paper Assembly
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/case-62-Paper-Assembly-as-Historical-Recon.md
+
 * Case63 — Cross-Layer Placement Principle
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/case-63-Recognition-of-the-Placement-Principle-as-cross-layer.md
+
 * Case64 — Historical Consistency Review
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/case-64-Historical-Consistency-Review-as-Formation-Hist.md
+
 
 ### Related Research Program Evolution
 
