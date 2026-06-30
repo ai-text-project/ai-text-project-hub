@@ -205,8 +205,17 @@ The question gradually emerged through the following observations:
 ### Related Meta Cases
 
 - Meta Case 01
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/01-meta-case-01.md
+
 - Meta Case 01A
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/02-meta-case-01A-supplementary.md
+
 - Meta Case 01B
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/03-meta-case-01B-architecture-loop.md
+
 
 These observations collectively suggested that research environments may support not only preservation and reconstruction, but also adaptive placement of newly emerging structures.
 
