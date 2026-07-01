@@ -106,4 +106,4 @@ Subject to refinement through continued repository evolution.
 
 ---
 
-## Note note: rReference to Case 78 
+## Note note: Reference to Case 78 
