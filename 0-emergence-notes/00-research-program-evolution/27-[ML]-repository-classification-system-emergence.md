@@ -103,3 +103,5 @@ Possible developments include:
 Working Memorandum
 
 Subject to refinement through continued repository evolution.
+
+Note note: rReference to Case 78 
