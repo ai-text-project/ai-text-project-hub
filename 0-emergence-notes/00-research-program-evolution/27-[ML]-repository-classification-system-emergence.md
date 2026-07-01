@@ -75,6 +75,15 @@ This document builds upon:
 
 Together these documents describe the gradual maturation of repository organization into an explicit methodological framework.
 
+This document should also be understood within the broader methodological context established by:
+
+- Beyond Prompting: AI as a Structural Observation Partner
+
+The repository classification system may be interpreted as one operational consequence of the observation-centered dialogue methodology described therein.
+
+The precise relationship remains under observation.
+
+
 ---
 
 ## Current Interpretation
@@ -95,6 +104,8 @@ Possible developments include:
 - multi-dimensional classification
 - complementary visualization of repository topology
 - integration with future observation protocols
+
+Future observations may also clarify how dialogue-based structural observation contributes to the emergence of repository-level methodologies.
 
 ---
 
