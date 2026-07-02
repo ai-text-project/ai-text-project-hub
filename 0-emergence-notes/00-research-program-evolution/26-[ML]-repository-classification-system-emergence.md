@@ -128,3 +128,11 @@ Scalable Research Infrastructure
 Provisional Observation
 
 Subject to refinement through future repository development.
+
+---
+## Related Documents
+
+* Repository Classification Integration
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/07-%5BMM%5D-repository-classification-integration.md
+
