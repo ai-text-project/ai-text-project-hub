@@ -30,6 +30,16 @@ This document records that overall architecture.
 
 ---
 
+
+## Methodological Architecture Overview
+
+![Methodological Architecture of Structural Observation](../figures/Figure_Methodology-rv1.png)
+
+*Figure 1. High-level methodological architecture of structural observation. The diagram summarizes the relationships among the major methodological components described in this document.*
+
+---
+
+
 # Methodological Architecture
 
 The Structural Observation Methodology currently consists of three complementary layers.
