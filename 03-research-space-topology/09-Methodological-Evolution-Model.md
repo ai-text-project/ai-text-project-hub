@@ -139,9 +139,21 @@ Accordingly, methodology is interpreted as a continuously developing component o
 This document builds upon:
 
 - 05 — Topology Evaluation Framework
+
+https://github.com/ai-text-project/ai-text-project-hub/blob/main/03-research-space-topology/05-Topology-Evaluation-Framework.md
+
 - 06 — Topology Preservation Observation Criteria
+
+https://github.com/ai-text-project/ai-text-project-hub/blob/main/03-research-space-topology/06-Topology-Preservation-Observation-Criteria.md
+
 - 07 — Topology Observation Protocol
+
+https://github.com/ai-text-project/ai-text-project-hub/blob/main/03-research-space-topology/07-Topology-Observation-Protocol.md
+
 - 08 — Structural Observation Methodology
+
+https://github.com/ai-text-project/ai-text-project-hub/blob/main/03-research-space-topology/08-Structural-Observation-Methodology.md
+
 
 Whereas the preceding documents describe the formation of methodological components, the present document provisionally describes how those components may continue to evolve through repeated application.
 
