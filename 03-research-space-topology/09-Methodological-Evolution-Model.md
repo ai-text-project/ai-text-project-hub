@@ -57,6 +57,15 @@ Current observations suggest that methodological development does not terminate 
 
 Instead, repeated application of the methodology appears to generate further methodological refinement.
 
+## Methodological Evolution Overview
+
+The provisional developmental model discussed below is summarized in the following figure.
+
+![Methodological Evolution Model](../figures/Methodology-Evolution-Model.png)
+
+*Figure 1. Provisional Methodological Evolution Model illustrating how repeated structural observation may progressively refine and stabilize the Structural Observation Methodology.*
+
+
 A provisional interpretation is therefore:
 
 ```text
