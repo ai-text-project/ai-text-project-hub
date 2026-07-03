@@ -220,3 +220,12 @@ Working Development Model
 Provisional
 
 Subject to refinement through continued structural observation.
+
+
+---
+
+## Related Important Documents
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/11-%5BMM%5D-methodological-architecture-mapper-emergence.md
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/005-methodological-layer-working-map.md
