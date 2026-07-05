@@ -119,19 +119,3 @@ Accordingly, the figures should be regarded as continuously evolving research as
 
 ---
 
-# Related Documents
-
-For detailed explanations of the architecture:
-
-* [Research Architecture](../README.md)
-* [Observation Layers](../01-observation-layers.md)
-* [Case Lifecycle](../02-case-lifecycle.md)
-* [Research-Space Evolution](../03-research-space-evolution.md)
-
----
-
-# Notes
-
-Figures in this directory are maintained as navigational and explanatory resources supporting the Research Architecture layer.
-
-They should be interpreted together with the accompanying architecture documents rather than as standalone theoretical statements.
