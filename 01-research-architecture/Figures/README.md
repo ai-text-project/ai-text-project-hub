@@ -12,7 +12,7 @@ The figures are intended as navigational and explanatory resources rather than f
 
 ## Research Architecture Map v0.3 (Provisional)
 
-![Research Architecture Map v0.3](Figures/research-architecture-map-v0.3-rv1.png)
+![Research Architecture Map v0.3](research-architecture-map-v0.3-rv1.png)
 
 *Figure 1. Research Architecture Map v0.3 (Provisional). The diagram integrates the current structural organization of the research space with the provisional methodological evolution model.*
 
