@@ -93,7 +93,7 @@ The current version should be understood as a working interpretation rather than
 - [Case Lifecycle](../02-case-lifecycle.md)
 - [Research-Space Evolution](../03-research-space-evolution.md)
 
--[(09-Methodological-Evolution-Model.md] (../09-Methodological-Evolution-Model.md]
+-[(09-Methodological-Evolution-Model.md] (../09-Methodological-Evolution-Model.md)
 https://github.com/ai-text-project/ai-text-project-hub/blob/main/03-research-space-topology/09-Methodological-Evolution-Model.md
 
 ## Research Space Topology
