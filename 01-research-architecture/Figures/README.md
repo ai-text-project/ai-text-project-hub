@@ -12,7 +12,7 @@ The figures are intended as navigational and explanatory resources rather than f
 
 ## Research Architecture Map v0.3 (Provisional)
 
-![Research Architecture Map v0.3](Research_Architecture_Map-v0.3-rv1.png)
+![Research Architecture Map v0.3](../research-architecture-map-v0.3-rv1.png)
 
 The current Research Architecture integrates two complementary perspectives.
 
