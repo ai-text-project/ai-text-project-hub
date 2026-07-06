@@ -229,3 +229,11 @@ Further evolution may occur as additional repository-management procedures emerg
 
 The Placement Protocol emerged as the operational extension of the Placement Principle, transforming an organizational observation into a repeatable repository decision procedure and ultimately into a visual operational system.
 
+---
+## Related Documents
+
+* Meta Case 71 — Observation Criteria Emergence
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/06-meta-case71-observation-criteria-emergence.md
+
+
