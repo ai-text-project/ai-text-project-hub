@@ -211,6 +211,62 @@ Methodological Evolution
 
 The present document therefore represents a developmental interpretation rather than an endpoint.
 
+
+---
+
+Current Methodological Meta Cases suggest that
+the Structural Observation Methodology established
+in Document 08 may itself contain an internal
+organizational structure.
+
+Current observations provisionally indicate two
+complementary developmental series.
+
+Formation
+
+↓
+
+Operational Projection
+
+──────────
+
+Operation
+
+↓
+
+Comparative Review Procedure
+
+Further observation is required before this
+organizational interpretation should be regarded
+as stable.
+
+Current Methodological Meta Cases suggest that
+the Structural Observation Methodology established
+in Document 08 may itself contain an internal
+organizational structure.
+
+Current observations provisionally indicate two
+complementary developmental series.
+
+Formation
+
+↓
+
+Operational Projection
+
+──────────
+
+Operation
+
+↓
+
+Comparative Review Procedure
+
+Further observation is required before this
+organizational interpretation should be regarded
+as stable.
+
+
 ---
 
 ## Status
