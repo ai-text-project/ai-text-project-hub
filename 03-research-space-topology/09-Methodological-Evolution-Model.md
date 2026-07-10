@@ -107,7 +107,29 @@ Criteria / Protocol Updates
         │
         ▼
 
+---
+
+## Proposed Future Extension (Provisional)
+
+A possible future extension of the current conceptual sequence is illustrated below.
+
+```text
 Methodological Stabilization
+
+        ⋮
+
+Operational Projection
+
+        ⋮
+
+Operational Assets
+```
+
+The dotted connections intentionally indicate a **provisional hypothesis** rather than an established developmental sequence.
+
+This extension suggests that accumulated methodological stabilization may eventually project into reusable operational assets.
+
+Further observation and validation are required before this sequence can be regarded as an established component of the research architecture.
 
 ==========================
 (Provisional Development Model)
