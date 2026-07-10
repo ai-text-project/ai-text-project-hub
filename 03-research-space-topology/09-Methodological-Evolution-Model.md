@@ -65,7 +65,6 @@ The provisional developmental model discussed below is summarized in the followi
 
 *Figure 1. Provisional Methodological Evolution Model illustrating how repeated structural observation may progressively refine and stabilize the Structural Observation Methodology.*
 
-
 A provisional interpretation is therefore:
 
 ```text
@@ -107,13 +106,6 @@ Criteria / Protocol Updates
         │
         ▼
 
----
-
-## Tentative Developmental Extension
-
-The current observations suggest a possible extension beyond the present methodological framework.
-
-```text
 Methodological Stabilization
 
         ⋮
@@ -123,13 +115,6 @@ Operational Projection
         ⋮
 
 Operational Assets
-```
-
-The dotted connections represent a **tentative developmental hypothesis**.
-
-At present, this sequence should be interpreted as a possible future organizational pathway rather than as a confirmed methodological model.
-
-Its inclusion is intended to support future observation and discussion while clearly distinguishing established components from provisional interpretations.
 
 ==========================
 (Provisional Development Model)
@@ -137,6 +122,18 @@ Its inclusion is intended to support future observation and discussion while cle
 ```
 
 ---
+
+## Tentative Developmental Extension
+
+The transition from **Methodological Stabilization** toward **Operational Projection** and **Operational Assets** is intentionally illustrated using dotted connections.
+
+These dotted connections represent a **provisional developmental hypothesis** rather than an established methodological sequence.
+
+Current observations suggest that sustained methodological stabilization may eventually support the projection of operational procedures into reusable operational assets.
+
+At present, however, this interpretation remains provisional.
+
+Further observation is required before these stages can be incorporated into the stable methodological framework.
 
 ## Operational Projection
 
