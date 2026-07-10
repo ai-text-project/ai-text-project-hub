@@ -214,6 +214,9 @@ The present document therefore represents a developmental interpretation rather 
 
 ---
 
+## Emerging Internal Organization
+
+
 Current Methodological Meta Cases suggest that
 the Structural Observation Methodology established
 in Document 08 may itself contain an internal
