@@ -117,7 +117,7 @@ The design rationale is documented separately in the accompanying Design Memo.
 
 For a visual overview of the operational protocol:
 
-![Topology Preservation Protocol](../figures/Topology-preservation-protocol.png)
+![Topology Preservation Protocol](../figures/08b-topology-preservation-protocol.png)
 
 ---
 
