@@ -109,9 +109,9 @@ Criteria / Protocol Updates
 
 ---
 
-## Proposed Future Extension (Provisional)
+## Tentative Developmental Extension
 
-A possible future extension of the current conceptual sequence is illustrated below.
+The current observations suggest a possible extension beyond the present methodological framework.
 
 ```text
 Methodological Stabilization
@@ -125,11 +125,11 @@ Operational Projection
 Operational Assets
 ```
 
-The dotted connections intentionally indicate a **provisional hypothesis** rather than an established developmental sequence.
+The dotted connections represent a **tentative developmental hypothesis**.
 
-This extension suggests that accumulated methodological stabilization may eventually project into reusable operational assets.
+At present, this sequence should be interpreted as a possible future organizational pathway rather than as a confirmed methodological model.
 
-Further observation and validation are required before this sequence can be regarded as an established component of the research architecture.
+Its inclusion is intended to support future observation and discussion while clearly distinguishing established components from provisional interpretations.
 
 ==========================
 (Provisional Development Model)
