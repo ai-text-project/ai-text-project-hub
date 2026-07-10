@@ -116,6 +116,46 @@ Methodological Stabilization
 
 ---
 
+## Operational Projection
+
+Recent observations suggest that methodological
+development may give rise to a subsequent
+operational projection layer.
+
+Rather than extending the methodology itself,
+this layer translates stabilized methodological
+components into reusable operational assets.
+
+Examples include:
+
+- Operational SOPs
+- Design Memos
+- Operational Protocols
+- Workflow Diagrams
+
+Accordingly, the current observations provisionally
+suggest the following distinction:
+
+Methodological Formation
+
+↓
+
+Methodological Stabilization
+
+↓
+
+Operational Projection
+
+↓
+
+Operational Assets
+
+Further observations are required before this
+developmental interpretation should be regarded
+as stable.
+
+---
+
 ## Interpretation
 
 This interpretation suggests that methodology itself may gradually become an evolving observational object.
