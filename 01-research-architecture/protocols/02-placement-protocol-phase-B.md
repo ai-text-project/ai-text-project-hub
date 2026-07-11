@@ -123,4 +123,36 @@ Place the research asset into the selected repository location while preserving 
 - Repository asset placed
 - Organizational placement completed
 
+### Step 5 — Consistency Verification
+
+#### Objective
+
+Verify that the completed repository placement preserves organizational consistency across the research environment.
+
+---
+
+#### Input
+
+- Placed research asset
+- Repository organization
+- Related organizational assets
+
+---
+
+#### Procedure
+
+1. Confirm that the asset has been placed in the intended repository location.
+2. Verify consistency with related documents and organizational structures.
+3. Confirm that repository relationships remain coherent.
+4. Review cross-references for completeness and consistency.
+5. Revise the placement if organizational inconsistencies are identified.
+
+---
+
+#### Output
+
+- Verified repository placement
+- Confirmed organizational consistency
+
+
 
