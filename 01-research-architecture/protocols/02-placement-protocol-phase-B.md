@@ -29,3 +29,34 @@ Identify the research asset that requires repository placement.
 
 - Identified research asset
 - Asset prepared for placement evaluation
+
+### Step 2 — Role Identification
+
+#### Objective
+
+Identify the primary organizational role of the asset before determining its repository placement.
+
+---
+
+#### Input
+
+- Identified research asset
+- Supporting organizational context (if available)
+
+---
+
+#### Procedure
+
+1. Review the primary purpose of the asset.
+2. Identify the asset's principal organizational role.
+3. Distinguish the primary role from any secondary functions.
+4. Confirm that the identified role is consistent with the accumulated organizational observations.
+5. Prepare the asset for repository placement evaluation.
+
+---
+
+#### Output
+
+- Identified organizational role
+- Asset prepared for placement evaluation
+
