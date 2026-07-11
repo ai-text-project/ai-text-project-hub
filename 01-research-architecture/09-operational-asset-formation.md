@@ -207,3 +207,9 @@ Working Development Record
 Provisional
 
 Subject to refinement through continued operational observation.
+
+
+## Related Documents
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/18-%5BMM%5D-operational-protocol-formation.md
+
