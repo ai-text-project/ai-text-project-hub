@@ -91,3 +91,36 @@ Evaluate the most appropriate repository location based on the identified organi
 
 - Evaluated repository location
 - Placement decision prepared for implementation
+
+
+### Step 4 — Repository Placement
+
+#### Objective
+
+Place the research asset into the selected repository location while preserving organizational consistency.
+
+---
+
+#### Input
+
+- Research asset
+- Evaluated repository location
+
+---
+
+#### Procedure
+
+1. Place the asset in the selected repository location.
+2. Apply the established repository organization.
+3. Maintain consistency with related organizational structures.
+4. Preserve existing repository relationships during placement.
+5. Complete the placement operation.
+
+---
+
+#### Output
+
+- Repository asset placed
+- Organizational placement completed
+
+
