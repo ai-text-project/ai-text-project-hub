@@ -60,3 +60,34 @@ Identify the primary organizational role of the asset before determining its rep
 - Identified organizational role
 - Asset prepared for placement evaluation
 
+
+### Step 3 — Placement Evaluation
+
+#### Objective
+
+Evaluate the most appropriate repository location based on the identified organizational role of the asset.
+
+---
+
+#### Input
+
+- Identified research asset
+- Identified organizational role
+- Current repository organization
+
+---
+
+#### Procedure
+
+1. Review the current repository structure.
+2. Identify candidate repository locations consistent with the organizational role.
+3. Compare the candidate locations with existing organizational patterns.
+4. Evaluate whether the proposed placement preserves repository consistency.
+5. Select the most appropriate repository location for implementation.
+
+---
+
+#### Output
+
+- Evaluated repository location
+- Placement decision prepared for implementation
