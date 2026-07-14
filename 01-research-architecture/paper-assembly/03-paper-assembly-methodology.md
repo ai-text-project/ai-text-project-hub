@@ -26,6 +26,17 @@ The methodology therefore represents the final organizational layer emerging fro
 
 ---
 
+## Paper Assembly Methodology Overview
+
+The overall organizational workflow described in this document is summarized in the following figure.
+
+![Paper Assembly Methodology](Paper-Assembly-Methdology-figure.png)
+
+*Figure 1. Paper Assembly Methodology. The figure illustrates the observed organizational progression through which accumulated observational assets are progressively transformed into a completed scholarly manuscript while preserving structural consistency and observational traceability.*
+
+
+---
+
 # Methodological Development
 
 The observed Paper Assembly process suggests that manuscript production progressed through a series of progressively stabilized organizational layers.
