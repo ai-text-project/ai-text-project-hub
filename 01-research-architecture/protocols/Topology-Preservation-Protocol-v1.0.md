@@ -56,11 +56,6 @@ The overall operational workflow defined by this protocol is summarized in the f
 
 *Figure 1. Topology Preservation Protocol v1.0. The figure provides an overview of the operational workflow for generating diagrams while preserving the structural topology of the original source material across different levels of abstraction.*
 
----
-
-# Phase A — Foundation
-
-
 
 ---
 
