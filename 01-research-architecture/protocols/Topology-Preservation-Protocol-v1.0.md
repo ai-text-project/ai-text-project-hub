@@ -52,7 +52,7 @@ Before execution, the following conditions should be satisfied:
 
 The overall operational workflow defined by this protocol is summarized in the following figure.
 
-![Topology Preservation Protocol](../figures/08b-topology-preservation-protocol.png)
+![Topology Preservation Protocol](../../figures/08b-topology-preservation-protocol.png)
 
 *Figure 1. Topology Preservation Protocol v1.0. The figure provides an overview of the operational workflow for generating diagrams while preserving the structural topology of the original source material across different levels of abstraction.*
 
