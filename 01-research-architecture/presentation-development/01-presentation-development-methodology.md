@@ -12,6 +12,15 @@ Accordingly, the methodology presented here should be regarded as an observation
 
 ---
 
+# Presentation Development Methodology
+
+![Presentation Development Methodology](Figures/Presentation-Development-Methodology.png)
+
+*Figure 1.
+Presentation Development Methodology illustrating how Research Architecture is progressively transformed into Audience Mental Models through structured organizational layers.*
+
+
+
 # Observational Foundation
 
 The present methodology is derived from the following completed observational assets.
