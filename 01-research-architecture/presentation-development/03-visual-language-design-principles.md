@@ -10,7 +10,7 @@ Rather than prescribing graphic styles, it establishes a consistent semantic rel
 
 ## Overview
 
-![Visual Language Design Principles](../figures/visual-language-design-principles.png)
+![Visual Language Design Principles](../../figures/Visual-09-JP.png)
 
 *Figure 1. Visual Language Design Principles for the Enterprise Collaboration Edition.*
 
