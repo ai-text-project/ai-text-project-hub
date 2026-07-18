@@ -10,6 +10,8 @@
 *Figure 1. Meta Visual（Abstract Figure）*
 
 
+---
+
 ## 共に学び、価値を創る長期協働の地図
 
 本ページでは、本Research Program全体を一枚の構造として表現した **Meta Visual（Abstract Figure）** をご紹介します。
