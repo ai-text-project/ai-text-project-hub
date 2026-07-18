@@ -1,1 +1,87 @@
-Place holder
+# Presentation for Enterprise Audience
+
+## はじめに
+
+このページをご覧いただき、ありがとうございます。
+
+本ページでは、企業の皆様に向けて、私たちが取り組んでいる **Human–AI Collaboration Research Program** の概要をご紹介しています。
+
+本研究は、一方向に研究成果を説明することを目的としていません。
+
+企業が持つ実践知と、研究成果を比較しながら共に学び、新たな知見や価値を形成する **Enterprise Comparative Dialogue（比較対話）** を中心とした協働環境の構築を目指しています。
+
+---
+
+# ご覧いただく順序
+
+初めてご覧いただく場合は、以下の順番をおすすめします。
+
+1. Executive Summary
+2. Meta Visual
+3. Presentation
+4. 必要に応じて Research Program
+
+---
+
+## 1. Executive Summary
+
+まずは研究全体の概要をご覧ください。
+
+- 研究の目的
+- 比較対話という考え方
+- 長期協働の考え方
+
+を短時間で把握していただけます。
+
+→ **01-executive-summary.md**
+
+---
+
+## 2. Meta Visual
+
+Executive Summaryをご覧いただいた後に、研究全体を一枚で俯瞰できるMeta Visualをご覧ください。
+
+Meta Visualは、研究成果を要約したものではなく、
+
+企業と研究者が継続的な比較対話を通じて共に学び、価値を創造していく協働環境全体を表現したAbstract Figureです。
+
+→ **02-meta-visual.md**
+
+---
+
+## 3. Presentation
+
+より詳しい内容をご覧になりたい場合は、Presentationをご覧ください。
+
+Presentationでは、
+
+- 背景
+- 課題
+- 比較対話
+- Human–AI Collaboration
+- 将来の協働可能性
+
+についてご紹介しています。
+
+→ **presentations/**
+
+---
+
+# ご関心をお持ちいただけましたら
+
+本Research Programでは、
+
+企業との比較対話を通じて、
+
+- 現場での実践知
+- AI活用の経験
+- Human–AI Collaboration
+- 長期的な協働
+
+について意見交換を行っています。
+
+もしご関心をお持ちいただけましたら、ぜひ比較対話の機会をいただけますと幸いです。
+
+---
+
+ありがとうございます。
