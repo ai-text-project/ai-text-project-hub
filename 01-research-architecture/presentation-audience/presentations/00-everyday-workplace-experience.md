@@ -32,4 +32,4 @@
 
 ## 次にご覧ください
 
-→ 01-operational-challenge.md
+→ **[01-operational-challenge](01-operational-challenge.md)**
