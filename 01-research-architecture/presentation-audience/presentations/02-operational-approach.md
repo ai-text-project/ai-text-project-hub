@@ -63,5 +63,4 @@
 
 ## 次にご覧ください
 
-→ **03-shared-knowledge.md**
-→ **[03-shared-knowledge](03-shared-knowledge.md)**
+→ **[03-collaborative-outcomes](03-collaborative-outcomes.md)**
