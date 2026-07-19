@@ -63,4 +63,4 @@
 
 ## 次にご覧ください
 
-→ **07-research-program.md**
+→ **[07-collaborative-operational-environment](07-collaborative-operational-environment.md)**
