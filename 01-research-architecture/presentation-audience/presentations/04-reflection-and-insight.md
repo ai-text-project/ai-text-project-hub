@@ -67,4 +67,4 @@
 
 ## 次にご覧ください
 
-→ **05-sustained-collaboration.md**
+→ **[05-collaboration-journey](05-collaboration-journey.md)**
