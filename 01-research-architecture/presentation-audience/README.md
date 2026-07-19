@@ -10,6 +10,12 @@
 
 企業が持つ実践知と、研究成果を比較しながら共に学び、新たな知見や価値を形成する **Enterprise Comparative Dialogue（比較対話）** を中心とした協働環境の構築を目指しています。
 
+本フォルダは、企業・研究機関・共同研究をご検討いただく皆様に向けた **Research Programへの入口（Entry Point）** として構成しています。
+
+Executive SummaryからPresentationまでを順にご覧いただくことで、本Research Programの考え方や協働環境の全体像をご理解いただけます。
+
+さらにご関心をお持ちいただけましたら、Research ArchitectureやDevelopment Historyなどの研究資料もあわせてご覧いただくことで、本Research Programがどのような過程を経て形成されてきたのかをご確認いただけます。
+
 ---
 
 # ご覧いただく順序
