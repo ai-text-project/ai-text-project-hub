@@ -39,7 +39,7 @@ Executive SummaryからPresentationまでを順にご覧いただくことで、
 
 を短時間で把握していただけます。
 
-→ **01-executive-summary.md**
+→ **[01. Executive Summary](01-executive-summary.md)**
 
 ---
 
@@ -51,7 +51,7 @@ Meta Visualは、研究成果を要約したものではなく、
 
 企業と研究者が継続的な比較対話を通じて共に学び、価値を創造していく協働環境全体を表現したAbstract Figureです。
 
-→ **02-meta-visual.md**
+→ **[02. Meta Visual](02-meta-visual.md)**
 
 ---
 
@@ -69,7 +69,8 @@ Presentationでは、
 
 についてご紹介しています。
 
-→ **presentations/**
+
+→ **[Presentation](presentations/README.md)**
 
 ---
 
