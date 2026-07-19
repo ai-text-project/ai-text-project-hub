@@ -64,4 +64,4 @@
 
 ## 次にご覧ください
 
-→ **08-learning-resources.md**
+→ **[08-learning-ecosystem](08-learning-ecosystem.md)**
