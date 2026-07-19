@@ -88,3 +88,5 @@ Presentationはここで一区切りとなります。
 - Development History
 
 などの関連資料もぜひご参照ください。
+
+→ **[06-shared-knowledge-ecosystem](06-shared-knowledge-ecosystem.md)**
