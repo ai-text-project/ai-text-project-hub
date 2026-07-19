@@ -55,23 +55,41 @@ Meta Visualは、研究成果を要約したものではなく、
 
 ---
 
-## 3. Presentation
+## 3. Presentation Guide
 
-より詳しい内容をご覧になりたい場合は、Presentationをご覧ください。
+Presentationをご覧いただく前に、Presentation Guideをご覧いただくことをおすすめします。
 
-Presentationでは、
+Presentation Guideでは、
 
-- 背景
-- 課題
-- 比較対話
+- Presentation全体の構成
+- 各Visualの役割
+- どのような流れで読み進めるか
+
+を簡潔にご紹介しています。
+
+→ **[03. Presentation Guide](03-presentation-guide.md)**
+
+---
+
+## 4. Presentation
+
+Presentationでは、本Research Programの背景から将来の協働可能性までを段階的にご紹介しています。
+
+内容には、
+
+- Operational Challenge
+- Comparative Dialogue
 - Human–AI Collaboration
-- 将来の協働可能性
+- Shared Knowledge Ecosystem
+- Long-term Collaboration
 
-についてご紹介しています。
+などが含まれています。
 
+Presentation一覧はこちらからご覧いただけます。
 
 → **[Presentation](presentations/README.md)**
 
+---
 ---
 
 # ご関心をお持ちいただけましたら
