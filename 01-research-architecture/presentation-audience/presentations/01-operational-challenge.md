@@ -66,4 +66,4 @@ AI研究や研究開発では、次のような課題が見られます。
 
 ## 次にご覧ください
 
-→ **[02-comparative-dialogue](02-comparative-dialogue.md)**
+→ **[02-operational-approach](02-operational-approach.md)**
