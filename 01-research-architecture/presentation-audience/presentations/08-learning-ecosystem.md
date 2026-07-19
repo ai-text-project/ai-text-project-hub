@@ -69,4 +69,4 @@ AI Textbookは、対話を通じて生まれた概念や方法論を体系的に
 
 ## 次にご覧ください
 
-→ **09-meta-visual.md**
+→ **[09-visual-language-design](09-visual-language-design.md)**
