@@ -103,7 +103,7 @@ Research Mapを作成する
 
 次のスライドでは **Collaboration Framework** を紹介し、役割分担・対話・運営プロセス・実践プロトコルを通じて、持続可能な共同研究をどのように支えるかを示します。
 
-
+→ **[07-collaboration-framework](07-collaboration-framework.md)**
 
 
 
