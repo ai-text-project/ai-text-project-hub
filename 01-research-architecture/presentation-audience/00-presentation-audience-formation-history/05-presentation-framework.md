@@ -1,6 +1,5 @@
 # Presentation Framework Expansion
-
-# Task Report for Harvest Strategist v2 (Provisional)
+## Task Report for Harvest Strategist v2 (Provisional)
 
 ## Subject
 
