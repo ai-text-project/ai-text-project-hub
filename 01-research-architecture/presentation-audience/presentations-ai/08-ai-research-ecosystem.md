@@ -95,3 +95,110 @@ AI研究エコシステムは、一つの完成形ではありません。
 本Presentationで紹介した各Visualは、このエコシステムを構成する一つひとつの要素を示しています。
 
 今後も、多様な研究者・研究機関との対話を重ねながら、新たな知識と価値を共創する研究コミュニティを育てていくことを目指しています。
+
+
+ーーー
+
+# AI Research Ecosystem
+
+## Purpose
+
+This slide integrates the preceding dialogue, Research Mapping, and Collaboration Framework into a unified vision of a sustainable AI Research Ecosystem.
+
+Rather than focusing solely on individual research outcomes, it illustrates how continuous dialogue, shared knowledge, collaborative research, and societal contribution together create an environment where long-term research can continuously evolve.
+
+The objective is to present a future-oriented research ecosystem in which collaborative knowledge creation becomes an ongoing process rather than a series of isolated projects.
+
+---
+
+## Key Message
+
+The value of AI research is maximized not only through individual scientific achievements, but through a sustainable ecosystem that continuously connects researchers, knowledge, society, and collaborative practice.
+
+Dialogue initiates collaboration, collaboration generates knowledge, knowledge creates societal value, and these experiences collectively contribute to the long-term growth of the research community.
+
+---
+
+![AI Research Ecosystem](../presentation-figures/Visual-08-JP-ai.png)
+
+*Figure 8. AI Research Ecosystem illustrating how continuous dialogue, collaborative research, shared knowledge, and societal contribution together form a sustainable research ecosystem.*
+
+---
+
+## Reading the Figure
+
+The left panel summarizes the shared understanding established through the previous dialogue.
+
+Participants have:
+
+- Shared common research challenges
+- Organized collaborative approaches
+- Identified opportunities for future collaboration
+- Deepened mutual understanding through reflection
+- Envisioned future collaborative research
+
+These shared observations provide the foundation for the AI Research Ecosystem presented in this slide.
+
+The central framework illustrates five complementary elements that support a sustainable research ecosystem.
+
+1. Build open and trusted relationships.
+2. Connect knowledge and create new value.
+3. Expand research outcomes through collaboration.
+4. Learn and grow together.
+5. Deliver societal impact.
+
+Rather than representing a linear process, these elements continuously reinforce one another, enabling the research community to evolve over time.
+
+The right panel presents the long-term vision supported by this ecosystem.
+
+These include:
+
+- Sustainable collaborative partnerships
+- Societal impact
+- Mutual growth within the research community
+- Contributions to future generations
+- Creation of new research opportunities
+
+The lower section summarizes the core values that support this ecosystem.
+
+These include:
+
+- Trust and mutual respect
+- Transparency and fairness
+- Shared purpose
+- Continuous improvement
+- Co-creation and mutual benefit
+
+Finally, the practical progression presented at the bottom illustrates how collaborative research can evolve in practice.
+
+Select priority research themes
+
+↓
+
+Develop collaborative research plans
+
+↓
+
+Conduct and share collaborative research
+
+↓
+
+Evaluate and learn
+
+↓
+
+Expand research outcomes and future opportunities
+
+This progression demonstrates that the AI Research Ecosystem is not a fixed destination, but an evolving environment that continuously supports collaborative research.
+
+---
+
+## Conclusion
+
+The AI Research Ecosystem is not a finished structure.
+
+It continuously evolves through dialogue, Research Mapping, collaborative practice, and shared learning.
+
+Each Visual presented throughout this Presentation represents one component of this evolving ecosystem.
+
+By strengthening collaboration among researchers, research institutions, and society, the ecosystem provides a foundation for creating new knowledge, generating long-term value, and expanding the future possibilities of AI research.
