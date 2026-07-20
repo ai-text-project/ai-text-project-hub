@@ -1,7 +1,6 @@
 # Enterprise Operational Readiness
 (## Operational Readiness Report)
 
----
 
 ## Enterprise Collaboration Operations Manager
 ### Submitted to: Harvest Strategist v2
