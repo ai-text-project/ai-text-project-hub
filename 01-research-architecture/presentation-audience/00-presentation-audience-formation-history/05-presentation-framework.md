@@ -1,6 +1,7 @@
 # Presentation Framework Expansion
 ## Task Report for Harvest Strategist v2 (Provisional)
 
+---
 ## Subject
 
 Establishment of a Pre-Release Quality Review Process for the Enterprise Presentation Package
