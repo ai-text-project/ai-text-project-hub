@@ -44,6 +44,11 @@ The Research Program therefore operates as a continuous learning system.
 
 # Operational Cycle
 
+![Research Program Operational Cycle](Figures/Research-Program-Operational-Cycle.png)
+
+*Figure 1. Research Program Operational Cycle illustrating how research assets continuously evolve through communication, dialogue, observation, reflection, comparative review, and Research Program evolution.*
+
+
 ```text
 Research Program
         │
