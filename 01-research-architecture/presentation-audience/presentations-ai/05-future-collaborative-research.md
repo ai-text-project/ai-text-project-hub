@@ -18,6 +18,12 @@ Long-term collaboration enables not only scientific progress but also continuous
 
 ---
 
+![Future Collaborative Research](../presentation-figures/Visual-05-JP-ai.png)
+
+*Figure 5. Future Collaborative Research illustrating how shared observations may gradually develop into long-term collaborative research through joint planning, execution, continuous learning, and value creation.*
+
+---
+
 ## Reading the Figure
 
 The left panel summarizes the outcomes of the preceding dialogue.
