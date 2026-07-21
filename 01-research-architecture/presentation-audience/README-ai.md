@@ -88,7 +88,7 @@ Presentationでは、本Research Programの背景、研究上の位置付け、H
 
 Presentation一覧はこちらからご覧いただけます。
 
-→ **[Presentation-ai](presentations-ai/README.md)**
+→ **[Research Presentation](presentations-ai/README.md)**
 
 
 Presentationをご覧いただいた後、ご関心をお持ちいただけましたら、
