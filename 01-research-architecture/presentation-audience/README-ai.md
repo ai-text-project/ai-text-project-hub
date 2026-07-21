@@ -91,7 +91,13 @@ Presentation一覧はこちらからご覧いただけます。
 → **[Presentation-ai](presentations-ai/README.md)**
 
 
-Presentationをご覧いただいた後、ご関心をお持ちいただけましたら、Research Architecture、Development History、Research Papersなどの研究資料も公開しております。
+Presentationをご覧いただいた後、ご関心をお持ちいただけましたら、
+
+- Research Papers
+- Research Architecture
+- Development History
+
+などの研究資料も公開しております。
 
 本Research Programがどのような過程を経て形成されてきたのかも併せてご覧いただけます。
 
