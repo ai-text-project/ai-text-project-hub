@@ -16,7 +16,7 @@
 
 ![Visual 0](../presentation-figures/Visual-00-Eng.png)
 
-*Figure 1. Everyday Workplace Experience*
+*Figure 0. Everyday Workplace Experience*
 
 ---
 
