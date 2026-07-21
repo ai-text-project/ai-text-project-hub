@@ -126,8 +126,3 @@ Meta Visualは、
 
 ---
 
-# 次にご覧ください
-
-より具体的な内容につきましては、Presentationをご覧ください。
-
-→ **presentations/**
