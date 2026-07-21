@@ -2,11 +2,14 @@
 
 ツリー全体を拝見すると、現在の配置は
 
+```text
+
 01-research-architecture
     └── Figures
             ├── Research Architecture Map v0.3
             └── Research Program Operational Cycle
 
+```
 になっています。
 
 しかし、この2枚は同じ種類の図ではありません。
@@ -32,7 +35,10 @@ Research Program Operation
 説明対象が一段上です。
 
 
+
 v0.3 が扱うもの
+
+```text
 Dialogue
 ↓
 
@@ -49,6 +55,7 @@ Research Mapping
 ↓
 
 Research Space
+```
 
 これは
 
@@ -57,6 +64,9 @@ Architecture
 です。
 
 Cycle が扱うもの
+
+```text
+
 Research Assets
 
 ↓
@@ -82,6 +92,8 @@ Comparative Review
 ↓
 
 Research Program Evolution
+
+```
 
 これは
 
