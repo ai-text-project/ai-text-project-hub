@@ -10,7 +10,7 @@
 
 ![Visual Language Design](../presentation-figures/Visual-09-JP.png)
 
-*Figure 10. Presentation全体を支えるVisual Language Design Principles。*
+*Figure 9. Presentation全体を支えるVisual Language Design Principles。*
 
 ---
 
