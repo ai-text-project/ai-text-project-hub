@@ -10,7 +10,7 @@
 
 研究者それぞれが持つ研究成果や研究経験を比較しながら共に学び、新たな知見や研究の可能性を探究する **Research Comparative Dialogue（研究比較対話）** を中心とした研究交流を目指しています。
 
-本フォルダは、企業・研究機関・共同研究をご検討いただく皆様に向けた **Research Programへの入口（Entry Point）** として構成しています。
+本フォルダは、AI研究所・大学・研究機関・共同研究をご検討いただく皆様に向けた **Research Programへの入口（Entry Point）** として構成しています。
 
 Executive SummaryからPresentationまでを順にご覧いただくことで、本Research Programの考え方や協働環境の全体像をご理解いただけます。
 
