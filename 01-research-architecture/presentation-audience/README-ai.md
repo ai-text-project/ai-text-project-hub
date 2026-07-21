@@ -49,7 +49,7 @@ Executive Summaryをご覧いただいた後に、研究全体を一枚で俯瞰
 
 Meta Visualは、研究成果を要約したものではなく、
 
-企業と研究者が継続的な比較対話を通じて共に学び、価値を創造していく協働環境全体を表現したAbstract Figureです。
+研究者同士が継続的な研究比較対話を通じて共に学び、価値を創造していく協働環境全体を表現したAbstract Figureです。
 
 → **[02. Meta Visual](02-meta-visual.md)**
 
