@@ -10,7 +10,7 @@
 
 ![Shared Knowledge Ecosystem](../presentation-figures/Visual-06-JP.png)
 
-*Figure 7. 比較観察を共有知へ発展させる知識循環と、それを支える研究資産。*
+*Figure 6. 比較観察を共有知へ発展させる知識循環と、それを支える研究資産。*
 
 ---
 
