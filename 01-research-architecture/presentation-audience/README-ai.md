@@ -96,12 +96,12 @@ Presentation一覧はこちらからご覧いただけます。
 
 本Research Programでは、
 
-企業との比較対話を通じて、
+研究者同士の比較対話を通じて、
 
-- 現場での実践知
-- AI活用の経験
-- Human–AI Collaboration
-- 長期的な協働
+-研究成果
+-研究方法
+-Human–AI Collaboration
+-長期的な研究協働
 
 について意見交換を行っています。
 
