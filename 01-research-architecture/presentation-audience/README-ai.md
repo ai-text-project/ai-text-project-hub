@@ -24,8 +24,9 @@ Executive SummaryからPresentationまでを順にご覧いただくことで、
 
 1. Executive Summary
 2. Meta Visual
-3. Presentation
-4. 必要に応じて Research Program
+3. Presentation Guide
+4. Presentation
+5. 必要に応じて Research Program
 
 ---
 
