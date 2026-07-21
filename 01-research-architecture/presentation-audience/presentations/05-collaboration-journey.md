@@ -79,14 +79,19 @@ Presentationを通じて、
 
 ## この先へ
 
-Presentationはここで一区切りとなります。
+本Presentationでは、日常の業務経験を出発点として、比較対話を通じた長期的な協働の考え方をご紹介しました。
 
-より詳しくResearch Programをご覧いただく場合は、
+ここでPresentationは一区切りとなりますが、Research Program全体はさらに継続しています。
 
+ご関心をお持ちいただけましたら、
+
+- Research Mapping
+- Collaboration Framework
 - Research Assets
 - Research Architecture
-- Development History
 
-などの関連資料もぜひご参照ください。
+などの関連資料もあわせてご覧いただけます。
+
+これらの資料では、研究成果だけでなく、それらをどのように整理し、共有し、継続的な協働へ発展させていくかをご紹介しています。
 
 → **[06-shared-knowledge-ecosystem](06-shared-knowledge-ecosystem.md)**
