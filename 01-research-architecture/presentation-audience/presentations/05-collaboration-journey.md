@@ -10,7 +10,7 @@
 
 ![Collaboration Journey](../presentation-figures/Visual-05-JP.png)
 
-*Figure 6. 比較対話から長期的な企業協働へ発展していく協働ジャーニー。*
+*Figure 5. 比較対話から長期的な企業協働へ発展していく協働ジャーニー。*
 
 ---
 
