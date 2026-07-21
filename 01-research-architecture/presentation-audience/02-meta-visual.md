@@ -128,6 +128,6 @@ Meta Visualは、
 
 # 次にご覧ください
 
-より具体的な内容につきましては、Presentationをご覧ください。
+より具体的な内容につきましては、Presentation Guideをご覧ください。
 
-→ **presentations/**
+→ **[03. Presentation Guide](03-presentation-guide.md)**
