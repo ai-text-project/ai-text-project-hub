@@ -5,7 +5,7 @@
 
 この図は、企業と研究者が継続的な比較対話を通じて共に学び、価値を創造していく協働環境全体を表現したAbstract Figureです。
 
-![Meta Visual](presentation-figures/Simple-Meta-Visual-00.png)
+![Meta Visual](../presentation-figures/Simple-Meta-Visual-00.png)
 
 *Figure 1. Meta Visual（Abstract Figure）*
 
