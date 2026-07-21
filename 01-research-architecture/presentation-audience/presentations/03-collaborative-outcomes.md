@@ -10,7 +10,7 @@
 
 ![Shared Knowledge and Collaborative Outcomes](../presentation-figures/Visual-03-JP.png)
 
-*Figure 4. 運用アプローチから生まれる協働的成果と価値の連鎖。*
+*Figure 3. 運用アプローチから生まれる協働的成果と価値の連鎖。*
 
 ---
 
