@@ -4,7 +4,7 @@
 
 このページをご覧いただき、ありがとうございます。
 
-本ページでは、AI研究所の皆様に向けて、私たちが取り組んでいる **Human–AI Collaboration Research Program** の概要をご紹介しています。
+本ページでは、研究機関の皆様に向けて、私たちが取り組んでいる **Human–AI Collaboration Research Program** の概要をご紹介しています。
 
 本研究は、一方向に研究成果を説明することを目的としていません。
 
