@@ -74,7 +74,7 @@ Presentation Guideでは、
 
 ## 4. Presentation
 
-Presentationでは、本Research Programの背景から将来の協働可能性までを段階的にご紹介しています。
+Presentationでは、本Research Programの背景、研究上の位置付け、Human–AI Collaborationの考え方、今後の研究対話の可能性について段階的にご紹介しています。
 
 内容には、
 
