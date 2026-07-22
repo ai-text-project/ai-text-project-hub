@@ -130,4 +130,4 @@ Meta Visualは、
 
 より具体的な内容につきましては、Presentation Guideをご覧ください。
 
-→ **[03. Presentation Guide](03-presentation-guide.md)**
+→ **[03. Presentation Guide](03-ai-presentation-guide.md)**
