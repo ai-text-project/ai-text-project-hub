@@ -12,4 +12,4 @@
 
 ---
 
-→ **[00-everyday-workplace-experience](../presentations-ai/00-everyday-workplace-experience.md)**
+→ **[00-everyday-workplace-experience](../presentations/00-everyday-workplace-experience.md)**
