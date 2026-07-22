@@ -88,4 +88,4 @@ Presentationでは、
 
 **Meta Visual（Abstract Figure）**
 
-→ **[02. Meta Visual](02-meta-visual.md)**
+→ **[02. Meta Visual](02-ai-meta-visual.md)**
