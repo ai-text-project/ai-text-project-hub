@@ -67,4 +67,4 @@
 
 ## 次にご覧ください
 
-→ **[05-collaboration-journey](05-collaboration-journey.md)**
+→ **[05-collaboration-journey](05-future-collaborative-research.md)**
