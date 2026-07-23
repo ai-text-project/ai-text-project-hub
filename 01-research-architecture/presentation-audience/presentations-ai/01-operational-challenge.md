@@ -10,7 +10,7 @@
 
 ![Operational Challenge](../presentation-figures/Visual-01-JP-rv1.png)
 
-*Figure 2. AI研究における運用上の課題と、本Research Programが提案する協働型研究環境の概要。*
+*Figure 1. AI研究における運用上の課題と、本Research Programが提案する協働型研究環境の概要。*
 
 ---
 
