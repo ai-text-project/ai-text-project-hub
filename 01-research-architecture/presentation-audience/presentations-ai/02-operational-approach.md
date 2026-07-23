@@ -10,7 +10,7 @@
 
 ![Comparative Dialogue](../presentation-figures/Visual-02-JP.png)
 
-*Figure 3. 長期的なHuman–AI Collaborationを支える5つの運用要素。*
+*Figure 2. 長期的なHuman–AI Collaborationを支える5つの運用要素。*
 
 ---
 
