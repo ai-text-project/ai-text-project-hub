@@ -10,7 +10,7 @@
 
 ![Reflection and Insight](../presentation-figures/Visual-04-JP.png)
 
-*Figure 5. 観察・振り返り・洞察を通じて理解を深め、継続的な改善につなげる反省サイクル。*
+*Figure 4. 観察・振り返り・洞察を通じて理解を深め、継続的な改善につなげる反省サイクル。*
 
 ---
 
