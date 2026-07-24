@@ -167,3 +167,14 @@ Instead, it provides a more detailed operational perspective that may support fu
 Further observations across additional projects will be required to determine whether this expanded learning structure consistently reappears within the Research Program.
 
 ---
+---
+
+# Related Observation
+
+The operational learning expansion described in this document is further examined from the perspective of Research Program Evolution in the following observation.
+
+See:
+
+- [Harvest Documentation Methodology Emergence](../../0-emergence-notes/00-research-program-evolution/36-%5BMM%5D-harvest-documentation-methodology-emergence.md)
+
+This complementary document discusses how the observed operational learning process gradually evolved into a reusable Harvest Documentation Methodology within the Research Program.
