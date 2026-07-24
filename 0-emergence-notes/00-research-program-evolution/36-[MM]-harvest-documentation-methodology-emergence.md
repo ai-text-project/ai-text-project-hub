@@ -112,3 +112,9 @@ Instead, it records the first confirmed appearance of a repeatable documentation
 Future applications will determine whether this observation develops into a stable operational methodology of the Research Program.
 
 ---
+
+## Related Documents
+
+See:
+
+- [02-operational-learning-expansion.md](../02-operational-learning-expansion.md)
