@@ -129,6 +129,9 @@ Harvest Documentation Seriesは、
 
 つまり、
 
+
+```text
+
 Inventory
 
 ↓
@@ -146,6 +149,9 @@ Evolution
 ↓
 
 Interpretation
+
+
+```
 
 という再利用可能な方法です。
 
@@ -165,6 +171,8 @@ Research Program全体が、
 
 つまり、
 
+```text
+
 Project
 
 ↓
@@ -178,6 +186,9 @@ Research Program
 ↓
 
 Next Project
+
+
+```
 
 という循環が動き始めています。
 
