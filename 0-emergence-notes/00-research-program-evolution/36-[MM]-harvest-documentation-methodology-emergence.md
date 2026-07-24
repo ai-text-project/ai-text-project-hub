@@ -117,4 +117,4 @@ Future applications will determine whether this observation develops into a stab
 
 See:
 
-- [02-operational-learning-expansion.md](../02-operational-learning-expansion.md)
+- [[02-operational-learning-expansion.md](../02-operational-learning-expansion.md)](https://github.com/ai-text-project/ai-text-project-hub/blob/main/01-a-operational-architecture/02-operational-learning-expansion.md)
