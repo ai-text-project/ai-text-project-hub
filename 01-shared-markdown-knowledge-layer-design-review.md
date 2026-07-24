@@ -124,3 +124,7 @@ Future studies may further examine:
 - comparative studies with emerging Human–AI knowledge management frameworks
 
 as the Research Program continues to evolve.
+
+## Related documents
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/tree/main/01-papers/20-crystallization/llm-wiki#readme
