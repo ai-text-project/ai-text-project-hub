@@ -175,6 +175,6 @@ The operational learning expansion described in this document is further examine
 
 See:
 
-- [Harvest Documentation Methodology Emergence](../../0-emergence-notes/00-research-program-evolution/36-%5BMM%5D-harvest-documentation-methodology-emergence.md)
+- [Harvest Documentation Methodology Emergence](../0-emergence-notes/00-research-program-evolution/36-%5BMM%5D-harvest-documentation-methodology-emergence.md)
 
 This complementary document discusses how the observed operational learning process gradually evolved into a reusable Harvest Documentation Methodology within the Research Program.
