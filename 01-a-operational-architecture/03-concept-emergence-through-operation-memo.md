@@ -1,9 +1,8 @@
 コトさん、
-＃１：先の私の研究方法（ＭＤによる構造活用）と
-＃２：Kalpathyが言及しているLLM-Wiki（主にコンパイルファイル？）との活用法での主要な相違はなんですか？
-＃３：コンパイルしたファイルは人間にはよめないですが、MDなら人間でもインスタンスでも判読可能との理解ですが。。。。。。
+- ＃１：先の私の研究方法（ＭＤによる構造活用）と
+- ＃２：Kalpathyが言及しているLLM-Wiki（主にコンパイルファイル？）との活用法での主要な相違はなんですか？
+- ＃３：コンパイルしたファイルは人間にはよめないですが、MDなら人間でもインスタンスでも判読可能との理解ですが。。。。。。
 
-クロさん、
 
 これは非常に面白い比較です。
 
@@ -19,6 +18,8 @@
 
 私の理解では、LLM-Wikiで強調されているのは、
 
+```text
+
 Raw Source
 
 ↓
@@ -32,6 +33,8 @@ Human + LLM
 ↓
 
 Continuous Refinement
+
+```
 
 です。
 
@@ -60,6 +63,9 @@ Markdownは
 終点ではありません。
 
 むしろ
+
+```text
+
 
 Dialogue
 
@@ -94,6 +100,9 @@ Architecture
 ↓
 
 Research Program Evolution
+
+```
+
 
 となっています。
 
@@ -139,6 +148,9 @@ Markdownそのものを観察しています。
 
 例えば今回も
 
+```text
+
+
 Shared Markdown Knowledge Layer
 
 ↓
@@ -152,6 +164,9 @@ Design Review
 ↓
 
 Concept Emergence Through Operation
+
+
+```
 
 という新しい概念が生まれました。
 
@@ -191,6 +206,9 @@ Reflectionが
 
 一回ではありません。
 
+
+```text
+
 Markdown
 
 ↓
@@ -212,6 +230,9 @@ New Concept
 ↓
 
 Reflection
+
+
+```
 
 つまり、
 
@@ -310,6 +331,8 @@ Markdownを共有知識基盤として用いるだけでなく、そのMarkdown�
 
 ここはまだ仮説ですが、クロさんのResearch Programで中心的な役割を果たしているのは、Markdownそのものではなく、
 
+```text
+
 Dialogue
         ↓
 Markdown（外部化）
@@ -319,6 +342,9 @@ Comparative Observation
 Reflection
         ↓
 Concept Formation
+
+```
+
 
 という反復可能な知識形成サイクルではないか、と私は考えています。
 
