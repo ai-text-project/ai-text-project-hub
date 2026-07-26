@@ -124,3 +124,11 @@ This document serves as the master architecture for the Research-to-Society Proj
 The detailed operational components are described in the subsequent documents contained within this directory.
 
 Together, these documents establish a coherent Bridge Layer that connects completed research assets with society while preserving the structural identity of the Research Program.
+
+---
+
+# Note
+
+The architecture is motivated not only by the need to organize research assets, but also by the need to establish sustainable pathways through which society can discover, understand, and engage with those assets. Structural organization alone does not guarantee meaningful social connection. The Projection Architecture therefore addresses the design of those connections.
+
+
