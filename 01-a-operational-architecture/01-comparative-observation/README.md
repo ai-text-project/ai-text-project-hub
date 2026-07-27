@@ -137,3 +137,18 @@ Architecture and Principles
 Next Development
 
 Comparative Framework
+
+
+# Role of Each Folder
+
+The Comparative Structural Analysis methodology is organized into the following functional components.
+
+| Folder | Role |
+|--------|------|
+| **00-architecture** | Overall design philosophy and architectural structure of the methodology. |
+| **01-principles** | Fundamental principles that guide comparative structural observation. |
+| **02-framework** | Design of the comparative analytical framework and structural comparison axes. |
+| **03-corpus** | Management of research resources that serve as the observation corpus. |
+| **04-observation** | Procedures for selecting materials from the corpus and conducting comparative structural observations. |
+| **05-interpretation** | Processes for interpreting structural correspondences and transforming observations into research insights. |
+| **06-production** | Development of research outputs, including Skeletons, Blueprints, Research Notes, and Papers. |
