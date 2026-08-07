@@ -1,9 +1,15 @@
-# Legacy Entry Point
+# Presentation Audience
 
-This page remains temporarily available for previously distributed links.
+> **This page has been relocated.**
 
-The current location is:
+The Presentation Audience section has moved to its new location.
 
-→ 30-presentation-audience
+👉 **Continue here:**
 
-This compatibility page will be removed after the transition period.
+## ➜ [Presentation Audience](../30-presentation-audience/)
+
+---
+
+This compatibility page is provided temporarily for previously distributed URLs.
+
+It will be removed after the transition period.
