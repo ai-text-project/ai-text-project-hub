@@ -61,6 +61,6 @@
 
 ---
 
-## 次にご覧ください
+## ここから先は関心に応じて探索できます
 
 → **[07-collaborative-operational-environment](07-collaborative-operational-environment.md)**
