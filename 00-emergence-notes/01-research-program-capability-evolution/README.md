@@ -65,8 +65,8 @@ The category tags provide a complementary organizational layer describing the pr
 | **[PP]** | Placement Principle | Development, validation, and operationalization of placement principles |
 | **[AL]** | Architectural Layer | Evolution of architectural structures and relationships |
 | **[ML]** | Methodological Layer | Development of methodological frameworks and organizational methodologies |
-| **[MM]** | Methodological Emergence | Initial emergence and stabilization of a new methodology |
-| **[ME]** | Methodological Maturation | Progressive maturation of an established methodology through practical application across multiple research projects |
+| **[ME]** | Methodological Emergence | Initial emergence and stabilization of a new methodology |
+| **[MM]** | Methodological Maturation | Progressive maturation of an established methodology through practical application across multiple research projects |
 
 ---
 

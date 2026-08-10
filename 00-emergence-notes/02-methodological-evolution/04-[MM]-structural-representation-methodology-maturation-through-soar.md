@@ -168,25 +168,25 @@ Accordingly, the primary contribution of the SOAR mission lies in methodological
 
 The present document extends the previous methodological evolution records.
 
-01-[MM]
+01-[ME]
 
 Structural Observation Pipeline Emergence
 
 ↓
 
-02-[MM]
+02-[ME]
 
 Structural Representation as Comparative Interface
 
 ↓
 
-03-[MM]
+03-[ME]
 
 Structural Representation Methodology Emergence
 
 ↓
 
-04-[ME]
+04-[MM]
 
 Structural Representation Methodology Maturation through SOAR
 
