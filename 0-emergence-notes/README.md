@@ -1,77 +1,165 @@
 # Emergence Notes
 
-This section documents the observed evolution of the research space beyond the initial formation of repository topology.
+## Purpose
 
-Unlike the topology layer, these records focus on dynamic organizational development, structural adaptation, and emerging architectural patterns observed during repository evolution.
+This section documents the observed developmental evolution of the Research Program.
 
-Topics include:
+Unlike the Research Architecture, which describes stabilized conceptual structures, Emergence Notes preserve the observational history through which organizational capabilities, methodologies, research spaces, and architectural understanding gradually emerged.
 
-- research-space evolution
-- research-space reconstruction
-- adaptive organization
-- meta observation emergence
+The objective of this section is not to establish finalized theory.
 
-The purpose of this layer is not to establish theory, but to preserve the observational history of how the research space gradually evolved.
+Its objective is to preserve the developmental record of the Research Program as it evolved through continuous observation, organization, and refinement.
 
 ---
 
-## Current Interpretation
+## Scope
 
-Current observations suggest a provisional progression:
+This section records observed developmental processes including:
 
-* Repository Topology
+- Research Space evolution
+- Research Program capability emergence
+- Methodological emergence
+- Meta-level observation
+- Formation history
 
-  * Research-Space Evolution
-
-    * Research-Space Reconstruction
-
-      * Research-Space Adaptation
-
-        * Meta Observation Emergence
-
-This interpretation remains observational and subject to future revision.
+These records are maintained as observational assets rather than finalized theoretical descriptions.
 
 ---
 
-## Structural Evolution Records
+# Information Domains
 
-- [0 — GitHub as Observation System](./0-github-as-observation-system.md)
-- [00 — From Storage to Research Space](00-from-storage-to-research-space.md)
-- [01 — Research Space Evolution](01-research-space-evolution.md)
-- [02 — Research Space Reconstruction](02-research-space-reconstruction.md)
-- [03 — Research Space Reconstruction and Adaptation](./03-research-space-reconstruction-and-adaptation.md)
-- [04 — Meta Observation Emergence](./04-meta-observation-emergence.md)
+The Emergence Notes are organized into the following Information Domains.
 
-These notes document the gradual emergence of organizational structures observed during the development of the AI Text Project Hub.
+## 00 — Research Space Evolution
+
+Documents the emergence and gradual evolution of the Research Space itself.
+
+Typical topics include:
+
+- From Storage to Research Space
+- Research Space Evolution
+- Research Space Reconstruction
+- Adaptive Research Space Organization
 
 ---
 
-## Relationship to Research Architecture
+## 01 — Research Program Capability Evolution
 
-Some observations preserved in this layer have subsequently contributed to the development of conceptual descriptions maintained in:
+Documents the emergence of new organizational capabilities within the Research Program.
 
-- 01-research-architecture
+Typical topics include:
 
-Examples include:
+- Value Proposition
+- Placement Principle Emergence
+- Architectural Recording Layer
+- Role Interface Formation
+- Governance Capability
+- Operational Capability
 
-- Research-Space Evolution
+---
+
+## 02 — Methodological Evolution
+
+Documents how reusable methodologies gradually emerged from accumulated observations.
+
+Typical topics include:
+
+- Structural Representation Methodology
+- Observation Pipeline
+- Comparative Interface
+- Methodological Organization
+
+---
+
+## 03 — Meta Observation
+
+Documents observations directed toward the Research Program itself.
+
+Typical topics include:
+
 - Meta Observation
-
-This relationship remains observational and does not imply a finalized theoretical structure.
+- Governance Observation
+- Role Stabilization
+- Research Program Reflection
 
 ---
 
-## Related Mapping Layer
+## 05 — Formation History
 
-Observations that primarily concern:
+Documents historical reconstruction of previously established research developments.
 
-* Case classification
-* Research Notes
-* Open Questions
-* Meta Observations
+Rather than recording new emergence, this domain reconstructs how multiple independent developments collectively formed the current Research Program.
 
-are maintained within:
+---
 
-dialogue-phase-reasoning
+# Developmental Relationship
 
-40-research-map/
+Current observations suggest the following developmental progression.
+
+Research Space
+
+↓
+
+Research Program Capability
+
+↓
+
+Methodological Development
+
+↓
+
+Meta Observation
+
+↓
+
+Formation History
+
+This progression represents the current observational interpretation of the Research Program and remains open to future refinement.
+
+---
+
+# Relationship to Research Architecture
+
+Emergence Notes preserve developmental observations.
+
+Research Architecture preserves stabilized conceptual structures derived from those observations.
+
+Consequently,
+
+Emergence Notes document how organizational knowledge emerged,
+
+while Research Architecture documents how that knowledge became organized into reusable architectural assets.
+
+The two layers therefore serve complementary responsibilities within the Research Program.
+
+---
+
+# Relationship to Dialogue Repository
+
+Comparative observations, case studies, research notes, and exploratory analyses continue to be maintained within the Dialogue Repository.
+
+When repeated observations become organizationally stable, they may subsequently contribute to Emergence Notes.
+
+Further maturation may eventually contribute to Research Architecture.
+
+The developmental relationship can therefore be summarized as:
+
+Dialogue Repository
+
+↓
+
+Emergence Notes
+
+↓
+
+Research Architecture
+
+---
+
+# Design Principle
+
+The Information Domains defined in this section represent organizational responsibilities rather than chronological categories.
+
+New documents should therefore be placed according to the primary organizational responsibility they record, rather than according to the order in which they were created.
+
+This organizational principle supports long-term consistency as the Research Program continues to evolve.
