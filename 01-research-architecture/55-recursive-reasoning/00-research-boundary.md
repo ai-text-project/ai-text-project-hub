@@ -408,13 +408,55 @@ It is not a prerequisite for the validity of the current Recursive Reasoning Pat
 
 The current domain is organized as:
 
-```text
-55-recursive-reasoning/
-│
-├── README.md
-├── 00-research-boundary.md
-│
-├── 10-mission-001-pattern-discovery/
-├── 20-mission-002-protocol-candidate/
-├── 30-development-records/
-└── 90-emerging-observations/
+    55-recursive-reasoning/
+    │
+    ├── README.md
+    ├── 00-research-boundary.md
+    │
+    ├── 10-mission-001-pattern-discovery/
+    ├── 20-mission-002-protocol-candidate/
+    ├── 30-development-records/
+    └── 90-emerging-observations/
+
+The folders represent different research responsibilities rather than merely chronological storage.
+
+`10-mission-001-pattern-discovery/`
+
+preserves the completed observation and pattern-discovery mission.
+
+`20-mission-002-protocol-candidate/`
+
+contains the current investigation into operationalization and protocol candidate formation.
+
+`30-development-records/`
+
+preserves significant reasoning transitions across missions.
+
+`90-emerging-observations/`
+
+preserves observations that are potentially important but not sufficiently mature for integration into stable research assets.
+
+---
+
+# Boundary Rule
+
+The governing boundary of this research domain is:
+
+> **Do not promote an observation into a pattern, a pattern into a protocol, or a protocol into a methodology merely because the next conceptual step appears plausible.**
+
+Promotion must follow evidence.
+
+The repository should preserve not only successful advancement, but also uncertainty, rejected interpretations, preserved states, and justified stopping points.
+
+---
+
+# Current Status
+
+**Research Domain:** Recursive Reasoning  
+**Mission 001:** Closed  
+**Stable Pattern:** Recursive Reasoning Pattern v0.2 — Evidence-Supported  
+**Mission 002:** Open — Protocol Candidate Formation  
+**Validated Protocol:** Not established  
+**Methodology:** Not established  
+
+**Boundary Status:** v0.1 — Provisional Freeze Candidate
