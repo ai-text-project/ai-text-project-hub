@@ -465,3 +465,530 @@ The defining property is the observation's relationship to the current reasoning
 ---
 
 # End of Part 1/3
+
+
+# Re-entry Judgment
+
+Recognizing a meaningful recursive trigger does not determine what the reasoning process should do next.
+
+This distinction is fundamental.
+
+A trigger indicates:
+
+> Something may require reconsideration.
+
+It does not yet indicate:
+
+> Earlier reasoning must be reopened.
+
+The process must therefore perform a second judgment:
+
+> **Can the structural consequence of this trigger be resolved within the current reasoning state?**
+
+This is the beginning of Re-entry Judgment.
+
+---
+
+# Initial Re-entry Mechanism
+
+Re-entry Judgment determines whether resolving a meaningful trigger requires access to an earlier reasoning state.
+
+The initial operational distinction is:
+
+~~~text
+Meaningful Recursive Trigger
+        │
+        ▼
+Can the Structural Consequence
+be resolved in the Current State?
+        │
+        ├── Yes
+        │     ↓
+        │  No Re-entry
+        │
+        └── No
+              ↓
+        Re-entry Evaluation
+~~~
+
+This establishes a critical distinction:
+
+> **Trigger Recognition evaluates whether reconsideration is warranted.**
+
+while:
+
+> **Re-entry Judgment evaluates where that reconsideration must occur.**
+
+---
+
+# No-Re-entry Condition 1
+
+## Absorption
+
+A meaningful observation may be absorbed without changing the structural integrity of the current finding.
+
+For example:
+
+~~~text
+Finding A
+    +
+Observation X
+    │
+    ▼
+Finding A remains structurally intact
+~~~
+
+The observation may add:
+
+- evidence
+- detail
+- context
+- qualification
+
+without requiring reconstruction of earlier reasoning.
+
+In such cases:
+
+> **Meaningful information does not require recursive return.**
+
+The observation remains operationally relevant.
+
+However, its consequence can be handled within the current reasoning state.
+
+Therefore:
+
+> **Trigger recognition does not imply historical reopening.**
+
+---
+
+# No-Re-entry Condition 2
+
+## Local Refinement
+
+A trigger may require modification of the current finding while remaining resolvable at the current reasoning state.
+
+For example:
+
+~~~text
+Finding A
+    │
+    ▼
+Finding A'
+~~~
+
+The modification may involve:
+
+- clarification
+- narrowing
+- qualification
+- local correction
+- representational refinement
+
+without requiring access to the earlier reasoning trajectory.
+
+This exposes another important distinction:
+
+> **Revision does not necessarily require re-entry.**
+
+Mission 002 had already established:
+
+> **Re-entry does not imply revision.**
+
+Together, these observations show that Re-entry and Revision are operationally independent judgments.
+
+A reasoning process may therefore:
+
+- revise without re-entry
+- re-enter and preserve
+- re-enter and revise
+- neither re-enter nor revise
+
+The existence of a revision alone cannot determine whether recursive return is necessary.
+
+---
+
+# No-Re-entry Condition 3
+
+## Existing Mechanism Absorption
+
+A new observation may initially appear to require structural reconsideration but ultimately be handled by an already established reasoning mechanism.
+
+For example, an observation may be evaluated through an existing:
+
+- context-sensitive judgment
+- boundary distinction
+- dependency relation
+- placement principle
+- preservation mechanism
+
+without reopening earlier reasoning.
+
+In such cases:
+
+> The observation is meaningful, but the current reasoning architecture already contains sufficient resources for resolving it.
+
+Therefore:
+
+> **Existing explanatory or operational capacity can prevent unnecessary re-entry.**
+
+This distinction is important because mature reasoning structures may absorb observations that would previously have required deeper recursive examination.
+
+The availability of an existing mechanism can therefore alter the operational response to the same type of observation.
+
+---
+
+# Current-State Resolution
+
+The three No-Re-entry conditions suggest a more general operational concept:
+
+> **Current-State Resolution**
+
+Current-State Resolution means that the structural consequence of a meaningful trigger can be adequately handled using information, relationships, distinctions, or mechanisms already available in the current reasoning state.
+
+Possible outcomes include:
+
+- absorb
+- preserve
+- refine
+- locally revise
+- reinterpret locally
+- resolve through an existing mechanism
+
+If one of these is sufficient, recursive re-entry is unnecessary.
+
+The process therefore asks:
+
+> Is the current reasoning state sufficient for adequate resolution?
+
+This provides an operational barrier against unnecessary recursive return.
+
+---
+
+# Re-entry Requirement
+
+Recursive re-entry becomes necessary when the structural consequence of a meaningful trigger cannot be adequately resolved within the current reasoning state.
+
+The initial candidate was:
+
+> Re-entry is required when resolution depends on earlier reasoning.
+
+This appeared plausible because recursive reasoning frequently involves returning to previous findings, assumptions, or dependencies.
+
+However, counter-testing showed that this formulation was too broad.
+
+Current reasoning almost always depends in some way on earlier reasoning.
+
+Dependency alone therefore cannot establish a need for recursive re-entry.
+
+---
+
+# Counter-Test of Backward Dependency
+
+Suppose:
+
+> Current Finding B depends on Earlier Finding A.
+
+A new observation affects B.
+
+This does not necessarily require returning to A.
+
+If all relevant information about A is already adequately represented in the current reasoning state, the issue may still be resolved locally.
+
+The relationship may therefore be:
+
+~~~text
+Earlier Finding A
+        │
+        ▼
+Current Finding B
+        │
+        ▼
+New Trigger X
+~~~
+
+Even though B depends on A, the current state may already preserve everything needed from A.
+
+In that case:
+
+~~~text
+New Trigger X
+        │
+        ▼
+Current-State Resolution
+        │
+        ▼
+No Re-entry
+~~~
+
+Therefore:
+
+> **Backward Dependency ≠ Re-entry Requirement**
+
+The existence of an earlier dependency is insufficient.
+
+The process must determine whether actual access to an earlier reasoning state is necessary.
+
+---
+
+# Backward Access Requirement
+
+The counter-test produced a refined candidate mechanism:
+
+> **Recursive re-entry is required when adequate resolution of a meaningful trigger requires access to reasoning content or reasoning relations that are not sufficiently available in the current reasoning state.**
+
+This can be called:
+
+> **Backward Access Requirement**
+
+The important distinction is between:
+
+~~~text
+Earlier Dependency Exists
+~~~
+
+and:
+
+~~~text
+Earlier Reasoning State Must Be Accessed
+to Resolve the Current Structural Consequence
+~~~
+
+Only the second directly supports recursive re-entry.
+
+This refinement prevents ordinary historical dependency from being mistaken for a recursive requirement.
+
+---
+
+# What May Require Backward Access
+
+Backward Access may become necessary when the current reasoning state does not sufficiently preserve:
+
+- the assumption underlying a finding
+- the evidence from which a judgment was formed
+- the dependency connecting two findings
+- the reason a previous alternative was rejected
+- the context in which a distinction was established
+- the reasoning relation that produced the current interpretation
+- the earlier structural state required to evaluate a contradiction
+
+The important factor is not simply that these elements existed earlier.
+
+The important factor is:
+
+> They must be revisited because adequate resolution cannot be achieved from the current state alone.
+
+---
+
+# Re-entry as a Resolution Requirement
+
+This produces a more precise interpretation of recursive re-entry.
+
+Re-entry is not primarily:
+
+> returning because something new appeared.
+
+Nor is it:
+
+> returning because the current finding has a historical dependency.
+
+Instead:
+
+> **Re-entry is a resolution requirement created when the current reasoning state is insufficient to resolve a meaningful structural consequence.**
+
+The logic becomes:
+
+~~~text
+Meaningful Trigger
+        │
+        ▼
+Structural Consequence
+        │
+        ▼
+Current State Sufficient?
+        │
+        ├── Yes
+        │     ↓
+        │  Resolve Locally
+        │
+        └── No
+              ↓
+        Earlier State Required?
+              │
+              ├── No
+              │     ↓
+              │  Current-State Reorganization
+              │
+              └── Yes
+                    ↓
+              Recursive Re-entry
+~~~
+
+This is narrower than simply treating every unresolved issue as recursive.
+
+---
+
+# Recursive Re-entry
+
+Recursive re-entry occurs when:
+
+1. a meaningful recursive trigger has been recognized
+2. its structural consequence cannot be adequately resolved in the current reasoning state
+3. resolution requires access to an earlier reasoning state
+
+The resulting structure is:
+
+~~~text
+Meaningful Recursive Trigger
+        │
+        ▼
+Can Current State Resolve It?
+        │
+        ├── Yes
+        │     ↓
+        │  Absorb / Preserve /
+        │  Refine / Local Revise
+        │     ↓
+        │  No Recursive Re-entry
+        │
+        └── No
+              ↓
+Does Adequate Resolution Require
+Access to Earlier Reasoning?
+        │
+        ├── No
+        │     ↓
+        │  Current-State Resolution
+        │
+        └── Yes
+              ↓
+        Recursive Re-entry
+~~~
+
+Recursive re-entry is therefore selective.
+
+It is activated only when the current reasoning state is insufficient and backward access is operationally required.
+
+---
+
+# Trigger–Re-entry Boundary
+
+The distinction between Trigger Recognition and Re-entry Judgment can now be stated directly.
+
+## Trigger Recognition asks:
+
+> **Does this observation warrant structural reconsideration?**
+
+## Re-entry Judgment asks:
+
+> **Must that reconsideration access an earlier reasoning state?**
+
+These are related but separate judgments.
+
+Therefore:
+
+> **Trigger ≠ Re-entry**
+
+is not merely a conceptual distinction.
+
+It represents an operational boundary between two different reasoning functions.
+
+The first evaluates the structural significance of an observation.
+
+The second evaluates the location from which adequate resolution can occur.
+
+---
+
+# Conceptually Distinct, Operationally Coupled
+
+Trigger Recognition and Re-entry Judgment should not be collapsed into one judgment.
+
+However, the operationalization analysis also indicates that they should not be separated into unrelated mechanisms.
+
+Trigger Recognition produces the condition that activates Re-entry Judgment.
+
+Re-entry Judgment determines the operational response to the trigger.
+
+Their relationship is therefore:
+
+> **Conceptually distinct / Operationally coupled**
+
+This relationship supports externalizing both mechanisms within the same Mission 002 asset.
+
+Separating them into unrelated assets would risk losing the boundary judgment through which a meaningful trigger becomes, or does not become, recursive re-entry.
+
+---
+
+# Integrated Operational Mechanism
+
+The complete mechanism developed so far can be represented as:
+
+~~~text
+New Observation
+        │
+        ▼
+Relevant to Current Reasoning State?
+        │
+        ├── No
+        │     ↓
+        │  Hold / Non-trigger
+        │
+        └── Yes
+              ↓
+Sufficiently Credible?
+        │
+        ├── No
+        │     ↓
+        │  Hold / Non-trigger
+        │
+        └── Yes
+              ↓
+Structural Reconsideration Potential?
+        │
+        ├── No
+        │     ↓
+        │  Absorb / Preserve
+        │
+        └── Yes
+              ↓
+Meaningful Recursive Trigger
+        │
+        ▼
+Can Structural Consequence Be
+Resolved in Current Reasoning State?
+        │
+        ├── Yes
+        │     ↓
+        │  Absorb / Preserve /
+        │  Refine / Local Revise
+        │     ↓
+        │  No Re-entry
+        │
+        └── No
+              ↓
+Does Resolution Require Access
+to Earlier Reasoning State?
+        │
+        ├── No
+        │     ↓
+        │  Current-State Resolution
+        │
+        └── Yes
+              ↓
+        Recursive Re-entry
+~~~
+
+The mechanism terminates at Recursive Re-entry.
+
+It does not determine what earlier state should be selected.
+
+It also does not determine how deeply the subsequent recursive examination should proceed.
+
+Those questions belong to the next operational mechanism.
+
+---
+
+# End of Part 2/3
+
+
+
+
