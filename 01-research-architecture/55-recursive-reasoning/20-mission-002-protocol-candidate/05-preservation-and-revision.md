@@ -2812,3 +2812,1795 @@ This final Responsibility Fit Test is addressed in Part 3.
 
 # End of Part 2/3
 
+
+# Responsibility Fit Test
+
+The Preservation / Revision mechanism has now reached a high level of internal convergence.
+
+However, internal coherence alone is insufficient for Externalization Readiness.
+
+Before the mechanism can be treated as a stable Mission 002 asset, its responsibility must be tested against the immediately adjacent operational mechanisms:
+
+```text
+04 — Recursive Target and Depth
+        ↓
+05 — Preservation and Revision
+        ↓
+06 — Restabilization
+```
+
+The purpose of this test is not to redesign 04 or prematurely define 06.
+
+The purpose is narrower:
+
+> **Does the current Preservation / Revision mechanism occupy a distinct and coherent operational responsibility without absorbing responsibilities that belong upstream or downstream?**
+
+Three questions are therefore examined:
+
+1. Does 05 duplicate or absorb the responsibility of 04?
+2. Does 05 prematurely absorb the responsibility expected downstream in 06?
+3. Can the output of 04 naturally become the input of 05, and can the output of 05 naturally become the input of 06?
+
+---
+
+# 04 → 05 Responsibility Boundary
+
+The responsibility established in:
+
+> **04 — Recursive Target and Depth**
+
+is concerned with the scope of recursive examination.
+
+Its primary questions are:
+
+> **Where should recursive examination begin?**
+
+and:
+
+> **How far should recursive examination propagate?**
+
+The resulting mechanism can be summarized as:
+
+```text
+Recursive Re-entry Required
+        ↓
+Target Selection
+        ↓
+Depth Selection
+        ↓
+Bounded Recursive
+Examination Scope
+        ↓
+Recursive Examination
+```
+
+The responsibility of 04 therefore terminates when the relevant earlier reasoning has been adequately selected and examined within the bounded recursive scope.
+
+At that point, a new question appears:
+
+> **What should now happen to the examined structure?**
+
+That question belongs to 05.
+
+---
+
+# Examination Scope vs. Structural Disposition
+
+The boundary can be stated directly:
+
+```text
+04
+
+Where should examination begin?
+        +
+How far should examination extend?
+        ↓
+Bounded Recursive Examination
+
+──────────────────────────────
+Responsibility Boundary
+──────────────────────────────
+
+05
+
+What remains structurally valid?
+        +
+What materially requires change?
+        ↓
+Structural Disposition
+```
+
+Thus:
+
+> **04 determines the scope of examination.**
+
+> **05 determines the disposition of examined structure.**
+
+These responsibilities are related but not interchangeable.
+
+---
+
+# Recursive Target ≠ Revision Target
+
+A particularly important boundary condition is:
+
+> **Recursive Target ≠ Revision Target**
+
+Selection as a Recursive Target means:
+
+> the structure has become relevant enough to require examination.
+
+It does not mean:
+
+> the structure has already been judged inadequate.
+
+For example:
+
+```text
+Earlier Finding F
+        ↓
+Selected as Recursive Target
+        ↓
+Recursive Examination
+        │
+        ├── Remains Structurally Valid
+        │          ↓
+        │       Preserve
+        │
+        └── Material Change Required
+                   ↓
+                Revise
+```
+
+Thus:
+
+> **selection for examination does not predetermine structural disposition.**
+
+This prevents 04 from implicitly performing the judgment assigned to 05.
+
+---
+
+# Recursive Depth ≠ Revision Magnitude
+
+The same distinction applies to Depth.
+
+A deep recursive examination does not imply extensive Revision.
+
+A shallow examination does not imply minor Revision.
+
+For example:
+
+```text
+Deep Examination
+        ↓
+Multiple Dependencies Re-examined
+        ↓
+No Material Structural Change
+        ↓
+Preserve
+```
+
+while:
+
+```text
+Shallow Examination
+        ↓
+Critical Local Contradiction
+        ↓
+Material Revision
+```
+
+Therefore:
+
+> **Recursive Depth and Revision Magnitude are operationally distinct dimensions.**
+
+This further separates 04 from 05.
+
+---
+
+# 04 Output as 05 Input
+
+The relationship can be expressed as:
+
+```text
+04 Output
+
+Bounded Recursive Examination
+        ↓
+Examined Reasoning Structure
+        ↓
+──────────────────────────────
+04 / 05 Boundary
+──────────────────────────────
+        ↓
+05 Input
+
+Structure Available
+for Disposition Judgment
+```
+
+This transition is operationally coherent.
+
+05 does not need to repeat Target Selection or Depth Selection.
+
+It receives their result.
+
+---
+
+# 04 → 05 Fit Result
+
+The first Fit Test therefore produces:
+
+> **04 → 05 Responsibility Fit: Clear**
+
+No Primary Responsibility conflict is identified.
+
+The relationship is:
+
+```text
+04
+Scope Regulation
+        ↓
+05
+Structural Disposition
+```
+
+The upstream boundary is retained.
+
+---
+
+# 05 Internal Responsibility
+
+The central responsibility of 05 can now be stated in compact form:
+
+> **To determine, after bounded recursive examination, which elements of the examined reasoning structure remain structurally valid and should be preserved, and which elements exhibit materially consequential inadequacy or change and therefore require revision.**
+
+Its internal structure is:
+
+```text
+Recursive Examination Completed
+        ↓
+Sufficient Basis for Judgment?
+        │
+        ├── No
+        │     ↓
+        │ Judgment Not Yet Stabilized
+        │
+        └── Yes
+              ↓
+Evaluate Relevant
+Structural Components
+              ↓
+Material Structural Consequence?
+        │
+        ├── No
+        │     ↓
+        │  Preserve
+        │
+        └── Yes
+              ↓
+           Revise
+              ↓
+Preserve Unaffected Structure
+        +
+Revise Materially Affected Structure
+              ↓
+Structurally Updated State
+```
+
+This constitutes:
+
+> **Structural Disposition**
+
+within the examined reasoning scope.
+
+---
+
+# Primary Responsibility of 05
+
+The Primary Responsibility of 05 is therefore:
+
+> **component-sensitive Preservation / Revision after recursive examination.**
+
+It includes:
+
+- determining whether sufficient basis exists for disposition
+- identifying the relevant Structural Granularity
+- evaluating Material Structural Consequence
+- preserving structurally valid elements
+- revising materially affected elements
+- determining Intrinsic Revision Scope
+- producing a Structurally Updated State
+
+It does not include:
+
+- selecting the original Recursive Target
+- determining Recursive Depth
+- performing unrestricted downstream propagation
+- establishing complete post-revision coherence
+- declaring global Restabilization
+
+---
+
+# 05 Output
+
+The natural output of 05 is:
+
+> **Structurally Updated State**
+
+This state reflects the completed Preservation / Revision judgments within the relevant examined scope.
+
+For example:
+
+```text
+Before
+
+A
+↓
+B
+↓
+C
+
+
+After 05
+
+A        → Preserved
+↓
+B'       → Revised
+↓
+C        → Preserved within current judgment
+```
+
+However, the fact that the structure has been updated does not establish that all consequences of B' have been evaluated.
+
+Therefore:
+
+> **Structurally Updated State ≠ Restabilized Reasoning State**
+
+This distinction forms the downstream boundary.
+
+---
+
+# 05 → 06 Responsibility Boundary
+
+Once the Structurally Updated State exists, a different class of questions becomes relevant.
+
+For example:
+
+> Does B' remain compatible with C?
+
+> Does changing B alter the validity of D?
+
+> Does the change propagate to the Current Reasoning State?
+
+> Are previously preserved downstream structures still coherent?
+
+> Has the reasoning process recovered a sufficiently stable state to continue?
+
+These are not questions about whether B should have been revised.
+
+They are questions about:
+
+> **the consequences of the revision that has already occurred.**
+
+---
+
+# Structural Disposition vs. Consequential Re-evaluation
+
+The boundary can therefore be represented as:
+
+```text
+05
+
+What should be Preserved?
+What should be Revised?
+        ↓
+Structurally Updated State
+
+──────────────────────────────
+Responsibility Boundary
+──────────────────────────────
+
+06 Candidate
+
+What consequences follow
+from the updated structure?
+        ↓
+Are downstream dependencies coherent?
+        ↓
+Has the reasoning state
+restabilized?
+```
+
+Thus:
+
+> **05 determines structural disposition.**
+
+> **06 evaluates the consequences and stability of the resulting structure.**
+
+---
+
+# Intrinsic Revision Scope vs. Consequential Propagation
+
+This boundary resolves an important ambiguity identified during both 04 and 05.
+
+Suppose:
+
+```text
+A
+↓
+B
+↓
+C
+↓
+D
+↓
+Current State
+```
+
+Recursive examination determines:
+
+```text
+B → Revise
+```
+
+05 determines:
+
+```text
+B → B'
+```
+
+This is:
+
+> **Intrinsic Revision Scope**
+
+The next questions are:
+
+```text
+B' → C ?
+C  → D ?
+D  → Current State ?
+```
+
+These constitute:
+
+> **Consequential Forward Propagation**
+
+Therefore:
+
+```text
+Intrinsic Revision Scope
+        ↓
+05
+
+Consequential Forward Propagation
+        ↓
+06 Candidate
+```
+
+The distinction is operationally stable.
+
+---
+
+# Counter-Test — Should Forward Propagation Remain Inside 05?
+
+A strong counter-argument can be constructed.
+
+Revision may be incomplete unless its consequences are examined.
+
+Therefore one could argue:
+
+> **Revision and Forward Propagation should form one mechanism.**
+
+Under this model:
+
+```text
+Revision
+        ↓
+Propagate Consequences
+        ↓
+Complete Revision
+```
+
+If correct, 05 would need to absorb part of the downstream responsibility.
+
+This requires counter-testing.
+
+---
+
+# Counter-Test Result
+
+The distinction survives because the two judgments answer different questions.
+
+Revision asks:
+
+> **What in the examined structure must change?**
+
+Forward Propagation asks:
+
+> **What later reasoning is affected because that change occurred?**
+
+The second operation depends on the result of the first.
+
+But dependency does not imply identity.
+
+For example:
+
+```text
+B requires Revision
+```
+
+can be valid even before it is known whether:
+
+```text
+C changes
+D changes
+Current State changes
+```
+
+Therefore:
+
+> **Revision Judgment can be complete while Consequential Evaluation remains incomplete.**
+
+This supports the responsibility boundary.
+
+---
+
+# Cause ≠ Responsibility Placement
+
+Revision may cause the need for downstream re-evaluation.
+
+However:
+
+> **the cause of an operation does not determine the responsibility placement of the resulting operation.**
+
+A Revision in 05 may trigger work in 06 without requiring that work to become part of 05.
+
+This is structurally analogous to:
+
+```text
+03
+Re-entry Required
+        ↓
+causes
+        ↓
+04
+Target / Depth Selection
+```
+
+The fact that 03 triggers 04 does not make Target / Depth Selection part of 03.
+
+Likewise:
+
+```text
+05
+Revision
+        ↓
+may cause
+        ↓
+06
+Consequential Re-evaluation
+```
+
+without collapsing the two responsibilities.
+
+---
+
+# Updated ≠ Coherent
+
+Another counter-test concerns the meaning of:
+
+> Structurally Updated State
+
+Could an update be considered complete only when the resulting structure is coherent?
+
+If so, Restabilization might already belong to 05.
+
+However, consider:
+
+```text
+Original
+
+A
+↓
+B
+↓
+C
+```
+
+Recursive examination establishes that B is inadequate.
+
+05 replaces B with B':
+
+```text
+A
+↓
+B'
+↓
+C
+```
+
+The local Revision may be fully justified.
+
+But whether:
+
+```text
+B' → C
+```
+
+remains coherent is a separate question.
+
+Thus:
+
+> **local structural adequacy of Revision does not guarantee global coherence of the resulting reasoning structure.**
+
+Therefore:
+
+> **Updated ≠ Coherent**
+
+and consequently:
+
+> **Updated ≠ Restabilized**
+
+---
+
+# Local Validity vs. Global Stability
+
+The distinction can be expressed as:
+
+```text
+Local Structural Judgment
+        ↓
+Preserve / Revise
+        ↓
+Updated Structure
+        ↓
+──────────────────────────────
+Responsibility Boundary
+──────────────────────────────
+        ↓
+Broader Consequence Evaluation
+        ↓
+Global / Relevant-Scope Coherence
+        ↓
+Restabilization
+```
+
+05 therefore produces a locally justified structural update.
+
+A downstream mechanism determines whether that update has been successfully integrated into the broader reasoning state.
+
+---
+
+# Preservation Does Not Eliminate Downstream Evaluation
+
+The downstream boundary applies even to components initially preserved.
+
+Suppose:
+
+```text
+A → Preserve
+B → Revise
+C → Preserve
+```
+
+After B becomes B':
+
+```text
+A
+↓
+B'
+↓
+C
+```
+
+C may now require re-evaluation because its dependency on B has changed.
+
+Therefore:
+
+> **Preservation within 05 is relative to the current disposition context.**
+
+It does not guarantee immunity from downstream consequence evaluation.
+
+This is another reason not to collapse Restabilization into Preservation / Revision.
+
+---
+
+# 05 → 06 Fit Result
+
+The second Fit Test therefore produces:
+
+> **05 → 06 Responsibility Fit: Clear**
+
+05 terminates at:
+
+> **Structurally Updated State**
+
+The downstream responsibility begins with:
+
+> **evaluation of the consequences and coherence of that updated state.**
+
+No Primary Responsibility conflict is currently identified.
+
+---
+
+# 04–05–06 Responsibility Matrix
+
+The three adjacent responsibilities can now be compared directly.
+
+| Operational Judgment | 04 | 05 | 06 |
+|---|---:|---:|---:|
+| Recursive Target Selection | **Primary** | Input | — |
+| Recursive Depth Selection | **Primary** | Input | — |
+| Recursive Examination Scope | **Primary** | Input | — |
+| Structural Evaluation after Examination | Boundary | **Primary** | Input |
+| Preservation Judgment | — | **Primary** | Input |
+| Revision Judgment | — | **Primary** | Input |
+| Structural Granularity of Disposition | — | **Primary** | — |
+| Selective Revision | — | **Absorbed Property** | — |
+| Intrinsic Revision Scope | — | **Primary** | — |
+| Structurally Updated State | — | **Primary Output** | Input |
+| Forward Consequence Propagation | Excluded | Boundary | **Candidate** |
+| Post-Revision Dependency Evaluation | — | Boundary | **Candidate** |
+| Post-Revision Coherence | — | Boundary | **Candidate** |
+| Restabilization | — | Boundary | **Candidate** |
+
+The matrix reveals no current Primary Responsibility collision.
+
+---
+
+# Responsibility Continuity
+
+The sequence now forms a coherent operational handoff:
+
+```text
+03
+Should Recursive Re-entry Occur?
+        ↓
+04
+Where Should Examination Begin
+and How Far Should It Extend?
+        ↓
+05
+What Should Be Preserved
+and What Should Be Revised?
+        ↓
+06
+What Are the Consequences
+and Has the Reasoning State Restabilized?
+```
+
+Each mechanism receives a problem created by the completion of the preceding mechanism.
+
+This creates:
+
+> **Responsibility Continuity without Responsibility Mixing**
+
+---
+
+# Input / Operation / Output View
+
+The same sequence can be represented more formally.
+
+## 04
+
+**Input**
+
+> Recursive Re-entry Required
+
+**Operation**
+
+> Target Selection + Depth Selection
+
+**Output**
+
+> Bounded Recursive Examination
+
+---
+
+## 05
+
+**Input**
+
+> Examined Reasoning Structure
+
+**Operation**
+
+> Component-sensitive Preservation / Revision Judgment
+
+**Output**
+
+> Structurally Updated State
+
+---
+
+## 06 Candidate
+
+**Input**
+
+> Structurally Updated State
+
+**Operation**
+
+> Consequence / Coherence / Restabilization Examination
+
+**Output**
+
+> To be determined during 06 formation
+
+---
+
+This provides a clean operational interface between adjacent assets.
+
+---
+
+# Boundary Protection
+
+To preserve the responsibility of 05, the following should remain outside its primary scope.
+
+## Excluded Upstream Responsibilities
+
+05 should not independently determine:
+
+- whether recursive re-entry is required
+- the original Recursive Target
+- Recursive Depth
+- the initial bounded examination scope
+
+These belong upstream.
+
+---
+
+## Excluded Downstream Responsibilities
+
+05 should not independently determine:
+
+- complete forward consequence propagation
+- final downstream dependency coherence
+- full reasoning-state stability
+- closure of the recursive cycle
+- whether the entire process is ready for Externalization
+
+These belong downstream or to broader operational governance.
+
+---
+
+# Permitted Boundary Awareness
+
+Responsibility separation does not require ignorance of adjacent mechanisms.
+
+05 may recognize:
+
+> a Revision is likely to have downstream consequences.
+
+It may also produce information needed downstream.
+
+For example:
+
+```text
+Revision Result
+
+B → B'
+
+Known dependency:
+B' affects C
+
+        ↓
+
+Pass to downstream evaluation
+```
+
+This does not mean 05 must complete the evaluation of C.
+
+Thus:
+
+> **Boundary Awareness ≠ Responsibility Absorption**
+
+---
+
+# Handoff Principle
+
+A useful operational principle emerges:
+
+> **When a mechanism identifies a consequential problem whose resolution belongs to a downstream responsibility, it should preserve the problem as a handoff rather than absorb the downstream mechanism.**
+
+For 05:
+
+```text
+Revision Completed
+        ↓
+Potential Downstream Consequence Identified
+        ↓
+Preserve as Handoff
+        ↓
+06
+```
+
+This supports modularity within the emerging protocol candidate.
+
+---
+
+# Counter-Test — Could 05 Be Eliminated Entirely?
+
+A stronger structural challenge is possible.
+
+Perhaps Preservation / Revision does not need its own operational asset.
+
+One could imagine:
+
+```text
+04
+Target / Depth
+        ↓
+Recursive Examination
+        ↓
+06
+Restabilization
+```
+
+with Preservation / Revision absorbed into Restabilization.
+
+If so, 05 would be unnecessary.
+
+This hypothesis must be tested.
+
+---
+
+# Elimination Test
+
+Restabilization requires some state to be restabilized.
+
+Before downstream coherence can be evaluated, the process must know what happened to the examined structure.
+
+Specifically:
+
+```text
+Examined Structure
+        ↓
+?
+        ↓
+Updated Structure
+        ↓
+Restabilization
+```
+
+The missing operation is exactly:
+
+> **Preservation / Revision**
+
+Without it, the process cannot determine:
+
+- what remains unchanged
+- what has changed
+- what revised structure should be propagated
+- which dependencies may require downstream re-evaluation
+
+Therefore 05 performs a necessary intermediate responsibility.
+
+The elimination hypothesis fails.
+
+---
+
+# Counter-Test — Could 05 Be Absorbed into 04?
+
+A second elimination hypothesis is:
+
+> Target / Depth selection could include the eventual Preserve / Revise judgment.
+
+However:
+
+```text
+Target Selection
+```
+
+answers:
+
+> What should be examined?
+
+while:
+
+```text
+Preserve / Revise
+```
+
+answers:
+
+> What does the completed examination imply for the structure?
+
+The latter cannot be reliably determined before the former has produced and bounded the examination.
+
+Therefore 05 cannot be absorbed upstream without conflating:
+
+> examination selection
+
+with:
+
+> examination outcome.
+
+This elimination hypothesis also fails.
+
+---
+
+# Independent Responsibility Test
+
+05 therefore satisfies three conditions for retaining a distinct responsibility:
+
+1. It receives a coherent input from the preceding mechanism.
+2. It performs an operation not already completed upstream.
+3. It produces an output required by the downstream mechanism.
+
+Formally:
+
+```text
+Input
+Examined Structure
+
+        ↓
+
+Distinct Operation
+Structural Disposition
+
+        ↓
+
+Output
+Structurally Updated State
+```
+
+This supports retention of 05 as a distinct Mission 002 asset.
+
+---
+
+# Final Responsibility Definition
+
+The responsibility of 05 can therefore be fixed as:
+
+> **To determine, after bounded recursive examination, which elements of the examined reasoning structure remain structurally valid and should be preserved, and which elements exhibit materially consequential inadequacy or change and therefore require revision.**
+
+Its boundary can be fixed as:
+
+> **05 determines the structural disposition of examined reasoning; it does not determine the full downstream consequences or restabilization of the resulting updated reasoning state.**
+
+---
+
+# Operational Mechanism — Consolidated Form
+
+The complete current mechanism is:
+
+```text
+Bounded Recursive Examination
+        ↓
+Examined Reasoning Structure
+        ↓
+Sufficient Basis for Judgment?
+        │
+        ├── No
+        │     ↓
+        │ Judgment Not Yet Stabilized
+        │
+        └── Yes
+              ↓
+Identify Relevant
+Structural Granularity
+              ↓
+Evaluate Material
+Structural Consequence
+              ↓
+      ┌───────┴────────┐
+      │                │
+      ▼                ▼
+No Material        Material
+Change Required    Change Required
+      │                │
+      ▼                ▼
+ Preserve             Revise
+      │                │
+      └───────┬────────┘
+              ↓
+Preserve Structurally
+Valid Components
+        +
+Revise Materially
+Affected Components
+              ↓
+Structurally Updated State
+              ↓
+──────────────────────────────
+05 Responsibility Boundary
+──────────────────────────────
+              ↓
+Consequential Forward
+Propagation / Coherence /
+Restabilization
+              ↓
+06 Candidate
+```
+
+---
+
+# Operational Principles
+
+The current mechanism supports the following principles.
+
+## Principle 1 — Examination Does Not Predetermine Revision
+
+> **Recursive Re-entry and Recursive Target Selection establish the need for examination, not the outcome of examination.**
+
+---
+
+## Principle 2 — Preserve Valid Structure
+
+> **Structure that remains adequate under recursive examination should be preserved within the current judgment scope.**
+
+---
+
+## Principle 3 — Revise Materially Affected Structure
+
+> **Structure should be revised when unchanged Preservation would lose, distort, or retain materially consequential information exposed by recursive examination.**
+
+---
+
+## Principle 4 — Preserve and Revise at Appropriate Granularity
+
+> **Preservation and Revision may coexist within the same Finding when different structural components receive different judgments.**
+
+---
+
+## Principle 5 — Do Not Force Premature Disposition
+
+> **When the basis for judgment is insufficient, the state should remain Judgment Not Yet Stabilized rather than forcing Preserve or Revise.**
+
+---
+
+## Principle 6 — Selectivity Emerges from Granular Judgment
+
+> **Selective Revision does not currently require an independent mechanism; it emerges from preserving valid structure while revising materially affected structure.**
+
+---
+
+## Principle 7 — Preservation Constrains Revision
+
+> **Valid structure should not be changed merely because adjacent structure requires Revision.**
+
+---
+
+## Principle 8 — Revision Constrains Preservation
+
+> **Materially inadequate structure should not remain unchanged merely because surrounding structure remains valid.**
+
+---
+
+## Principle 9 — Structural Update Does Not Equal Restabilization
+
+> **A justified local update does not establish that downstream dependencies or the broader reasoning state are coherent.**
+
+---
+
+## Principle 10 — Consequential Propagation Is Downstream
+
+> **The consequences of a completed Revision should be evaluated downstream rather than absorbed into the intrinsic Preservation / Revision judgment.**
+
+---
+
+# Failure Conditions
+
+The mechanism should be considered operationally inadequate if it systematically produces any of the following:
+
+- automatic Revision merely because recursive re-entry occurred
+- automatic Revision of the complete Recursive Target
+- automatic Preservation because no explicit contradiction was found
+- forced Preserve / Revise judgment despite insufficient evidence
+- whole-structure Revision for local structural problems
+- whole-structure Preservation despite materially affected components
+- Revision triggered by irrelevant difference
+- uncontrolled expansion of Revision Scope
+- failure to preserve structurally valid components
+- failure to revise materially affected components
+- conflation of Intrinsic Revision with downstream propagation
+- assumption that Structural Update automatically implies Restabilization
+- treatment of Preservation as permanent immunity from future re-entry
+
+These failure conditions provide future validation targets.
+
+---
+
+# What This Document Does Not Establish
+
+This document does not establish:
+
+- a universal algorithm for identifying Material Structural Consequence
+- a numerical threshold for Preservation
+- a numerical threshold for Revision
+- a universal ontology of reasoning components
+- a universal Revision magnitude
+- a universal depth-to-revision relationship
+- automatic confidence calibration after Preservation
+- automatic confidence reduction after Revision
+- complete downstream propagation rules
+- complete Restabilization conditions
+- repository mutation rules
+- a complete Human–AI Coupling mechanism
+
+These remain outside the current evidential scope.
+
+---
+
+# Evidence Status
+
+The mechanism was formed through bounded operational examination within Mission 002.
+
+The development sequence included:
+
+```text
+Initial Candidate Formation
+        ↓
+Preserve / Revise Binary
+        ↓
+Whole-Finding Counter-Test
+        ↓
+Component-Sensitive Disposition
+        ↓
+Judgment Readiness Separation
+        ↓
+Material Structural Consequence
+        ↓
+Selective Revision Counter-Test
+        ↓
+Absorption into Granular Judgment
+        ↓
+Intrinsic / Consequential Scope Separation
+        ↓
+04–05–06 Responsibility Fit Test
+        ↓
+Restabilized Operational Candidate
+```
+
+The current structure therefore represents:
+
+> **an evidence-supported operational candidate derived from observed recursive reasoning behavior and subsequent counter-testing.**
+
+It should not yet be interpreted as a universally validated theory of recursive reasoning.
+
+---
+
+# Counter-Test Outcomes
+
+The principal counter-tests produced the following outcomes.
+
+| Tested Candidate | Result |
+|---|---|
+| Preserve / Revise as whole-Finding exclusive binary | Rejected |
+| Preserve / Revise as component-sensitive Operational Pair | Retained |
+| Undetermined as third disposition | Rejected |
+| Judgment Not Yet Stabilized as judgment state | Retained |
+| No contradiction as sufficient Preservation criterion | Rejected |
+| Difference alone as Revision criterion | Rejected |
+| Material Structural Consequence | Retained |
+| Revision as complete replacement | Rejected |
+| Revision through qualification / refinement | Retained |
+| Selective Revision as independent mechanism | Rejected |
+| Selective Revision as emergent property | Retained |
+| Minimal Sufficient Revision as independent rule | Not required |
+| Preservation as anti-over-revision constraint | Retained |
+| Revision as anti-over-preservation constraint | Retained |
+| Intrinsic Revision Scope within 05 | Retained |
+| Consequential Forward Propagation within 05 | Rejected |
+| Structural Update = Restabilization | Rejected |
+| Recursive Target = Revision Target | Rejected |
+| Recursive Depth = Revision Magnitude | Rejected |
+| 05 absorbed into 04 | Rejected |
+| 05 absorbed into 06 | Rejected |
+
+---
+
+# Responsibility Fit Result
+
+The final Responsibility Fit Test produces:
+
+```text
+04 → 05
+FIT
+
+05 Internal Responsibility
+COHERENT
+
+05 → 06
+FIT
+```
+
+No material Responsibility Mixing was identified.
+
+Therefore:
+
+> **05 occupies a distinct operational position between Recursive Examination Scope and downstream Restabilization.**
+
+---
+
+# Externalization Readiness Assessment
+
+The current mechanism satisfies the following conditions.
+
+## Candidate Formation
+
+Complete.
+
+## Counter-Testing
+
+Complete for the major alternatives identified during bounded examination.
+
+## Structural Compression
+
+Complete at the current evidential level.
+
+## Responsibility Boundary
+
+Clear against both 04 and the emerging 06 responsibility.
+
+## Major Internal Residual
+
+None currently identified.
+
+## Additional Exploration Value
+
+Expected structural change from additional unrestricted exploration is currently low.
+
+## Externalization Risk
+
+Acceptable for provisional Mission 002 use.
+
+---
+
+# Externalization Readiness Judgment
+
+The resulting judgment is:
+
+> **05 — Preservation and Revision: Externalization Ready**
+
+The document may therefore serve as the current Mission 002 baseline for this operational responsibility.
+
+---
+
+# Current Baseline
+
+The current baseline is:
+
+```text
+Recursive Examination
+        ↓
+Sufficient Basis for Judgment?
+        │
+        ├── No
+        │     ↓
+        │ Judgment Not Yet Stabilized
+        │
+        └── Yes
+              ↓
+Component-Sensitive
+Structural Evaluation
+              ↓
+Material Structural Consequence?
+        │
+        ├── No
+        │     ↓
+        │  Preserve
+        │
+        └── Yes
+              ↓
+           Revise
+              ↓
+Preserve Valid Structure
+        +
+Revise Materially
+Affected Structure
+              ↓
+Structurally Updated State
+              ↓
+Downstream Restabilization
+```
+
+---
+
+# Mission 002 Navigation
+
+At completion of this document, the Mission 002 sequence is:
+
+```text
+00 — Entry Definition
+        ✓
+
+01 — Operationalization Analysis
+        ✓
+
+02 — Operational Requirements
+        ✓
+Current Baseline / Freeze
+
+03 — Recursive Trigger and Re-entry
+        ✓
+Current Baseline / Freeze
+
+04 — Recursive Target and Depth
+        ✓
+Current Baseline / Freeze
+
+05 — Preservation and Revision
+        ●
+Externalized / Current Baseline Candidate
+
+06 — Restabilization
+        ○
+Next
+
+07 — Human–AI Coupling
+        ○
+Pending
+
+Mission 002 Closure
+        ○
+Pending
+```
+
+---
+
+# Relationship to Accelerated Examination
+
+The formation of 05 followed the same bounded examination pattern previously used during 03 and 04:
+
+```text
+Candidate Formation
+        ↓
+Focused Counter-Test
+        ↓
+Structural Compression
+        ↓
+Residual Inspection
+        ↓
+Responsibility Fit
+        ↓
+Externalization Readiness
+```
+
+This recurrence is noted because it may become relevant to later methodological observation.
+
+However:
+
+> **the recurrence itself is not analyzed or promoted to a new Mission 002 mechanism within this document.**
+
+It remains outside the responsibility of 05.
+
+---
+
+# Meta-Observation Hold
+
+A broader observation has emerged across multiple Mission 002 assets:
+
+> different operational questions appear capable of being examined through a recurring bounded reasoning pattern.
+
+The current evidence includes repeated use of:
+
+- candidate formation
+- intentional counter-testing
+- absorption or rejection of unnecessary mechanisms
+- responsibility-boundary inspection
+- convergence assessment
+- Externalization Readiness judgment
+
+This observation is intentionally held.
+
+It is not used to redesign the present protocol candidate.
+
+Further recurrence may strengthen or weaken its significance.
+
+---
+
+# Relationship to Observe Before Design
+
+The formation of this mechanism followed the broader Mission 002 discipline:
+
+> **Observe before Design**
+
+The Preservation / Revision mechanism was not introduced as a predetermined protocol rule.
+
+Instead, the process moved through:
+
+```text
+Observed Operational Problem
+        ↓
+Candidate Distinction
+        ↓
+Counter-Example
+        ↓
+Revision of Candidate
+        ↓
+Compression
+        ↓
+Boundary Test
+        ↓
+Current Operational Candidate
+```
+
+Accordingly, this document should be read as:
+
+> **an externalized result of bounded observation**
+
+rather than:
+
+> a top-down prescriptive protocol imposed before observation.
+
+---
+
+# Provisionality
+
+The current mechanism is sufficiently stable for use as the Mission 002 baseline.
+
+However, it remains provisional in the broader research sense.
+
+Future evidence may reveal:
+
+- additional Preservation states
+- additional Revision conditions
+- different structural granularity requirements
+- interaction with Human–AI Coupling
+- interaction with Externalization
+- interaction with repository-level artifact revision
+- failure cases not represented in the current evidence
+- contexts in which the current Responsibility Boundary must be revised
+
+Such evidence should not automatically invalidate the present mechanism.
+
+Instead, it should be evaluated through the recursive process being developed within Mission 002.
+
+---
+
+# Future Validation Opportunities
+
+Potential future validation may include:
+
+- independent instance examination
+- cross-case comparison
+- application to unseen reasoning trajectories
+- comparison with previously externalized recursive reasoning cases
+- examination of failure cases
+- Human–AI interaction perturbation
+- repository re-entry cases
+- post-externalization recursive reasoning cases
+
+These are validation opportunities.
+
+They are not current prerequisites for retaining this document as the Mission 002 baseline.
+
+---
+
+# Independent Validation Status
+
+Independent Instance Validation is not treated as a current completion condition for 05.
+
+The present asset is based on:
+
+> **single-instance, internally counter-tested, evidence-supported operational examination.**
+
+Independent validation may later strengthen or challenge the mechanism.
+
+Its absence does not prevent the present document from functioning as:
+
+> **Current Baseline**
+
+within Mission 002.
+
+---
+
+# Current Interpretation
+
+The strongest current interpretation is:
+
+> Recursive reasoning does not require wholesale reconstruction whenever earlier reasoning becomes relevant again.
+
+Instead, after bounded recursive examination, the reasoning process can distinguish:
+
+> **what remains structurally valid**
+
+from:
+
+> **what materially requires change.**
+
+This permits:
+
+```text
+Continuity
+        +
+Adaptation
+        ↓
+Structurally Updated Reasoning
+```
+
+without requiring either:
+
+```text
+Permanent Preservation
+```
+
+or:
+
+```text
+Total Reconstruction
+```
+
+---
+
+# Core Finding
+
+The central operational finding of this document is:
+
+> **Preservation and Revision function as a component-sensitive, reciprocally constraining Operational Pair that determines the structural disposition of reasoning after recursive examination.**
+
+Preservation protects valid structure from unnecessary reconstruction.
+
+Revision prevents materially inadequate structure from being carried forward unchanged.
+
+Selective Revision emerges from their interaction rather than requiring an independent mechanism.
+
+---
+
+# Compact Operational Statement
+
+The mechanism can be compressed to:
+
+> **After bounded recursive examination, preserve the parts of the reasoning structure that remain structurally valid and revise the parts for which unchanged continuation would fail to represent materially consequential findings. Do not treat the resulting structural update as equivalent to full restabilization; propagate and evaluate its downstream consequences separately.**
+
+---
+
+# Final Boundary Statement
+
+```text
+04
+Recursive Target and Depth
+        ↓
+Determines
+WHERE / HOW FAR
+to Examine
+        ↓
+──────────────────────────────
+        ↓
+05
+Preservation and Revision
+        ↓
+Determines
+WHAT TO PRESERVE /
+WHAT TO REVISE
+        ↓
+Structurally Updated State
+        ↓
+──────────────────────────────
+        ↓
+06
+Restabilization
+        ↓
+Determines
+WHETHER CONSEQUENCES
+HAVE BEEN INTEGRATED
+AND STABILITY RECOVERED
+```
+
+This boundary is retained as the current Mission 002 architecture.
+
+---
+
+# Stop Judgment
+
+Further unrestricted exploration of Preservation / Revision is not currently justified.
+
+The reasons are:
+
+- the principal binary assumption has been counter-tested
+- component-sensitive disposition has survived
+- Judgment Readiness has been separated from disposition
+- Material Structural Consequence provides a stable judgment axis
+- Selective Revision has been tested and absorbed
+- Minimal Sufficient Revision does not require independent status
+- Intrinsic and Consequential Revision Scope have been separated
+- upstream Responsibility Fit is clear
+- downstream Responsibility Fit is clear
+- no major internal residual remains
+- additional exploration currently has low expected structural yield
+
+Therefore:
+
+> **Stop further 05 exploration at the current evidential level.**
+
+---
+
+# Freeze Recommendation
+
+The current recommendation is:
+
+> **05 — Preservation and Revision**
+>
+> **Externalization Complete**
+>
+> **Current Baseline**
+>
+> **Freeze Recommended**
+
+Freeze means:
+
+- do not continue exploratory expansion without new evidence
+- do not introduce additional mechanisms merely for completeness
+- preserve the current responsibility boundary
+- reopen only when materially relevant evidence justifies recursive re-entry
+
+Freeze does not mean:
+
+- universal theoretical validation
+- permanent immunity from Revision
+- closure of Mission 002 as a whole
+
+---
+
+# Next Operational Question
+
+The completion of 05 naturally exposes the next unresolved operational question:
+
+> **After Preservation / Revision produces a Structurally Updated State, how does the reasoning process determine whether the consequences of that update have been adequately integrated and whether a stable reasoning state has been recovered?**
+
+This becomes the entry question for:
+
+> **06 — Restabilization**
+
+No further 05 mechanism should be introduced before that downstream responsibility is examined.
+
+---
+
+# Current Mission State
+
+```text
+Mission 002
+Protocol Candidate Formation
+
+00  Entry Definition
+    COMPLETE
+
+01  Operationalization Analysis
+    COMPLETE
+
+02  Operational Requirements
+    COMPLETE / FREEZE
+
+03  Recursive Trigger and Re-entry
+    COMPLETE / FREEZE
+
+04  Recursive Target and Depth
+    COMPLETE / FREEZE
+
+05  Preservation and Revision
+    COMPLETE / FREEZE RECOMMENDED
+
+06  Restabilization
+    NEXT
+
+07  Human–AI Coupling
+    PENDING
+
+Mission 002 Closure
+    PENDING
+```
+
+---
+
+# End State
+
+**05 Preservation and Revision**
+
+**Reasoning Status:** Restabilized
+
+**Responsibility Fit:** Confirmed
+
+**Externalization Status:** Complete
+
+**Baseline Status:** Current Baseline
+
+**Freeze Status:** Recommended
+
+**Next:** 06 — Restabilization
+
+---
+
+# End of Part 3/3
