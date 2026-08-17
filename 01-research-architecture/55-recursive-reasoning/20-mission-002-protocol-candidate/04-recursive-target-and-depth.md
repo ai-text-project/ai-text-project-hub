@@ -2234,3 +2234,1024 @@ This is addressed in the final part of this document.
 
 # End of Part 2/3
 
+# Responsibility Fit
+
+Before externalization, the combined Target / Depth mechanism must be tested against the responsibilities of the adjacent Mission 002 assets.
+
+The relevant sequence is:
+
+~~~text
+03 — Recursive Trigger and Re-entry
+        ↓
+04 — Recursive Target and Depth
+        ↓
+05 — Preservation and Revision
+~~~
+
+The purpose of this test is not to reconsider the mechanisms already formed.
+
+It is to determine whether the findings belong naturally within the responsibility of 04 without absorbing the primary responsibilities of 03 or 05.
+
+---
+
+# Boundary with 03 — Recursive Trigger and Re-entry
+
+The preceding asset determines whether recursive re-entry is required.
+
+Its endpoint is:
+
+> **Recursive Re-entry Required**
+
+The current asset begins from that state.
+
+Therefore:
+
+~~~text
+03
+Meaningful Recursive Trigger
+        ↓
+Current-State Resolution?
+        ↓
+Backward Access Requirement?
+        ↓
+Recursive Re-entry Required
+──────────────────────────────
+Responsibility Boundary
+──────────────────────────────
+        ↓
+04
+Recursive Target Selection
+        ↓
+Recursive Depth Selection
+~~~
+
+The current asset does not reconsider:
+
+- whether the observation is a meaningful trigger
+- whether current-state resolution is possible
+- whether backward access is required
+- whether recursive re-entry should occur
+
+Those judgments belong to 03.
+
+---
+
+# 03 / 04 Responsibility Distinction
+
+The distinction can be compressed into:
+
+> **03 asks whether recursive return should occur.**
+
+> **04 asks where recursive return should begin and how far recursive examination should propagate.**
+
+Therefore:
+
+~~~text
+03
+Should we re-enter?
+        ↓
+04
+Where should we re-enter?
+How deeply should we examine?
+~~~
+
+The output of 03 is the input condition of 04.
+
+No material Responsibility Mixing is identified.
+
+---
+
+# Backward Access Requirement as Supporting Input
+
+Backward Access Requirement is a primary finding of 03.
+
+It remains relevant to 04 because Target Selection must identify which earlier reasoning state should be accessed.
+
+However, 04 does not redefine Backward Access Requirement.
+
+Instead:
+
+~~~text
+Backward Access Requirement
+        │
+        │  established in 03
+        ▼
+Recursive Re-entry Required
+        │
+        │  input to 04
+        ▼
+Target Selection
+~~~
+
+Backward Access Requirement therefore functions as:
+
+> **Supporting Input**
+
+rather than a primary responsibility of 04.
+
+This preserves continuity without duplication.
+
+---
+
+# Boundary with 05 — Preservation and Revision
+
+Once Target and Depth have established the Recursive Examination Scope, the process can reconsider the relevant earlier reasoning.
+
+That examination may produce several possible outcomes.
+
+For example:
+
+- an earlier finding remains valid
+- an earlier finding requires qualification
+- an earlier dependency must be revised
+- an earlier interpretation must be replaced
+- multiple findings must be reorganized
+
+At this point, a new operational question appears:
+
+> **What should be preserved and what should be revised?**
+
+This question belongs to the subsequent mechanism.
+
+The boundary is:
+
+~~~text
+04 — Recursive Target and Depth
+
+Select Target
+        ↓
+Determine Depth
+        ↓
+Establish Recursive Examination Scope
+        ↓
+Perform Relevant Recursive Examination
+──────────────────────────────
+Responsibility Boundary
+──────────────────────────────
+        ↓
+05 — Preservation and Revision
+
+Preserve?
+        │
+        └── Revise?
+~~~
+
+Thus:
+
+> **04 determines the scope of reconsideration.**
+
+> **05 determines the disposition of what has been reconsidered.**
+
+---
+
+# Examination Scope ≠ Revision Decision
+
+This distinction is important.
+
+Selecting an earlier state for recursive examination does not imply that the state is wrong.
+
+Likewise, examining deeply into an earlier dependency does not imply that the dependency must be revised.
+
+Recursive examination may ultimately support:
+
+> preservation.
+
+Therefore:
+
+> **Recursive Target ≠ Revision Target**
+
+and:
+
+> **Recursive Depth ≠ Revision Depth**
+
+04 determines what must be examined.
+
+05 determines what the examination justifies preserving or revising.
+
+This prevents recursive access from being conflated with corrective action.
+
+---
+
+# Re-entry Does Not Presuppose Revision
+
+The preceding asset already established:
+
+> **Re-entry ≠ Revision**
+
+The current asset preserves that distinction.
+
+A Recursive Target may be selected because earlier reasoning must be reconsidered.
+
+After examination, the earlier finding may remain unchanged.
+
+For example:
+
+~~~text
+Trigger
+    ↓
+Re-entry Required
+    ↓
+Target C
+    ↓
+Depth → B
+    ↓
+Examination
+    ↓
+C and B remain valid
+    ↓
+Preserve
+~~~
+
+The value of recursion is therefore not limited to finding errors.
+
+It may also increase confidence in previously formed structure.
+
+---
+
+# Forward Propagation Boundary
+
+During Depth examination, a residual problem appeared.
+
+Suppose an earlier finding is revised:
+
+~~~text
+A
+↓
+B ← Revised
+↓
+C
+↓
+D
+↓
+Current State
+~~~
+
+The revision of B may affect:
+
+- C
+- D
+- the current reasoning state
+
+This produces a forward propagation problem.
+
+However, forward propagation does not belong to Recursive Depth.
+
+Recursive Depth determines:
+
+> **how far backward examination must extend before an adequate basis for recursive judgment is established.**
+
+Forward propagation concerns:
+
+> **how the consequence of a Preserve / Revise judgment affects later reasoning states.**
+
+Therefore:
+
+> **Backward Recursive Examination ≠ Forward Consequence Propagation**
+
+The latter remains outside the responsibility of this document.
+
+---
+
+# Placement of Forward Propagation
+
+At this stage, the exact downstream placement of Forward Propagation is intentionally left open.
+
+It may eventually belong primarily to:
+
+- Preservation and Revision
+- Restabilization
+- another downstream operational mechanism
+
+The current evidence is sufficient only to determine:
+
+> **Forward Propagation should not be absorbed into Recursive Target and Depth.**
+
+Therefore its present status is:
+
+> **Excluded from 04 / Downstream Responsibility — To Be Determined**
+
+This preserves the Responsibility Boundary without prematurely designing the later protocol structure.
+
+---
+
+# Responsibility Matrix
+
+The current findings can be distributed across the adjacent assets as follows:
+
+| Finding | 03 | 04 | 05 |
+|---|---:|---:|---:|
+| Meaningful Recursive Trigger | **Primary** | Input condition | — |
+| Current-State Resolution | **Primary** | Supporting context | — |
+| Backward Access Requirement | **Primary** | Supporting input | — |
+| Recursive Re-entry Required | **Primary output** | **Entry condition** | — |
+| Resolution-Relevant Target | — | **Primary** | — |
+| Minimal Structurally Sufficient Target | — | **Primary** | — |
+| Target / Target Set | — | **Primary** | — |
+| Recursive Target Selection | — | **Primary** | — |
+| Dependency-Relevant Depth | — | **Primary** | — |
+| Dynamic Depth Extension | — | **Primary** | — |
+| Selective Recursive Depth | — | **Primary** | Supporting context |
+| Expected Structural Change for Target / Depth | Supporting principle | **Primary application** | Supporting principle |
+| Recursive Examination Scope | — | **Primary** | Input |
+| Preserve / Revise Judgment | Boundary only | Boundary only | **Primary** |
+| Forward Consequence Propagation | — | Excluded | Downstream / TBD |
+
+No major Primary Responsibility conflict is identified.
+
+---
+
+# Responsibility of This Document
+
+This document is responsible for:
+
+- defining Recursive Target Selection
+- distinguishing causal origin from resolution-relevant target
+- distinguishing historical proximity from structural relevance
+- defining Minimal Structurally Sufficient Target
+- allowing Target / Target Set variation
+- defining Recursive Depth Selection
+- distinguishing depth from historical distance
+- defining Dependency-Relevant Depth
+- defining dynamic depth extension
+- applying Structural Sufficiency to Depth
+- applying Expected Structural Change to Target and Depth
+- distinguishing Target from Depth
+- defining their reciprocal constraint
+- establishing Recursive Examination Scope
+- bounding backward recursive examination
+
+---
+
+# Responsibilities Excluded from This Document
+
+This document is not responsible for:
+
+- recognizing a meaningful recursive trigger
+- deciding whether recursive re-entry is required
+- redefining Backward Access Requirement
+- determining what should be preserved
+- determining what should be revised
+- determining the downstream consequences of revision
+- defining complete restabilization
+- defining global Stop Judgment
+- defining Externalization Readiness
+- defining Human–AI coupling
+- constructing the final Recursive Reasoning Protocol
+
+These responsibilities remain distributed across adjacent or later Mission 002 assets.
+
+---
+
+# Context-Sensitive Judgment
+
+The Target / Depth mechanism should not be interpreted as a deterministic search algorithm.
+
+Terms such as:
+
+- relevant
+- structurally sufficient
+- materially consequential
+- meaningful structural change
+- adequate recursive basis
+
+require context-sensitive judgment.
+
+The operational mechanism identifies:
+
+> **where judgment must occur**
+
+without claiming that those judgments can already be reduced to universal fixed thresholds.
+
+Therefore:
+
+> **Operational specification does not imply deterministic execution.**
+
+This remains consistent with the broader Mission 002 finding that recursive reasoning depends on Context-sensitive Judgment across multiple operational locations.
+
+---
+
+# Target Judgment Locations
+
+Target Selection requires judgment at several points:
+
+~~~text
+Earlier State Relevant?
+        ↓
+Structurally Sufficient?
+        ↓
+Further Extension Consequential?
+        ↓
+Select Target
+~~~
+
+Each question is conditional on:
+
+- the active trigger
+- the current reasoning objective
+- the dependency structure
+- the current phase
+- the evidence available
+
+Therefore the target cannot be selected by historical distance alone.
+
+---
+
+# Depth Judgment Locations
+
+Depth Selection similarly requires repeated judgment:
+
+~~~text
+Current Examination Sufficient?
+        ↓
+Earlier Dependency Relevant?
+        ↓
+Deeper Examination Consequential?
+        ↓
+Extend or Stop
+~~~
+
+Depth therefore emerges dynamically from the recursive examination rather than from a universal preset depth.
+
+This is an operational expression of Selective Recursive Depth.
+
+---
+
+# Combined Regulatory Function
+
+Target and Depth together regulate the scope of recursive reasoning.
+
+Without Target Selection:
+
+> recursive re-entry lacks a bounded entry point.
+
+Without Depth Selection:
+
+> recursive examination lacks a bounded propagation extent.
+
+Together:
+
+~~~text
+Target
+    ↓
+Bound Entry Point
+
+Depth
+    ↓
+Bound Propagation
+
+Target + Depth
+    ↓
+Bounded Recursive Examination Scope
+~~~
+
+The combined mechanism therefore functions as:
+
+> **Recursive Scope Regulation**
+
+This phrase describes the function of Target and Depth together.
+
+It is not introduced here as a new independent protocol component.
+
+---
+
+# Anti-Over-Recursion Function
+
+The mechanism limits excessive recursion by preventing:
+
+- automatic return to the earliest reasoning state
+- reopening every historical dependency
+- following irrelevant branches
+- continuing after Structural Sufficiency has been achieved
+- expanding Depth when Expected Structural Change is low
+
+The regulatory principle is:
+
+> **Do not extend recursive examination merely because additional earlier reasoning exists.**
+
+Earlier reasoning must remain structurally consequential to the active problem.
+
+---
+
+# Anti-Under-Recursion Function
+
+The mechanism also prevents insufficient recursion by preventing:
+
+- selection of a merely convenient nearby target
+- stopping at local explanatory sufficiency
+- ignoring hidden relevant assumptions
+- stopping before structurally consequential dependencies are examined
+- treating initial target selection as permanently fixed
+
+The regulatory principle is:
+
+> **Do not stop recursive examination while materially consequential earlier dependencies remain unresolved.**
+
+Thus Target and Depth jointly regulate both excessive and insufficient recursive scope.
+
+---
+
+# Failure Modes
+
+The combined mechanism exposes several operational failure modes.
+
+## Failure Mode 1 — Causal-Origin Fixation
+
+The process assumes that the earliest identifiable cause must be the Recursive Target.
+
+Possible consequence:
+
+- unnecessary historical reopening
+- excessive recursive scope
+
+## Failure Mode 2 — Proximity Bias
+
+The nearest affected earlier state is selected automatically.
+
+Possible consequence:
+
+- deeper structural dependency remains unexamined
+
+## Failure Mode 3 — Local Sufficiency Error
+
+A target is judged sufficient because the visible problem can be corrected locally.
+
+Possible consequence:
+
+- underlying structural condition remains active
+
+## Failure Mode 4 — Single-Target Reduction
+
+A structurally distributed problem is forced into one target state.
+
+Possible consequence:
+
+- incomplete evaluation of interacting dependencies
+
+## Failure Mode 5 — Fixed-Depth Rule
+
+Recursive Depth is predetermined numerically or procedurally.
+
+Possible consequence:
+
+- depth is either insufficient or unnecessarily extensive relative to the active trigger
+
+## Failure Mode 6 — Dependency Chasing
+
+Every discovered earlier dependency causes further recursion.
+
+Possible consequence:
+
+- unbounded recursive expansion
+- branch proliferation
+- delayed convergence
+
+## Failure Mode 7 — Explanatory Sufficiency Error
+
+The process stops when it can explain the problem.
+
+Possible consequence:
+
+- explanation is achieved without structural restabilization
+
+## Failure Mode 8 — Target Lock-in
+
+The initially selected target is never reconsidered even when Depth examination exposes inadequacy.
+
+Possible consequence:
+
+- inefficient or structurally incomplete recursive examination
+
+## Failure Mode 9 — Forward / Backward Mixing
+
+Forward consequences of revision are treated as part of Recursive Depth.
+
+Possible consequence:
+
+- Responsibility Mixing between recursive examination and downstream restabilization
+
+These failure modes remain candidates for later validation.
+
+They are not yet formal protocol criteria.
+
+---
+
+# Evidence Status
+
+The Target / Depth mechanism emerged through a bounded operational examination conducted after the externalization of the Trigger / Re-entry mechanism.
+
+The examination included:
+
+- initial Target candidate formation
+- causal-origin counter-test
+- nearest-state and earliest-state counter-tests
+- Minimal Sufficient Target formation
+- counter-test of local sufficiency
+- revision to Minimal Structurally Sufficient Target
+- identification of Target / Target Set
+- initial Depth candidate formation
+- distinction between historical distance and structural depth
+- Dependency-Relevant Depth formation
+- counter-test of Structural Sufficiency
+- application of Expected Structural Change
+- dynamic Depth formation
+- Target / Depth identity counter-test
+- reciprocal constraint analysis
+- backward-only assumption counter-test
+- Forward Propagation boundary analysis
+- Responsibility Fit testing against 03 and 05
+
+No major unresolved dependency remained within the defined responsibility of 04 before externalization.
+
+The mechanism is therefore assessed as:
+
+> **Evidence-Supported / Internally Restabilized**
+
+It has not been independently validated.
+
+This status records the level of support achieved within the current Mission 002 reasoning trajectory.
+
+---
+
+# Accelerated Examination Status
+
+The examination was intentionally conducted in:
+
+> **Bounded Operational Examination — Accelerated Mode**
+
+The accelerated mode did not lower the evidence requirement.
+
+Instead, it restricted the exploration space.
+
+The process did not broadly search for additional variables.
+
+It focused on two predetermined operational questions:
+
+1. Where should recursive re-entry begin?
+2. How far should recursive examination propagate?
+
+Within those boundaries, candidate mechanisms were:
+
+- formed
+- counter-tested
+- revised
+- counter-tested again
+- bounded against adjacent responsibilities
+
+The resulting mechanism reached Restabilization without requiring broad exploratory expansion.
+
+---
+
+# Restabilization Assessment — Target
+
+The initial Target candidate was approximately:
+
+> return to the earlier state in which the problem originated.
+
+This failed because:
+
+- causal origin may be distributed
+- earliest origin may be unnecessarily distant
+- nearest affected state may be structurally insufficient
+
+The candidate then became:
+
+> Minimal Sufficient Recursive Target.
+
+Counter-testing showed that local sufficiency could still leave deeper structural conditions unresolved.
+
+The mechanism was therefore revised to:
+
+> **Minimal Structurally Sufficient Target**
+
+with:
+
+- Resolution Relevance
+- Structural Sufficiency
+- Recursive Economy
+
+as principal judgment dimensions.
+
+The Single-Target assumption was then counter-tested and absorbed through:
+
+> **Target / Target Set**
+
+without requiring a new independent mechanism.
+
+No subsequent examination produced a major structural change in the Target mechanism.
+
+Target Selection is therefore assessed as:
+
+> **Internally Restabilized**
+
+---
+
+# Restabilization Assessment — Depth
+
+The initial Depth candidate was approximately:
+
+> continue backward until the problem is resolved.
+
+This failed because:
+
+- resolution is ambiguous
+- explanatory sufficiency may occur before structural sufficiency
+- fixed historical distance does not represent dependency relevance
+
+The mechanism was revised toward:
+
+> **Dependency-Relevant Depth**
+
+and then further refined through:
+
+- Structural Sufficiency
+- Expected Structural Change
+- dynamic extension
+- localized Stop Judgment
+
+The resulting Depth mechanism became:
+
+> **dynamically bounded backward examination through structurally consequential earlier dependencies.**
+
+No subsequent examination produced a major structural change in this mechanism.
+
+Depth Selection is therefore assessed as:
+
+> **Internally Restabilized**
+
+---
+
+# Restabilization Assessment — Target / Depth Relationship
+
+The initial distinction was:
+
+> Target = Where
+
+> Depth = How far
+
+A counter-test asked whether an earlier state reached through Depth should instead be considered the true Target.
+
+Comparison showed that:
+
+- the same Target can support different Depth
+- the entry point can remain fixed while propagation extent changes
+
+Therefore:
+
+> **Target ≠ Depth**
+
+However:
+
+- Target selection constrains required Depth
+- Depth examination can expose inadequacy in Target Selection
+
+The relationship was therefore refined to:
+
+> **Operationally Distinct / Reciprocally Constraining**
+
+No further structural contradiction was identified.
+
+The relationship is therefore assessed as:
+
+> **Internally Restabilized**
+
+---
+
+# Stop Judgment
+
+Further Target / Depth exploration was stopped when:
+
+1. Target Selection had survived multiple counter-tests
+2. Depth Selection had survived multiple counter-tests
+3. Target / Depth distinction had survived direct counter-testing
+4. their reciprocal relationship had been identified
+5. Forward Propagation had been bounded outside 04
+6. 03 / 04 Responsibility Boundary was clear
+7. 04 / 05 Responsibility Boundary was clear
+8. no major unresolved dependency remained within 04
+9. additional exploration had low Expected Structural Change
+
+The Stop Judgment therefore did not mean:
+
+> no additional questions are possible.
+
+It meant:
+
+> **additional exploration was no longer expected to materially change the current 04 mechanism within its defined responsibility.**
+
+This justified transition from reasoning to externalization.
+
+---
+
+# Externalization Assessment
+
+The resulting findings fit naturally within:
+
+`04-recursive-target-and-depth.md`
+
+The asset contains two conceptually distinguishable mechanisms:
+
+- Recursive Target Selection
+- Recursive Depth Selection
+
+However, because they are reciprocally constraining, separating them into independent assets would weaken representation of their operational relationship.
+
+The current placement therefore preserves both:
+
+> **internal distinction**
+
+and:
+
+> **operational coupling through reciprocal constraint**
+
+The Placement Fit is assessed as:
+
+> **Strong**
+
+---
+
+# Current Assessment
+
+The operational examination supports the following findings.
+
+Recursive re-entry does not justify reopening the entire earlier reasoning trajectory.
+
+Instead:
+
+> **Recursive Target Selection should identify the most limited earlier reasoning state or state set that provides a structurally sufficient and resolution-relevant entry point for recursive examination.**
+
+Once that target has been selected:
+
+> **Recursive Depth should expand dynamically through earlier dependencies only while those dependencies remain structurally consequential to the active recursive problem.**
+
+Target and Depth are not identical.
+
+> **Target determines where recursive examination begins.**
+
+> **Depth determines how far structurally relevant examination propagates after entry.**
+
+However, they are not independent.
+
+> **Target influences required Depth, and Depth can expose inadequacy in Target Selection.**
+
+Therefore:
+
+> **Recursive Target Selection and Recursive Depth Selection are Operationally Distinct / Reciprocally Constraining.**
+
+Together they establish:
+
+> **a bounded Recursive Examination Scope.**
+
+---
+
+# Minimal Operational Form
+
+The complete mechanism can be compressed into:
+
+~~~text
+Recursive Re-entry Required
+        │
+        ▼
+Identify Resolution-Relevant
+Earlier State / State Set
+        │
+        ▼
+Structurally Sufficient
+as Entry Point?
+        │
+        ├── No
+        │     ↓
+        │  Extend Target Scope
+        │
+        └── Yes
+              ↓
+Would Further Target Extension
+Likely Produce Meaningful
+Structural Change?
+        │
+        ├── Yes
+        │     ↓
+        │  Re-evaluate / Extend Target
+        │
+        └── No
+              ↓
+Select Recursive Target
+        │
+        ▼
+Begin Recursive Examination
+        │
+        ▼
+Relevant Earlier Dependency
+Still Structurally Consequential?
+        │
+        ├── Yes
+        │     ↓
+        │  Extend Depth
+        │     ↓
+        │  Re-evaluate
+        │
+        └── No
+              ↓
+Is Current Examination
+Structurally Sufficient?
+        │
+        ├── No
+        │     ↓
+        │  Extend Depth
+        │
+        └── Yes
+              ↓
+Would Deeper Examination Likely
+Produce Meaningful
+Structural Change?
+        │
+        ├── Yes
+        │     ↓
+        │  Extend Depth
+        │
+        └── No
+              ↓
+        Stop Depth Expansion
+              │
+              ▼
+Bounded Recursive
+Examination Scope
+~~~
+
+This is an operational scaffold.
+
+It should not be interpreted as a deterministic algorithm.
+
+---
+
+# One-Line Summary
+
+Recursive Target Selection identifies the minimally extended earlier reasoning state or state set that provides a structurally sufficient entry point for recursive examination, while Recursive Depth dynamically bounds how far that examination propagates through structurally consequential earlier dependencies.
+
+---
+
+# Mission 002 Continuity
+
+The operational sequence now contains:
+
+~~~text
+02 — Operational Requirements
+        ↓
+03 — Recursive Trigger and Re-entry
+        ↓
+04 — Recursive Target and Depth
+        ↓
+05 — Preservation and Revision
+~~~
+
+03 answers:
+
+> **Should recursive re-entry occur?**
+
+04 answers:
+
+> **Where should recursive examination begin, and how far should it propagate?**
+
+The next unresolved operational question is:
+
+> **Once the relevant earlier reasoning has been examined, what should be preserved and what should be revised?**
+
+This defines the responsibility of the next Mission 002 asset.
+
+---
+
+# Next Research Step
+
+The next bounded operational examination should therefore focus on:
+
+`05-preservation-and-revision.md`
+
+The initial questions should be limited to:
+
+> **Under what conditions should an earlier finding survive recursive examination unchanged?**
+
+and:
+
+> **Under what conditions does recursive examination justify revision?**
+
+The examination should not reopen Target / Depth unless new evidence materially destabilizes the current mechanism.
+
+The same bounded examination principle may be reused, while treating any recurrence of the broader operationalization procedure as a secondary observation rather than a new active research branch.
+
+---
+
+# Current Status
+
+**04 — Recursive Target and Depth**
+
+**Externalization:** Complete  
+**Internal Restabilization:** Achieved  
+**Responsibility Fit:** Confirmed  
+**Placement Fit:** Strong  
+**Major Unresolved Dependency within 04:** None identified  
+**Independent Validation:** Not required for current Mission 002 progression  
+**Recommended Status:** Current Baseline — Freeze
+
+---
+
+# End of Document
+
