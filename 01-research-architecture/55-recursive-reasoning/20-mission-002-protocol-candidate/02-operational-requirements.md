@@ -261,3 +261,441 @@ The relevant question is:
 > Has the reasoning state become structurally coherent enough to proceed?
 
 Restabilization is therefore a distinct operational function following recursive examination.
+
+
+# Operational Requirement 8
+
+## Stop Judgment
+
+Recursive reasoning requires an explicit judgment about when additional reasoning should stop.
+
+More reasoning is not automatically better reasoning.
+
+A useful stop condition observed during Mission 002 was:
+
+> Additional reasoning is no longer expected to produce meaningful structural change.
+
+This does not require absolute certainty.
+
+Instead, the process evaluates whether further reasoning is likely to:
+
+- change the finding
+- reveal a significant dependency
+- expose a contradiction
+- materially improve structural coherence
+
+If the expected structural change from additional reasoning becomes sufficiently low, stopping becomes operationally justified.
+
+Therefore:
+
+> Recursive reasoning requires a stop judgment rather than indefinite recursive continuation.
+
+---
+
+# Operational Requirement 9
+
+## Externalization Readiness
+
+Reasoning convergence and externalization readiness are related but distinct.
+
+A reasoning process may have stopped while the resulting structure is still not ready for externalization.
+
+Conversely, a sufficiently stable finding may become ready for externalization even while secondary observations remain unresolved.
+
+The process must therefore distinguish:
+
+> Reasoning Stop
+
+from:
+
+> Externalization Readiness
+
+Externalization readiness requires sufficient confidence that the reasoning structure can be represented externally without materially distorting its current responsibility or internal distinctions.
+
+---
+
+# Operational Requirement 10
+
+## Placement-Sensitive Externalization
+
+Externalization readiness does not automatically determine where a finding should be placed.
+
+Mission 002 exposed cases in which a single reasoning state contained findings with different responsibilities.
+
+For example:
+
+- requirement-level findings
+- structural observations
+- Human–AI coupling observations
+- mechanism-specific findings
+
+Attempting to place all such findings into one asset may produce responsibility mixing.
+
+The process therefore requires sensitivity to:
+
+> What responsibility does this finding carry?
+
+before determining its external destination.
+
+This requirement remains boundary-sensitive.
+
+It may belong partly to recursive reasoning operationalization and partly to repository externalization architecture.
+
+It is therefore preserved here as an operational requirement without yet assigning it exclusively to either domain.
+
+---
+
+# Operational Requirement 11
+
+## Human Intervention Regulation
+
+Human intervention is neither uniformly beneficial nor uniformly disruptive.
+
+Its operational value depends on the current reasoning state.
+
+Human intervention may:
+
+- introduce useful evidence
+- expose hidden assumptions
+- trigger productive re-entry
+- request structural clarification
+- generate new branches
+- interrupt convergence
+- encourage premature externalization
+
+The process must therefore evaluate Human intervention relative to:
+
+- current phase
+- current objective
+- current finding
+- unresolved dependencies
+- structural stability
+
+The operational principle is:
+
+> Human intervention should be context-regulated rather than maximized or minimized.
+
+---
+
+# Operational Requirement 12
+
+## Phase Alignment Awareness
+
+Human–AI recursive reasoning requires awareness that content agreement and reasoning-phase alignment are not equivalent.
+
+Human and AI may agree on a conclusion while occupying different reasoning phases.
+
+For example:
+
+Human:
+
+> Continue exploring.
+
+AI:
+
+> Current findings appear ready for stabilization.
+
+Conversely, Human and AI may disagree about a finding while remaining aligned on the current reasoning phase.
+
+For example:
+
+> Both recognize that the present task is counter-testing.
+
+Therefore:
+
+> **Content Agreement ≠ Phase Alignment**
+
+Phase alignment should be treated as an operational coordination condition rather than as agreement about conclusions.
+
+Detailed analysis of Human–AI coupling belongs to a later Mission 002 asset.
+
+---
+
+# Operational Requirement 13
+
+## Coupled-State Sensitivity
+
+Recursive reasoning conducted through Human–AI dialogue cannot be understood solely as an AI-side reasoning process.
+
+The observed reasoning trajectory is affected by:
+
+- AI reasoning state
+- Human interaction state
+- Human intervention
+- Human observation mode
+- Human phase perception
+- AI responses to Human intervention
+- Human responses to AI reasoning-state transitions
+
+These interactions may produce changes in the coupled reasoning state.
+
+Therefore, operational recursive reasoning should remain sensitive to:
+
+> **Human–AI Coupled State**
+
+and:
+
+> **Coupled State Transition**
+
+This requirement does not yet define a complete Human–AI coupling model.
+
+Its purpose here is to preserve the operational necessity exposed during Mission 002.
+
+---
+
+# Operational Relationships
+
+The requirements should not be interpreted as a simple linear algorithm.
+
+A provisional operational relationship is:
+
+~~~text
+Current Reasoning State
+        │
+        ▼
+Potential Trigger
+        │
+        ▼
+Context-Sensitive Judgment
+        │
+        ├── No Structural Relevance
+        │       │
+        │       ▼
+        │    Preserve
+        │
+        └── Structural Relevance
+                │
+                ▼
+          Re-entry Required?
+                │
+                ▼
+          Select Target
+                │
+                ▼
+          Select Depth
+                │
+                ▼
+          Recursive Examination
+                │
+                ▼
+          Preserve / Revise
+                │
+                ▼
+          Restabilization
+                │
+                ▼
+          Stop Judgment
+                │
+                ▼
+       Externalization Ready?
+                │
+                ▼
+       Responsibility Judgment
+                │
+                ▼
+       Externalization / Placement
+~~~
+
+Human intervention and Human–AI coupling may affect multiple points in this structure.
+
+They should therefore not be interpreted as a single isolated stage.
+
+---
+
+# Important Distinctions
+
+Mission 002 exposed several distinctions that should remain explicit during later protocol formation.
+
+## Observation ≠ Trigger
+
+Not every new observation requires recursive processing.
+
+## Trigger ≠ Re-entry
+
+A meaningful trigger may be absorbed without reopening earlier reasoning.
+
+## Re-entry ≠ Revision
+
+Earlier reasoning may be revisited and preserved.
+
+## Target ≠ Depth
+
+Where reasoning returns and how far it recursively proceeds are different judgments.
+
+## Agreement ≠ Phase Alignment
+
+Human and AI may agree in content while occupying different reasoning phases.
+
+## Convergence ≠ Stop Judgment
+
+Apparent convergence must still be evaluated for unresolved structural dependencies.
+
+## Stop Judgment ≠ Externalization Readiness
+
+Reasoning may stop before its result is ready for external representation.
+
+## Externalization Readiness ≠ Placement
+
+A stable finding may still require responsibility analysis before repository placement.
+
+---
+
+# Post-Interval Persistence Test
+
+After the operational requirements had substantially stabilized, an approximately twenty-two-hour alignment interval was introduced.
+
+No additional Mission 002 analysis was intentionally performed during this interval.
+
+Following re-entry, the previously identified requirements were re-observed without intentionally introducing new variables.
+
+The principal findings were classified as:
+
+| Requirement Candidate | Post-Interval Assessment |
+|---|---|
+| Context-sensitive judgment | Slightly strengthened |
+| Trigger / re-entry judgment | Preserved |
+| Target / depth selection | Preserved |
+| Preserve / revise judgment | Strengthened |
+| Restabilization / stop judgment | Strengthened |
+| Externalization readiness | Strengthened |
+| Phase alignment | Preserved |
+| Human intervention regulation | Preserved |
+| Responsibility-sensitive externalization | Preserved / boundary-sensitive |
+
+No major requirement was weakened.
+
+No major requirement became newly questionable.
+
+The principal change was therefore not the content of the requirements but their observed structural stability.
+
+This supports the assessment:
+
+> **Post-Interval Restabilization Confirmed**
+
+within the current reasoning trajectory.
+
+---
+
+# Evidence Status
+
+The requirements documented here have undergone:
+
+- operationalization analysis
+- iterative dialogue observation
+- counter-testing
+- preservation / revision testing
+- restabilization analysis
+- stop-judgment testing
+- placement analysis
+- comparison with previously externalized Placement Principle assets
+- temporal separation
+- post-interval re-entry
+- persistence testing
+
+This provides substantial internal evidence within the current reasoning trajectory.
+
+However:
+
+> **This document has not yet undergone independent instance validation.**
+
+The current evidence status should therefore be understood as:
+
+> **Internally Restabilized / Evidence-Supported**
+
+rather than:
+
+> **Independently Validated**
+
+Independent validation should be performed after the current operational requirements have been externalized and frozen, so that the independent validation process does not influence the formation of the present requirement set.
+
+---
+
+# Boundary of This Document
+
+This document identifies operational requirements.
+
+It does not yet define:
+
+- the final recursive reasoning protocol
+- exact decision thresholds
+- deterministic trigger rules
+- fixed recursive depth values
+- mandatory Human intervention timing
+- a complete Human–AI coupling model
+- universal stop conditions
+- universal externalization criteria
+
+These remain subjects for later Mission 002 development and validation.
+
+---
+
+# Relationship to Subsequent Assets
+
+The current requirements provide the operational basis for later Mission 002 assets.
+
+Provisional responsibility distribution is:
+
+~~~text
+02 Operational Requirements
+        │
+        ├── 03 Recursive Trigger and Re-entry
+        │
+        ├── 04 Recursive Target and Depth
+        │
+        ├── 05 Preservation and Revision
+        │
+        ├── 06 Restabilization and Stop Conditions
+        │
+        └── 07 Human–AI Coupling
+                │
+                ▼
+        08 Protocol Candidate v0.1
+                │
+                ▼
+        09 Protocol Validation Requirements
+~~~
+
+This structure remains provisional until the individual operational mechanisms have been examined.
+
+---
+
+# Current Assessment
+
+The operationalization process has moved beyond initial exploration.
+
+The principal operational requirements have survived:
+
+- recursive examination
+- counter-testing
+- restabilization
+- temporal separation
+- post-interval re-observation
+
+The requirement set is therefore sufficiently stable for externalization.
+
+At the same time, the current evidence does not justify treating these requirements as universal or independently validated.
+
+The appropriate current status is:
+
+> **Evidence-Supported Operational Requirements — Internally Restabilized**
+
+---
+
+# One-Line Summary
+
+Recursive reasoning appears to require not only recursive operations, but context-sensitive judgments governing when to re-enter, where and how deeply to recurse, what to preserve or revise, when to stop, when to externalize, and how Human–AI interaction affects the evolving reasoning state.
+
+---
+
+# Next Research Step
+
+The immediate next step is not automatic protocol construction.
+
+The operational requirements should first be preserved as the current Mission 002 baseline.
+
+Subsequent work may then examine the individual operational mechanisms and, separately, perform independent instance validation without exposing the validating instance to the current requirement set in advance.
+
+---
+
+# End of Document
+
