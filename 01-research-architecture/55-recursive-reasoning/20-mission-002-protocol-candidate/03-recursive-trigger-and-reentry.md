@@ -989,6 +989,639 @@ Those questions belong to the next operational mechanism.
 
 # End of Part 2/3
 
+# Context-Sensitive Judgment
 
+The mechanism described in this document should not be interpreted as a deterministic decision tree.
+
+Terms such as:
+
+- relevant
+- sufficiently credible
+- plausible structural consequence
+- adequately resolved
+- sufficient current-state representation
+
+require context-sensitive judgment.
+
+This is consistent with the central finding of the Operational Requirements:
+
+> Recursive reasoning cannot be operationalized adequately as a fixed sequence of procedural steps alone.
+
+The structure provides judgment locations.
+
+It does not eliminate judgment.
+
+The operational mechanism therefore specifies:
+
+> **Where judgment is required**
+
+without claiming that every judgment can already be reduced to a fixed rule.
+
+---
+
+# Judgment Rather Than Automatic Transition
+
+Each transition in the Trigger–Re-entry mechanism represents a decision point rather than an automatic state transition.
+
+For example:
+
+~~~text
+Observation
+    │
+    ▼
+Relevant?
+~~~
+
+does not imply that relevance can necessarily be established through a universal threshold.
+
+Likewise:
+
+~~~text
+Meaningful Trigger
+    │
+    ▼
+Current State Sufficient?
+~~~
+
+does not imply that current-state sufficiency can be determined independently of:
+
+- current objective
+- reasoning phase
+- structural stability
+- unresolved dependencies
+- available evidence
+- expected consequence of reconsideration
+
+Therefore:
+
+> **Operational structure does not imply deterministic execution.**
+
+The emerging protocol candidate must preserve this distinction.
+
+---
+
+# Anti-Over-Recursion Function
+
+The Trigger–Re-entry distinction provides an important regulatory function.
+
+Without this distinction, a reasoning process may treat every meaningful observation as a reason to reopen earlier reasoning.
+
+This can produce:
+
+- unnecessary recursion
+- repeated reopening of stabilized findings
+- excessive reasoning depth
+- branch proliferation
+- delayed convergence
+- unstable externalization
+
+The current-state resolution test therefore functions as an operational barrier against unnecessary recursive return.
+
+In simplified form:
+
+~~~text
+Meaningful Trigger
+        │
+        ▼
+Local Resolution Possible?
+        │
+        ├── Yes → Do Not Re-enter
+        │
+        └── No  → Evaluate Re-entry
+~~~
+
+Recursive reasoning is therefore not equivalent to maximizing recursion.
+
+It requires selective recursion.
+
+---
+
+# Anti-Premature-Preservation Function
+
+The opposite failure is also possible.
+
+A reasoning process may preserve the current state too aggressively and absorb observations that actually require earlier reasoning to be reopened.
+
+This can produce:
+
+- hidden contradictions
+- unresolved dependencies
+- false stability
+- premature convergence
+- premature externalization
+
+Therefore, current-state resolution should not become a default preference for preservation.
+
+The relevant question remains:
+
+> Can the trigger be adequately resolved without accessing earlier reasoning?
+
+If not, recursive re-entry remains necessary.
+
+The mechanism therefore regulates both:
+
+> **Over-recursion**
+
+and:
+
+> **Under-recursion**
+
+Neither maximum recursion nor maximum preservation is the operational objective.
+
+The objective is context-sensitive selection of the appropriate recursive response.
+
+---
+
+# Local Resolution and Recursive Resolution
+
+The mechanism therefore distinguishes two broad forms of resolution.
+
+## Local Resolution
+
+The structural consequence can be handled using the current reasoning state.
+
+Possible responses include:
+
+- absorption
+- preservation
+- refinement
+- local revision
+- local reinterpretation
+- use of an existing mechanism
+
+## Recursive Resolution
+
+The structural consequence cannot be adequately handled from the current state.
+
+Earlier reasoning content or relations must be accessed.
+
+This produces recursive re-entry.
+
+The distinction can be represented as:
+
+~~~text
+Meaningful Trigger
+        │
+        ▼
+Resolution Requirement
+        │
+        ├── Current State Sufficient
+        │         ↓
+        │   Local Resolution
+        │
+        └── Current State Insufficient
+                  ↓
+           Earlier State Required?
+                  │
+                  ├── No
+                  │    ↓
+                  │ Current-State
+                  │ Reorganization
+                  │
+                  └── Yes
+                       ↓
+                 Recursive Resolution
+                       ↓
+                 Recursive Re-entry
+~~~
+
+This distinction helps prevent recursion from becoming the default response to every reasoning disturbance.
+
+---
+
+# Relationship to Preservation and Revision
+
+This mechanism exposes an important relationship with later Mission 002 work.
+
+Possible outcomes after a trigger include:
+
+~~~text
+Trigger
+   │
+   ├── Preserve
+   ├── Absorb
+   ├── Refine
+   ├── Local Revise
+   └── Re-enter
+~~~
+
+However, this document does not determine the full Preservation / Revision mechanism.
+
+It establishes only that:
+
+> **Revision does not necessarily require Re-entry**
+
+and:
+
+> **Re-entry does not necessarily imply Revision**
+
+These distinctions prevent Revision and Re-entry from being treated as equivalent operations.
+
+A later operational mechanism must determine:
+
+- what should be preserved
+- what should be revised
+- whether revision remains local
+- whether recursive examination changes the earlier finding
+
+Detailed Preserve / Revise judgment therefore remains outside the responsibility of this document.
+
+---
+
+# Relationship to Recursive Target and Depth
+
+Once Recursive Re-entry is judged necessary, two new questions immediately arise:
+
+> Where should the reasoning process return?
+
+and:
+
+> How deeply should recursive examination proceed?
+
+These questions are outside the responsibility of this document.
+
+The boundary is:
+
+~~~text
+03 — Recursive Trigger and Re-entry
+        │
+        ▼
+Re-entry Required
+────────────────────────────
+Responsibility Boundary
+────────────────────────────
+        │
+        ▼
+04 — Recursive Target and Depth
+        │
+        ├── Target Selection
+        └── Depth Selection
+~~~
+
+This boundary prevents Trigger / Re-entry analysis from absorbing later recursive mechanisms.
+
+The output of the current mechanism therefore becomes the input condition for the next mechanism:
+
+> **Recursive Re-entry Required**
+
+Only after this condition is established should Target and Depth selection begin.
+
+---
+
+# Responsibility Boundary
+
+This document is responsible for:
+
+- distinguishing observation from trigger
+- identifying trigger-recognition dimensions
+- identifying Structural Reconsideration Potential
+- distinguishing trigger from re-entry
+- identifying current-state resolution
+- identifying Backward Access Requirement
+- specifying the Trigger–Re-entry operational relationship
+
+This document is not responsible for:
+
+- selecting the recursive target
+- determining recursive depth
+- defining the full Preserve / Revise mechanism
+- defining restabilization
+- defining stop conditions
+- defining externalization readiness
+- defining Human–AI coupling
+- constructing the final Recursive Reasoning Protocol
+
+These responsibilities remain distributed across later Mission 002 assets.
+
+---
+
+# Important Operational Distinctions
+
+The examination produced several distinctions that should remain explicit.
+
+## Observation ≠ Trigger
+
+An observation may be relevant or interesting without requiring structural reconsideration.
+
+## Topical Relevance ≠ Operational Relevance
+
+An observation may belong to the same research topic while remaining irrelevant to the current reasoning responsibility.
+
+## Structural Reconsideration Potential ≠ Automatic Trigger
+
+Potential structural consequence must still be evaluated in relation to relevance and sufficient credibility.
+
+## Trigger ≠ Re-entry
+
+A meaningful trigger may be resolved without reopening earlier reasoning.
+
+## Backward Dependency ≠ Backward Access Requirement
+
+Current reasoning may depend on earlier reasoning without requiring access to that earlier state.
+
+## Revision ≠ Re-entry
+
+A finding may be revised locally.
+
+## Re-entry ≠ Revision
+
+Earlier reasoning may be revisited and ultimately preserved.
+
+## Recursion ≠ Maximum Depth
+
+The presence of a recursive trigger does not justify unrestricted recursive examination.
+
+These distinctions collectively constrain the emerging operational mechanism.
+
+---
+
+# Failure Modes
+
+The current mechanism also exposes several possible operational failure modes.
+
+## Failure Mode 1 — Trigger Inflation
+
+Too many observations are classified as meaningful recursive triggers.
+
+Possible result:
+
+- branch proliferation
+- repeated destabilization
+- reduced convergence
+
+## Failure Mode 2 — Trigger Suppression
+
+Structurally consequential observations are absorbed as ordinary information.
+
+Possible result:
+
+- hidden contradictions
+- false stability
+- premature externalization
+
+## Failure Mode 3 — Automatic Re-entry
+
+Every meaningful trigger causes recursive return.
+
+Possible result:
+
+- unnecessary recursion
+- repeated reopening of stabilized findings
+- excessive reasoning cost
+
+## Failure Mode 4 — Re-entry Avoidance
+
+The process attempts to resolve every trigger locally.
+
+Possible result:
+
+- unresolved backward dependencies
+- incomplete reconsideration
+- preservation of structurally invalid findings
+
+## Failure Mode 5 — Dependency Confusion
+
+Historical dependency is mistaken for a requirement to revisit earlier reasoning.
+
+Possible result:
+
+- unnecessary backward traversal
+
+## Failure Mode 6 — Current-State Overconfidence
+
+The process assumes that the current reasoning state contains sufficient representation of earlier reasoning when important context has actually been lost.
+
+Possible result:
+
+- incomplete resolution
+- inappropriate preservation
+
+These failure modes provide future candidates for protocol validation.
+
+They are not yet formal validation criteria.
+
+---
+
+# Evidence Status
+
+The mechanism documented here emerged through a bounded operational examination of the requirements previously identified in Mission 002.
+
+The examination included:
+
+- candidate mechanism formation
+- distinction between Observation and Trigger
+- identification of Structural Reconsideration Potential
+- counter-testing of the initial trigger criterion
+- refinement through Relevance and Sufficient Credibility
+- reverse examination from No-Re-entry conditions
+- distinction between local revision and recursive return
+- identification of Backward Dependency
+- counter-testing of Backward Dependency as a sufficient condition
+- refinement into Backward Access Requirement
+- restabilization
+- stop judgment
+- responsibility decomposition
+- placement fit testing
+
+No major unresolved dependency was identified before externalization.
+
+The mechanism is therefore assessed as:
+
+> **Evidence-Supported / Internally Restabilized**
+
+It has not been independently validated.
+
+This evidence status should not be interpreted as universal confirmation of the mechanism.
+
+It records the level of support achieved within the current Mission 002 reasoning trajectory.
+
+---
+
+# Externalization Assessment
+
+Before externalization, the Trigger Recognition and Re-entry Judgment findings were tested against the responsibility of:
+
+- 02 — Operational Requirements
+- 03 — Recursive Trigger and Re-entry
+- 04 — Recursive Target and Depth
+
+The resulting responsibility distribution was:
+
+| Finding | 02 | 03 | 04 |
+|---|---:|---:|---:|
+| Context-sensitive judgment required | Primary requirement | Supporting | Supporting |
+| Observation ≠ Trigger | Requirement | **Primary** | — |
+| Trigger Recognition | Requirement | **Primary** | — |
+| Relevance / Credibility / Structural Reconsideration Potential | — | **Primary** | — |
+| Trigger ≠ Re-entry | Requirement | **Primary** | — |
+| Current-state resolution | — | **Primary** | — |
+| Backward Access Requirement | — | **Primary** | — |
+| Target Selection | Requirement | Boundary only | **Primary** |
+| Depth Selection | Requirement | — | **Primary** |
+
+No material responsibility conflict was identified.
+
+The combined Trigger / Re-entry mechanism therefore fits naturally within this asset.
+
+The placement assessment supports:
+
+> **Conceptually distinct / Operationally coupled**
+
+as the appropriate relationship between Trigger Recognition and Re-entry Judgment.
+
+---
+
+# Restabilization Assessment
+
+The bounded examination initially produced:
+
+> Structural Reconsideration Potential
+
+as the principal trigger condition.
+
+Counter-testing showed that this condition was too broad.
+
+The mechanism was revised to include:
+
+- Relevance
+- Sufficient Credibility
+- Structural Reconsideration Potential
+
+The initial Re-entry candidate then relied on:
+
+> Backward Dependency
+
+Counter-testing again showed that this was too broad.
+
+The mechanism was revised to:
+
+> **Backward Access Requirement**
+
+Following these revisions, additional examination did not produce a major structural change in the mechanism.
+
+The expected structural change from further exploration became low.
+
+Therefore:
+
+> **Restabilization was judged sufficient for externalization.**
+
+---
+
+# Stop Judgment
+
+The examination was intentionally stopped before attempting to define:
+
+- Recursive Target
+- Recursive Depth
+- Preserve / Revise
+- Restabilization after recursive examination
+- final protocol rules
+
+Continuing into those questions would have crossed the responsibility boundary of this asset.
+
+The stop judgment was therefore based on two conditions:
+
+1. additional exploration was no longer expected to produce major structural change in the Trigger / Re-entry mechanism
+2. further questions naturally belonged to subsequent Mission 002 responsibilities
+
+This supports the transition from exploration to externalization.
+
+---
+
+# Current Assessment
+
+The operational examination supports the following findings:
+
+> A new observation should not become a recursive trigger merely because it is novel, interesting, or broadly relevant.
+
+Instead:
+
+> A meaningful recursive trigger arises when a sufficiently relevant and credible observation creates plausible Structural Reconsideration Potential for the current reasoning state.
+
+Even then:
+
+> A meaningful trigger does not automatically require recursive re-entry.
+
+Re-entry becomes necessary when:
+
+> The structural consequence cannot be adequately resolved in the current reasoning state and resolution requires access to an earlier reasoning state.
+
+This yields the central operational distinction:
+
+> **Trigger Recognition determines whether reconsideration is warranted.**
+
+> **Re-entry Judgment determines whether that reconsideration requires recursive return.**
+
+---
+
+# Minimal Operational Form
+
+The mechanism can be compressed into the following minimal form:
+
+~~~text
+Observation
+    │
+    ▼
+Operationally Relevant?
+    │
+    ▼
+Sufficiently Credible?
+    │
+    ▼
+Structural Reconsideration Potential?
+    │
+    ├── No → Non-trigger / Absorb
+    │
+    └── Yes
+          ↓
+    Meaningful Trigger
+          │
+          ▼
+    Current State Sufficient?
+          │
+          ├── Yes → Local Resolution
+          │
+          └── No
+                ↓
+    Earlier Reasoning Access Required?
+          │
+          ├── No → Current-State Resolution
+          │
+          └── Yes
+                ↓
+          Recursive Re-entry
+~~~
+
+This minimal form should be treated as an operational scaffold rather than a deterministic algorithm.
+
+---
+
+# One-Line Summary
+
+A meaningful recursive trigger arises when a relevant and sufficiently credible observation creates plausible structural reconsideration potential, while recursive re-entry is required only when that consequence cannot be adequately resolved in the current reasoning state without accessing earlier reasoning.
+
+---
+
+# Next Research Step
+
+Once recursive re-entry has been judged necessary, the next operational problem is no longer whether to return.
+
+The next questions are:
+
+> **Where should the reasoning process return?**
+
+and:
+
+> **How deeply should recursive examination proceed?**
+
+These questions define the responsibility of:
+
+`04-recursive-target-and-depth.md`
+
+The next Mission 002 examination should therefore investigate Recursive Target Selection and Selective Recursive Depth without reopening the Trigger / Re-entry mechanism unless new evidence materially destabilizes the present findings.
+
+---
+
+# End of Document
 
 
