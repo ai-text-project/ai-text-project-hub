@@ -91,7 +91,8 @@ Operationalization therefore requires both procedural structure and context-sens
 
 ---
 
-# Operational Requirement 1  
+# Operational Requirement 1
+
 ## Context-Sensitive Judgment
 
 Recursive reasoning must be capable of evaluating events relative to the current reasoning state rather than treating them as context-independent signals.
@@ -114,7 +115,8 @@ It is not limited to a single stage.
 
 ---
 
-# Operational Requirement 2  
+# Operational Requirement 2
+
 ## Recursive Trigger Discrimination
 
 The process must distinguish between:
@@ -138,7 +140,8 @@ A recursive trigger is operationally meaningful when the new information has suf
 
 ---
 
-# Operational Requirement 3  
+# Operational Requirement 3
+
 ## Re-entry Judgment
 
 Even when a meaningful trigger is detected, recursive re-entry should not occur automatically.
@@ -159,7 +162,8 @@ Therefore:
 
 ---
 
-# Operational Requirement 4  
+# Operational Requirement 4
+
 ## Selective Recursive Target
 
 When re-entry is required, the process must identify the appropriate recursive target.
@@ -182,7 +186,8 @@ Therefore:
 
 ---
 
-# Operational Requirement 5  
+# Operational Requirement 5
+
 ## Selective Recursive Depth
 
 Selecting the recursive target does not determine how deeply reasoning should proceed.
@@ -210,7 +215,8 @@ Recursive reasoning should be selectively deep rather than uniformly deep.
 
 ---
 
-# Operational Requirement 6  
+# Operational Requirement 6
+
 ## Preservation and Revision Judgment
 
 Recursive reasoning must distinguish between what should be revised and what should remain stable.
@@ -234,7 +240,8 @@ Recursive reasoning therefore requires an explicit preservation function in addi
 
 ---
 
-# Operational Requirement 7  
+# Operational Requirement 7
+
 ## Restabilization
 
 After recursive reconsideration, the process must determine whether the reasoning structure has returned to a sufficiently stable state.
@@ -254,231 +261,3 @@ The relevant question is:
 > Has the reasoning state become structurally coherent enough to proceed?
 
 Restabilization is therefore a distinct operational function following recursive examination.
-
----
-
-# Operational Requirement 8  
-## Stop Judgment
-
-Recursive reasoning requires an explicit judgment about when additional reasoning should stop.
-
-More reasoning is not automatically better reasoning.
-
-A useful stop condition observed during Mission 002 was:
-
-> Additional reasoning is no longer expected to produce meaningful structural change.
-
-This does not require absolute certainty.
-
-Instead, the process evaluates whether further reasoning is likely to:
-
-- change the finding
-- reveal a significant dependency
-- expose a contradiction
-- materially improve structural coherence
-
-If the expected structural change from additional reasoning becomes sufficiently low, stopping becomes operationally justified.
-
-Therefore:
-
-> Recursive reasoning requires a stop judgment rather than indefinite recursive continuation.
-
----
-
-# Operational Requirement 9  
-## Externalization Readiness
-
-Reasoning convergence and externalization readiness are related but distinct.
-
-A reasoning process may have stopped while the resulting structure is still not ready for externalization.
-
-Conversely, a sufficiently stable finding may become ready for externalization even while secondary observations remain unresolved.
-
-The process must therefore distinguish:
-
-> Reasoning Stop
-
-from:
-
-> Externalization Readiness
-
-Externalization readiness requires sufficient confidence that the reasoning structure can be represented externally without materially distorting its current responsibility or internal distinctions.
-
----
-
-# Operational Requirement 10  
-## Placement-Sensitive Externalization
-
-Externalization readiness does not automatically determine where a finding should be placed.
-
-Mission 002 exposed cases in which a single reasoning state contained findings with different responsibilities.
-
-For example:
-
-- requirement-level findings
-- structural observations
-- Human–AI coupling observations
-- mechanism-specific findings
-
-Attempting to place all such findings into one asset may produce responsibility mixing.
-
-The process therefore requires sensitivity to:
-
-> What responsibility does this finding carry?
-
-before determining its external destination.
-
-This requirement remains boundary-sensitive.
-
-It may belong partly to recursive reasoning operationalization and partly to repository externalization architecture.
-
-It is therefore preserved here as an operational requirement without yet assigning it exclusively to either domain.
-
----
-
-# Operational Requirement 11  
-## Human Intervention Regulation
-
-Human intervention is neither uniformly beneficial nor uniformly disruptive.
-
-Its operational value depends on the current reasoning state.
-
-Human intervention may:
-
-- introduce useful evidence
-- expose hidden assumptions
-- trigger productive re-entry
-- request structural clarification
-- generate new branches
-- interrupt convergence
-- encourage premature externalization
-
-The process must therefore evaluate Human intervention relative to:
-
-- current phase
-- current objective
-- current finding
-- unresolved dependencies
-- structural stability
-
-The operational principle is:
-
-> Human intervention should be context-regulated rather than maximized or minimized.
-
----
-
-# Operational Requirement 12  
-## Phase Alignment Awareness
-
-Human–AI recursive reasoning requires awareness that content agreement and reasoning-phase alignment are not equivalent.
-
-Human and AI may agree on a conclusion while occupying different reasoning phases.
-
-For example:
-
-Human:
-
-> Continue exploring.
-
-AI:
-
-> Current findings appear ready for stabilization.
-
-Conversely, Human and AI may disagree about a finding while remaining aligned on the current reasoning phase.
-
-For example:
-
-> Both recognize that the present task is counter-testing.
-
-Therefore:
-
-> **Content Agreement ≠ Phase Alignment**
-
-Phase alignment should be treated as an operational coordination condition rather than as agreement about conclusions.
-
-Detailed analysis of Human–AI coupling belongs to a later Mission 002 asset.
-
----
-
-# Operational Requirement 13  
-## Coupled-State Sensitivity
-
-Recursive reasoning conducted through Human–AI dialogue cannot be understood solely as an AI-side reasoning process.
-
-The observed reasoning trajectory is affected by:
-
-- AI reasoning state
-- Human interaction state
-- Human intervention
-- Human observation mode
-- Human phase perception
-- AI responses to Human intervention
-- Human responses to AI reasoning-state transitions
-
-These interactions may produce changes in the coupled reasoning state.
-
-Therefore, operational recursive reasoning should remain sensitive to:
-
-> **Human–AI Coupled State**
-
-and:
-
-> **Coupled State Transition**
-
-This requirement does not yet define a complete Human–AI coupling model.
-
-Its purpose here is to preserve the operational necessity exposed during Mission 002.
-
----
-
-# Operational Relationships
-
-The requirements should not be interpreted as a simple linear algorithm.
-
-A provisional operational relationship is:
-
-```text
-Current Reasoning State
-        │
-        ▼
-Potential Trigger
-        │
-        ▼
-Context-Sensitive Judgment
-        │
-        ├── No Structural Relevance
-        │       │
-        │       ▼
-        │    Preserve
-        │
-        └── Structural Relevance
-                │
-                ▼
-          Re-entry Required?
-                │
-                ▼
-          Select Target
-                │
-                ▼
-          Select Depth
-                │
-                ▼
-          Recursive Examination
-                │
-                ▼
-          Preserve / Revise
-                │
-                ▼
-          Restabilization
-                │
-                ▼
-          Stop Judgment
-                │
-                ▼
-       Externalization Ready?
-                │
-                ▼
-       Responsibility Judgment
-                │
-                ▼
-       Externalization / Placement
