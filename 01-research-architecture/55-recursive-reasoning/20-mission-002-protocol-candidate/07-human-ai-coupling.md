@@ -2608,3 +2608,3151 @@ against the Three-Part Core Candidate.
 **Externalization in Progress**
 
 **Next: Part 2/4 — Core Examination and Influence–Authority Boundary**
+
+
+
+# 07 — Human–AI Coupling
+
+## Part 2/4
+
+---
+
+# Core Examination
+
+Part 1 formed the current Three-Part Core Candidate:
+
+```text
+Human–AI Coupling
+=
+Reasoning-State Contribution
++
+Reasoning-Process Influence
++
+Authority / Operational Latitude Boundary
+```
+
+The purpose of Part 2 is not to expand this candidate.
+
+The purpose is to test whether its most difficult boundary survives examination.
+
+That boundary is:
+
+> **Human and AI may both influence the Reasoning Process, but Process Influence must not automatically be treated as Decision Authority.**
+
+The examination therefore concentrates on:
+
+```text
+Influence
+        ↓
+Authority
+        ↓
+Operational Latitude
+        ↓
+Boundary Conditions
+```
+
+---
+
+# Core Examination Question
+
+The central question is:
+
+> **If both Human and AI can materially influence how reasoning proceeds, what distinguishes influence from authority, and what distinguishes authority from operational latitude?**
+
+This question is necessary because the first two Core Dimensions are available to both participants.
+
+Both Human and AI may:
+
+```text
+Contribute
+        +
+Influence
+```
+
+But this does not establish:
+
+```text
+Equal Authority
+```
+
+or:
+
+```text
+Equal Operational Latitude
+```
+
+Therefore the third Core Dimension must preserve asymmetry where asymmetry exists.
+
+---
+
+# Influence Revisited
+
+Reasoning-Process Influence was provisionally defined as:
+
+> **Human or AI participation that materially changes, constrains, maintains, redirects, suspends, accelerates, terminates, or proposes alteration to how the current Reasoning Process proceeds.**
+
+Examples include:
+
+```text
+Continue.
+
+Stop.
+
+Hold.
+
+Re-examine.
+
+Do not create another branch.
+
+Use Accelerated Mode.
+
+Externalize.
+
+Freeze.
+
+Run another Counter-test.
+
+Return to the previous Target.
+```
+
+However, these expressions do not all have the same operational force.
+
+---
+
+# Influence Strength Is Not Authority
+
+A strong recommendation may heavily affect the next operation.
+
+For example:
+
+```text
+AI:
+"Further exploration is unlikely
+to produce material value.
+I recommend Externalization."
+```
+
+may substantially influence Human judgment.
+
+But:
+
+```text
+Strong Influence
+        ≠
+Decision Authority
+```
+
+Likewise:
+
+```text
+Human:
+"This seems interesting."
+```
+
+may influence the reasoning direction without establishing a binding instruction.
+
+Thus influence strength and authority must remain separate.
+
+---
+
+# Proposal vs Decision
+
+One of the clearest observed distinctions is:
+
+```text
+Proposal
+        ≠
+Decision
+```
+
+During Mission 002, AI repeatedly proposed transitions such as:
+
+```text
+Continue Counter-test
+
+Stop exploration
+
+Hold the observation
+
+Externalize
+
+Freeze
+
+Proceed to next MD
+```
+
+These proposals influenced the process.
+
+But the observed operational pattern frequently remained:
+
+```text
+AI Proposal
+        ↓
+Human Evaluation
+        ↓
+Human Acceptance /
+Modification /
+Rejection
+        ↓
+Process Transition
+```
+
+Therefore:
+
+> **AI Process Proposal is evidence of Process Influence, not automatic evidence of final Decision Authority.**
+
+---
+
+# Recommendation vs Binding Constraint
+
+Similarly:
+
+```text
+Recommendation
+        ≠
+Binding Constraint
+```
+
+An AI recommendation such as:
+
+```text
+"Do not create another branch."
+```
+
+may become operationally important.
+
+But unless the current arrangement gives that recommendation binding force, it remains a recommendation.
+
+A Human instruction may have stronger force within the current research interaction.
+
+However, this difference should not be universalized prematurely.
+
+---
+
+# Current Interaction Evidence
+
+Within the present Mission 002 interaction, the observed pattern often resembled:
+
+```text
+AI
+        ↓
+Analysis /
+Recommendation /
+Transition Proposal
+        ↓
+Human
+        ↓
+Acceptance /
+Modification /
+Rejection /
+Non-intervention
+        ↓
+Reasoning Process
+```
+
+But this should be interpreted as:
+
+> **evidence about the current operational arrangement**
+
+rather than:
+
+> **a universal Human–AI authority law.**
+
+---
+
+# Why Universal Human Final Authority Is Not Adopted
+
+A tempting conclusion would be:
+
+```text
+Human
+=
+Final Authority
+
+AI
+=
+Advisor
+```
+
+This may describe substantial parts of the current research interaction.
+
+However, Mission 002 does not possess sufficient evidence to claim that every valid Recursive Reasoning Protocol must have this architecture.
+
+Different environments may permit:
+
+```text
+Human mandatory approval
+```
+
+or:
+
+```text
+AI autonomous execution
+within bounded scope
+```
+
+or:
+
+```text
+mixed authority
+by operation type
+```
+
+or other arrangements.
+
+Therefore:
+
+> **Human Final Authority is not promoted to a universal Core Requirement of 07.**
+
+---
+
+# What Can Be Generalized More Safely
+
+The current evidence supports a narrower requirement:
+
+> **Process Influence, Decision Authority, and Operational Latitude must be distinguishable.**
+
+This does not prescribe who must possess each one.
+
+It requires only that the protocol not silently collapse them.
+
+---
+
+# Authority as Context-Bounded
+
+Authority is therefore treated as:
+
+> **context-bounded rather than universally assigned.**
+
+The relevant question becomes:
+
+```text
+Within this operation,
+who may establish what?
+```
+
+rather than:
+
+```text
+Who always has authority?
+```
+
+This is a much smaller claim.
+
+---
+
+# Authority Boundary Question
+
+For any materially relevant Human–AI interaction, the protocol may need to distinguish:
+
+```text
+Who may propose?
+
+Who may recommend?
+
+Who may constrain?
+
+Who may continue?
+
+Who may stop?
+
+Who may approve?
+
+Who may execute?
+
+Who may reopen?
+```
+
+However, 07 does not require that every future protocol answer these questions through the same allocation.
+
+The requirement is:
+
+> **the allocation must not remain implicitly conflated with mere participation.**
+
+---
+
+# Authority Does Not Equal Truth
+
+A participant may possess authority over process progression without possessing authority over structural truth.
+
+For example:
+
+```text
+Human:
+"Freeze this asset."
+```
+
+may establish an operational decision to Freeze.
+
+But it does not logically prove:
+
+```text
+The asset contains no material defect.
+```
+
+Likewise:
+
+```text
+AI:
+"This structure is coherent."
+```
+
+does not prove coherence merely because the AI generated the judgment.
+
+Therefore:
+
+```text
+Operational Authority
+        ≠
+Structural Truth
+```
+
+This distinction protects the Recursive Reasoning mechanisms from authority substitution.
+
+---
+
+# Structural Conditions Remain Mechanism-Governed
+
+For example, 06 defines Restabilization through:
+
+```text
+Relevant Consequence Integration
+        +
+Material Coherence
+```
+
+Therefore:
+
+```text
+Human says:
+"Restabilized."
+```
+
+does not replace 06.
+
+Likewise:
+
+```text
+AI says:
+"Restabilized."
+```
+
+does not replace 06.
+
+Participant judgments become:
+
+```text
+Inputs
+```
+
+to the relevant mechanism.
+
+They do not automatically replace the mechanism.
+
+---
+
+# Authority Does Not Replace 03
+
+A Human may say:
+
+```text
+"Re-enter this issue."
+```
+
+This may establish an operational direction.
+
+But 03 still provides the structural mechanism for examining:
+
+```text
+Meaningful Trigger
++
+Re-entry Judgment
+```
+
+Similarly, AI may recommend re-entry.
+
+Neither participant's statement makes the 03 distinction unnecessary.
+
+---
+
+# Authority Does Not Replace 04
+
+A Human may identify a preferred Recursive Target.
+
+An AI may recommend a different Target.
+
+But:
+
+```text
+Participant Preference
+        ≠
+Target / Depth Mechanism
+```
+
+04 remains responsible for Target / Depth reasoning.
+
+---
+
+# Authority Does Not Replace 05
+
+A Human may request Revision.
+
+An AI may recommend Preservation.
+
+But:
+
+```text
+Participant Direction
+        ≠
+Structural Disposition Logic
+```
+
+05 remains responsible for Preservation / Revision.
+
+---
+
+# Authority Does Not Replace 06
+
+A Human may believe the reasoning state is stable.
+
+An AI may believe instability remains.
+
+But:
+
+```text
+Participant Judgment
+        ≠
+Restabilization Condition
+```
+
+06 remains responsible for the Restabilization judgment.
+
+---
+
+# Important Boundary
+
+This produces a strong Mission-level boundary:
+
+> **Authority may govern whether an operation is permitted or adopted, but it does not automatically redefine the structural conditions of the operation itself.**
+
+This protects the separation between:
+
+```text
+Operational Governance
+```
+
+and:
+
+```text
+Recursive Reasoning Mechanism
+```
+
+without creating a separate Governance architecture inside 07.
+
+---
+
+# Why Governance Is Not Expanded Here
+
+The preceding distinction could lead into:
+
+- governance theory
+- approval hierarchies
+- escalation policy
+- institutional responsibility
+- delegation architecture
+- accountability systems
+
+That would exceed the current Mission.
+
+Therefore these topics remain outside 07.
+
+The current document preserves only the minimum boundary required to prevent:
+
+```text
+Influence
+Authority
+Structural Validity
+```
+
+from collapsing into one another.
+
+---
+
+# Operational Latitude Revisited
+
+Operational Latitude is defined as:
+
+> **the bounded range within which a participant may continue reasoning operations without requiring a new explicit decision at every micro-step.**
+
+This concept emerged because the observed Mission 002 process could not be adequately described through simple approval at every turn.
+
+---
+
+# Micro-Approval Model
+
+A hypothetical strict model would be:
+
+```text
+AI performs Step 1
+        ↓
+Human approves
+        ↓
+AI performs Step 2
+        ↓
+Human approves
+        ↓
+AI performs Step 3
+        ↓
+Human approves
+```
+
+This did not describe the actual Accelerated Mode operation.
+
+---
+
+# Observed Accelerated Pattern
+
+Instead, the observed process often resembled:
+
+```text
+Objective established
+        ↓
+Scope established
+        ↓
+Human accepts
+bounded examination
+        ↓
+AI performs:
+Candidate Formation
+        ↓
+Counter-test
+        ↓
+Compression
+        ↓
+Fit Examination
+        ↓
+AI surfaces
+important transition
+        ↓
+Human intervenes
+if necessary
+```
+
+This pattern requires:
+
+> **Operational Latitude**
+
+to be represented.
+
+---
+
+# Latitude as a Range
+
+Operational Latitude is not best represented as a binary:
+
+```text
+AI autonomous
+/
+AI not autonomous
+```
+
+Instead, it is more accurately treated as:
+
+```text
+Permitted Reasoning Range
+within Current Context
+```
+
+That range may be constrained by:
+
+- current Mission
+- current question
+- current scope
+- current Role
+- current responsibility boundary
+- current evidence
+- current stopping conditions
+- Human instructions
+- previously accepted process rules
+
+---
+
+# Latitude Is Context-Dependent
+
+Therefore:
+
+```text
+Operational Latitude
+        =
+Context-Bounded
+```
+
+A participant may have broad latitude in one operation and narrow latitude in another.
+
+For example:
+
+```text
+Candidate Formation
+        ↓
+Broad AI Latitude
+```
+
+may coexist with:
+
+```text
+Repository Freeze Decision
+        ↓
+Narrower AI Latitude
+```
+
+within a particular operational arrangement.
+
+07 does not prescribe these exact allocations universally.
+
+---
+
+# Latitude Can Persist Across Multiple Reasoning Steps
+
+A key property is:
+
+> **Operational Latitude may persist across multiple micro-operations until a relevant boundary is reached.**
+
+Thus:
+
+```text
+Human:
+"静観モード継続"
+        ↓
+AI performs
+multiple bounded examinations
+```
+
+does not require a new permission after every Counter-test.
+
+---
+
+# Latitude Requires Boundaries
+
+Without boundaries, Operational Latitude would become indistinguishable from unlimited autonomy.
+
+Therefore:
+
+```text
+Latitude
+        ↓
+must be bounded by
+        ↓
+Objective
+Scope
+Responsibility
+Constraints
+Stopping Conditions
+```
+
+at minimum where materially relevant.
+
+---
+
+# Latitude and Role Boundary
+
+Operational Latitude must not permit Role Drift.
+
+For example:
+
+```text
+AI has latitude
+to perform Counter-tests
+within 07
+```
+
+does not imply:
+
+```text
+AI has latitude
+to redesign Mission 002
+```
+
+unless that broader operation is separately justified.
+
+Therefore:
+
+> **Operational Latitude operates inside Role and Mission boundaries rather than replacing them.**
+
+---
+
+# Latitude and Responsibility Boundary
+
+Similarly:
+
+```text
+AI may examine
+Human–AI Coupling
+```
+
+does not imply:
+
+```text
+AI may absorb
+03–06 responsibilities into 07.
+```
+
+Operational Latitude must remain:
+
+> **responsibility-preserving.**
+
+---
+
+# Latitude and Branch Formation
+
+The Accelerated Mode used during Mission 002 also illustrates another boundary.
+
+The Human repeatedly preferred:
+
+```text
+Do not create unnecessary branches.
+```
+
+AI retained substantial reasoning latitude.
+
+But that latitude operated under:
+
+```text
+Branch Suppression Constraint
+```
+
+Therefore:
+
+```text
+Broad reasoning activity
+        +
+Narrow branch-generation permission
+```
+
+can coexist.
+
+This demonstrates that Operational Latitude is multidimensional in practice.
+
+However, 07 does not need to formalize every dimension separately.
+
+---
+
+# Why Latitude Is Not Fully Parameterized
+
+A future implementation might parameterize:
+
+```text
+Depth Latitude
+
+Branch Latitude
+
+Tool Latitude
+
+Externalization Latitude
+
+Revision Latitude
+
+Execution Latitude
+```
+
+But current evidence does not require such decomposition.
+
+Doing so now would introduce unsupported complexity.
+
+Therefore:
+
+> **Operational Latitude remains a bounded general concept in Mission 002.**
+
+---
+
+# Authority / Latitude Relation
+
+The relationship can be represented as:
+
+```text
+Authority Boundary
+        ↓
+defines or constrains
+        ↓
+Operational Latitude
+        ↓
+permits bounded
+        ↓
+Reasoning Activity
+```
+
+This is not necessarily a one-directional universal hierarchy.
+
+Operational interactions may modify the boundary.
+
+But the representation captures the current functional distinction.
+
+---
+
+# Authority Retention
+
+A participant may retain authority while not actively exercising it.
+
+For example:
+
+```text
+Human retains
+intervention capacity
+        ↓
+does not intervene
+        ↓
+AI continues
+within existing latitude
+```
+
+Therefore:
+
+```text
+Authority Retained
+        ≠
+Authority Actively Exercised
+```
+
+---
+
+# Authority Exercise
+
+When a participant actively uses authority:
+
+```text
+Existing Process
+        ↓
+Authoritative Constraint /
+Decision
+        ↓
+Process configuration changes
+```
+
+This differs from passive retention.
+
+Thus the model must allow:
+
+```text
+Authority exists
+without continuous intervention
+```
+
+---
+
+# Authority and Silence
+
+This provides a stronger interpretation of Human silence.
+
+Human silence may coexist with:
+
+```text
+Retained Authority
+```
+
+and:
+
+```text
+Maintained AI Operational Latitude
+```
+
+Therefore silence alone does not tell us:
+
+```text
+who possesses authority
+```
+
+unless the operational context already defines that relation.
+
+---
+
+# Silence Cannot Create Authority by Itself
+
+A critical protection is:
+
+```text
+Silence
+        ≠
+Automatic Authority Transfer
+```
+
+If authority changes, the protocol should require some materially meaningful basis for that change.
+
+Silence by itself should not be assumed to perform the transfer.
+
+---
+
+# Silence Cannot Create Consent by Itself
+
+Similarly:
+
+```text
+Silence
+        ≠
+Automatic Consent
+```
+
+This protects against interpreting non-intervention as universal approval.
+
+---
+
+# Silence Can Maintain Existing State
+
+However:
+
+```text
+Silence
+```
+
+or explicit Non-intervention may permit the current process configuration to remain unchanged.
+
+Thus:
+
+```text
+No New Intervention
+        ↓
+Existing Boundary
+remains operative
+```
+
+is compatible with the evidence.
+
+---
+
+# Human Intervention Counter-test
+
+The Three-Part Candidate must now explain Human Intervention.
+
+Suppose Human says:
+
+```text
+"Stop exploring this branch."
+```
+
+This can be decomposed as:
+
+```text
+Reasoning-State Contribution
+        ↓
+New constraint information
+
+Reasoning-Process Influence
+        ↓
+Current branch should stop
+
+Authority / Latitude Boundary
+        ↓
+Determines whether this
+constraint governs the process
+```
+
+No fourth Core Dimension is required.
+
+---
+
+# Human Intervention — Result
+
+Therefore:
+
+```text
+Human Intervention
+        =
+Contribution
+        +
+Influence
+        +
+Boundary Effect
+```
+
+depending on context.
+
+Human Intervention is:
+
+> **an interaction pattern expressible through the Three-Part Core Candidate**
+
+rather than:
+
+> **a separate Core Mechanism.**
+
+---
+
+# Human Observation Counter-test
+
+Suppose Human says:
+
+```text
+"The examination pattern
+looks similar across MDs."
+```
+
+This is primarily:
+
+```text
+Reasoning-State Contribution
+```
+
+It may later influence the process if judged materially relevant.
+
+But no immediate Authority change is required.
+
+Thus:
+
+```text
+Contribution        YES
+Influence           POSSIBLE
+Authority Change    NOT REQUIRED
+```
+
+Again, the Three-Part Candidate is sufficient.
+
+---
+
+# Human Judgment Counter-test
+
+Suppose Human says:
+
+```text
+"This direction is acceptable."
+```
+
+This may contain:
+
+```text
+Reasoning-State Contribution
+        +
+Process Influence
+```
+
+It may also have an authority effect depending on the current operational arrangement.
+
+Thus:
+
+```text
+Contribution        YES
+Influence           YES
+Authority Effect    CONTEXTUAL
+```
+
+No independent Judgment Mechanism is required.
+
+---
+
+# Human Non-intervention Counter-test
+
+Suppose Human says:
+
+```text
+"静観モード継続です。"
+```
+
+This contributes little new substantive content.
+
+But operationally it may preserve:
+
+```text
+Current Objective
+Current Scope
+Current Constraint Set
+AI Operational Latitude
+Human Intervention Capacity
+```
+
+Therefore:
+
+```text
+New Contribution    MINIMAL
+
+Process Influence   MAINTENANCE
+
+Authority Boundary  RETAINED
+
+Operational Latitude
+                   MAINTAINED
+```
+
+The Three-Part Candidate again explains the phenomenon.
+
+---
+
+# Human Silence Counter-test
+
+Now remove even the explicit statement.
+
+Suppose the Human simply does not intervene for a period.
+
+Can the same model handle this?
+
+Yes, but with an important caution.
+
+The protocol must not infer from silence alone:
+
+```text
+Approval
+
+Consent
+
+Authority Transfer
+
+Unlimited Delegation
+```
+
+Instead:
+
+```text
+Existing Operational Context
+        +
+No Material New Intervention
+        ↓
+Existing Process Configuration
+may continue
+```
+
+where that continuation is already permitted.
+
+---
+
+# Human Silence — Result
+
+Thus Human Silence is not a positive new Coupling Mechanism.
+
+It is:
+
+> **absence of new intervention within an existing coupling configuration**
+
+unless additional context gives the silence a specific operational meaning.
+
+Therefore no independent Silence Mechanism is required.
+
+---
+
+# Explicit Non-intervention vs Silence
+
+These should still be distinguished semantically.
+
+```text
+Explicit Non-intervention
+        =
+Participant communicates
+maintenance of current mode
+```
+
+while:
+
+```text
+Silence
+        =
+No new explicit communication
+```
+
+But both can be represented within the same Core Structure.
+
+Therefore:
+
+```text
+Semantic Difference
+        ≠
+Core Mechanism Difference
+```
+
+again applies.
+
+---
+
+# AI Observation Counter-test
+
+Suppose AI identifies:
+
+```text
+"A Responsibility Boundary
+may be collapsing."
+```
+
+This is:
+
+```text
+Reasoning-State Contribution
+```
+
+It may influence the process if materially relevant.
+
+But the observation does not automatically possess authority.
+
+Thus:
+
+```text
+Contribution        YES
+Influence           POSSIBLE
+Authority           NOT IMPLIED
+```
+
+The Three-Part Candidate remains sufficient.
+
+---
+
+# AI Recommendation Counter-test
+
+Suppose AI says:
+
+```text
+"Further exploration should stop."
+```
+
+This is:
+
+```text
+Reasoning-State Contribution
+        +
+Reasoning-Process Influence
+```
+
+But:
+
+```text
+Authority
+```
+
+depends on the current arrangement.
+
+Therefore:
+
+```text
+Recommendation
+        ≠
+Decision
+```
+
+remains preserved.
+
+---
+
+# AI Proposal Counter-test
+
+Suppose AI proposes:
+
+```text
+"Proceed to Externalization."
+```
+
+Again:
+
+```text
+Contribution        YES
+Influence           YES
+Authority Effect    CONTEXTUAL
+```
+
+No separate Proposal Mechanism is needed.
+
+---
+
+# AI Continued Examination Counter-test
+
+Suppose Human is in Observation Mode and AI proceeds:
+
+```text
+Candidate Formation
+        ↓
+Counter-test
+        ↓
+Compression
+        ↓
+Fit Test
+```
+
+The process can be represented as:
+
+```text
+Existing Operational Latitude
+        ↓
+permits
+        ↓
+AI Reasoning-State Contribution
++
+AI Reasoning-Process Influence
+```
+
+No independent Autonomous Examination Mechanism is required.
+
+---
+
+# AI Autonomy Counter-test
+
+The term:
+
+```text
+AI Autonomy
+```
+
+would be too broad for the observed phenomenon.
+
+What is actually supported is:
+
+```text
+AI performs multiple
+reasoning operations
+without micro-approval
+within bounded scope
+```
+
+This is more precisely represented as:
+
+> **bounded Operational Latitude**
+
+rather than:
+
+> **general AI autonomy.**
+
+---
+
+# Autonomous Examination Is Therefore Compressed
+
+Thus:
+
+```text
+AI Autonomous Examination
+```
+
+as an initial descriptive label can be compressed to:
+
+```text
+AI Reasoning Activity
+within Operational Latitude
+```
+
+This avoids unnecessary theoretical expansion.
+
+---
+
+# Counter-test Summary
+
+The Three-Part Candidate can now represent:
+
+```text
+Human Observation           ✓
+
+Human Judgment              ✓
+
+Human Intervention          ✓
+
+Human Non-intervention      ✓
+
+Human Silence               ✓
+
+AI Observation              ✓
+
+AI Judgment                 ✓
+
+AI Recommendation           ✓
+
+AI Proposal                 ✓
+
+AI Continued Examination    ✓
+
+Bounded AI Autonomy         ✓
+```
+
+without introducing an additional Core Dimension.
+
+---
+
+# Core Compression Survives
+
+The initial four-mode model:
+
+```text
+Observation
+Judgment
+Intervention
+Non-intervention
+```
+
+therefore remains successfully compressed.
+
+The current structure remains:
+
+```text
+Reasoning-State Contribution
++
+Reasoning-Process Influence
++
+Authority / Operational Latitude Boundary
+```
+
+No material counterexample yet requires expansion.
+
+---
+
+# Independence Counter-test
+
+Coverage alone is not enough.
+
+A highly abstract model may appear to explain everything while having little discriminatory value.
+
+Therefore the three dimensions must remain operationally distinguishable.
+
+---
+
+# Case A — Observation
+
+```text
+Human:
+"This pattern appears repeated."
+```
+
+Possible mapping:
+
+```text
+Contribution        YES
+
+Influence           LOW / CONTEXTUAL
+
+Authority Effect    NONE REQUIRED
+```
+
+---
+
+# Case B — Intervention
+
+```text
+Human:
+"Stop this branch."
+```
+
+Possible mapping:
+
+```text
+Contribution        YES
+
+Influence           YES
+
+Authority Effect    CONTEXTUAL / STRONG
+```
+
+---
+
+# Case C — AI Proposal
+
+```text
+AI:
+"Externalization is recommended."
+```
+
+Possible mapping:
+
+```text
+Contribution        YES
+
+Influence           YES
+
+Authority Transfer  NO
+```
+
+---
+
+# Case D — Observation Mode
+
+```text
+Human:
+"静観モード継続"
+```
+
+Possible mapping:
+
+```text
+New Contribution    MINIMAL
+
+Process State       MAINTAINED
+
+Authority           RETAINED /
+CONTEXT-DEPENDENT
+
+AI Latitude         MAINTAINED
+```
+
+---
+
+# Case E — AI Examination
+
+```text
+AI:
+performs Counter-test
+without new Human micro-instruction
+```
+
+Possible mapping:
+
+```text
+Contribution        YES
+
+Influence           YES
+
+Operational Latitude
+                   REQUIRED
+
+Authority Transfer  NOT REQUIRED
+```
+
+---
+
+# Independence Result
+
+The same interaction can activate different combinations of the dimensions.
+
+Therefore:
+
+```text
+Contribution
+```
+
+cannot be reduced to:
+
+```text
+Influence
+```
+
+and:
+
+```text
+Influence
+```
+
+cannot be reduced to:
+
+```text
+Authority / Latitude
+```
+
+The Three-Part Candidate retains:
+
+> **Operational Discriminatory Power.**
+
+---
+
+# Symmetry Counter-test
+
+The next risk is accidental Human–AI symmetry.
+
+Because both participants may:
+
+```text
+Contribute
++
+Influence
+```
+
+one might infer:
+
+```text
+Human
+=
+AI
+```
+
+within the Coupling Mechanism.
+
+This inference is not supported.
+
+---
+
+# Shared Dimensions vs Identical Position
+
+Two participants may share access to the same operational dimensions while occupying different positions within them.
+
+For example:
+
+```text
+Human Contribution
+AI Contribution
+```
+
+are both possible.
+
+But their:
+
+```text
+authority
+reliability
+provenance
+responsibility
+latitude
+```
+
+may differ.
+
+Therefore:
+
+> **Shared operational dimensions do not imply identical operational position.**
+
+---
+
+# Coupling Is Compatible with Asymmetry
+
+The model must therefore support:
+
+```text
+Symmetric Contribution
++
+Asymmetric Authority
+```
+
+or:
+
+```text
+Asymmetric Contribution
++
+Shared Influence
+```
+
+or:
+
+```text
+Shared Reasoning State
++
+Different Operational Latitude
+```
+
+depending on context.
+
+---
+
+# No Universal Symmetry Requirement
+
+Thus:
+
+```text
+Human–AI Coupling
+        ≠
+Human–AI Symmetry
+```
+
+This becomes a Core Boundary.
+
+---
+
+# No Universal Asymmetry Pattern Either
+
+However, the opposite error must also be avoided.
+
+07 should not encode one fixed asymmetry such as:
+
+```text
+Human always commands
+AI always advises
+```
+
+because current evidence does not establish this as universal.
+
+Therefore:
+
+> **Coupling must permit context-sensitive asymmetry without prescribing one universal asymmetry pattern.**
+
+---
+
+# Responsibility Asymmetry
+
+Responsibility may also be asymmetric.
+
+For example:
+
+```text
+AI generates Candidate
+```
+
+while:
+
+```text
+Human decides whether
+to adopt Externalization
+```
+
+in one context.
+
+But another context may allocate responsibilities differently.
+
+Thus:
+
+```text
+Participation
+        ≠
+Responsibility Allocation
+```
+
+remains important.
+
+---
+
+# Authority / Responsibility Distinction
+
+Authority and responsibility should not be automatically conflated either.
+
+A participant may have:
+
+```text
+authority to perform an operation
+```
+
+without possessing:
+
+```text
+exclusive responsibility
+for every consequence
+```
+
+or vice versa.
+
+However, Mission 002 does not need a full Responsibility Theory.
+
+The relevant requirement is simply:
+
+> **07 must not infer responsibility identity from participation or authority alone.**
+
+---
+
+# Coupling Object Revisited
+
+At this point, it becomes useful to clarify what exactly is being coupled.
+
+The answer is not simply:
+
+```text
+Human
++
+AI
+```
+
+as two entities.
+
+The operational object is:
+
+```text
+Human Participation
+        +
+AI Participation
+        ↓
+Current Reasoning State
+and
+Current Reasoning Process
+```
+
+within:
+
+```text
+Authority /
+Operational Latitude Boundary
+```
+
+Thus Human–AI Coupling is fundamentally:
+
+> **a relation around reasoning**
+
+rather than merely:
+
+> **a relation between two participants.**
+
+---
+
+# Why This Matters
+
+If Coupling were defined only as:
+
+```text
+Human ↔ AI
+```
+
+the analysis could drift toward:
+
+- communication style
+- interpersonal dynamics
+- interface design
+- social interaction
+- collaboration psychology
+
+Those may be important elsewhere.
+
+But Mission 002 requires:
+
+> **Recursive Reasoning Coupling**
+
+specifically.
+
+Therefore the Reasoning State / Process remains the central operational object.
+
+---
+
+# Reasoning-Centered Coupling
+
+A stronger representation is:
+
+```text
+               HUMAN
+                 │
+       Contribution /
+         Influence
+                 │
+                 ▼
+        CURRENT REASONING
+        STATE / PROCESS
+                 ▲
+                 │
+       Contribution /
+         Influence
+                 │
+                AI
+
+        within an
+Authority / Operational
+    Latitude Boundary
+```
+
+This is more precise than:
+
+```text
+Human ↔ AI
+```
+
+alone.
+
+---
+
+# Coupling Is Not Conversation
+
+Therefore:
+
+```text
+Human–AI Coupling
+        ≠
+Conversation
+```
+
+Conversation may carry Coupling signals.
+
+But the Core Mechanism concerns their operational effect on reasoning.
+
+---
+
+# Coupling Is Not Collaboration in General
+
+Likewise:
+
+```text
+Human–AI Coupling
+        ≠
+Human–AI Collaboration
+in general
+```
+
+The current concept is narrower:
+
+> **coupling within Recursive Reasoning.**
+
+---
+
+# Coupling Is Not Mutual Agreement
+
+Human and AI may disagree while remaining coupled.
+
+For example:
+
+```text
+AI:
+"Freeze is appropriate."
+
+Human:
+"Not yet."
+```
+
+The disagreement itself may enter the Reasoning State and alter the Process.
+
+Therefore:
+
+```text
+Coupling
+        ≠
+Agreement
+```
+
+---
+
+# Coupling Is Not Continuous Intervention
+
+Human–AI Coupling can remain operational during periods of Human Non-intervention.
+
+Therefore:
+
+```text
+Coupling
+        ≠
+Continuous Human Input
+```
+
+---
+
+# Coupling Is Not Continuous AI Activity
+
+Likewise, the Human may reason, inspect, or pause while AI produces no new contribution.
+
+Therefore:
+
+```text
+Coupling
+        ≠
+Continuous AI Output
+```
+
+The coupling relation may persist across temporary inactivity.
+
+---
+
+# Coupling State Persistence
+
+This suggests:
+
+> **A Coupling Configuration may persist even when one participant is temporarily inactive.**
+
+The configuration may include:
+
+```text
+Current Objective
+
+Current Scope
+
+Current Authority Boundary
+
+Current Operational Latitude
+
+Current Reasoning State
+
+Current stopping conditions
+```
+
+Thus momentary silence does not necessarily dissolve the Coupling State.
+
+---
+
+# Coupling State vs Interaction Event
+
+This yields another useful distinction:
+
+```text
+Interaction Event
+        ≠
+Coupling State
+```
+
+An interaction event may change the Coupling State.
+
+But the Coupling State can persist between events.
+
+---
+
+# Why a Separate Coupling-State Mechanism Is Not Added
+
+This distinction could motivate a new Core Mechanism:
+
+```text
+Coupling State Management
+```
+
+However, current evidence does not require it.
+
+The persistence can already be represented through:
+
+```text
+Authority / Operational Latitude Boundary
++
+Current Reasoning State / Process
+```
+
+Therefore no fourth Core Dimension is added.
+
+---
+
+# Anti-Proliferation Counter-test
+
+At several points, candidate expansions became possible:
+
+```text
+Observation Mechanism
+
+Judgment Mechanism
+
+Intervention Mechanism
+
+Non-intervention Mechanism
+
+Silence Mechanism
+
+Authority Mechanism
+
+Latitude Mechanism
+
+Autonomy Mechanism
+
+Coupling-State Mechanism
+```
+
+None has yet survived as a necessary independent Core Mechanism.
+
+Instead, they have been compressed into:
+
+```text
+Contribution
++
+Influence
++
+Authority / Latitude Boundary
+```
+
+This is important evidence against Concept Proliferation.
+
+---
+
+# Current Core Mechanism
+
+The Core Candidate now survives:
+
+- semantic compression
+- Human Intervention test
+- Human Non-intervention test
+- Human Silence test
+- AI Proposal test
+- AI Recommendation test
+- AI Continued Examination test
+- bounded autonomy test
+- independence test
+- symmetry test
+- coupling-state persistence test
+
+Therefore the Core Mechanism is increasingly stable.
+
+---
+
+# Core Candidate v0.2
+
+The current formulation is:
+
+> **Human–AI Coupling within Recursive Reasoning is the context-bounded operational relationship through which Human and AI may contribute materially evaluable content to the current Reasoning State, influence how the Reasoning Process proceeds, and act within distinguishable boundaries of authority and operational latitude.**
+
+This formulation is stronger than the Part 1 working definition because:
+
+```text
+context-bounded
+```
+
+is now explicit.
+
+---
+
+# Core Structural Formula
+
+```text
+Human–AI Coupling
+=
+Reasoning-State Contribution
++
+Reasoning-Process Influence
++
+Context-Bounded
+Authority / Operational Latitude
+```
+
+---
+
+# Important Qualification
+
+The formula does not mean:
+
+```text
+All three dimensions
+must be actively exercised
+by both participants
+at every moment.
+```
+
+Rather:
+
+> **the Coupling architecture must be capable of representing these dimensions when materially relevant.**
+
+---
+
+# Minimal Coupling Representation
+
+A minimal operational representation is:
+
+```text
+Who contributed what?
+
+        ↓
+
+How did it affect
+reasoning progression?
+
+        ↓
+
+Within what authority /
+latitude boundary
+did that effect occur?
+```
+
+These three questions recover the Core Candidate without requiring a complex taxonomy of interaction modes.
+
+---
+
+# Counter-example Search
+
+Before treating the Core Candidate as Restabilized, one further question must be asked:
+
+> **Is there a materially important Human–AI interaction observed in 03–06 that cannot be represented by Contribution, Influence, or Authority / Latitude Boundary?**
+
+The main candidates have already been tested.
+
+These include:
+
+```text
+Human Observation
+Human Judgment
+Human Intervention
+Human Non-intervention
+Human Silence
+AI Observation
+AI Judgment
+AI Proposal
+AI Recommendation
+AI Continued Examination
+Bounded Autonomous Examination
+```
+
+No material counterexample has yet emerged.
+
+---
+
+# Potential Counter-example — Human Correction
+
+Suppose Human corrects an AI misunderstanding.
+
+Example:
+
+```text
+Human:
+"That was not my question."
+```
+
+This can be represented as:
+
+```text
+Reasoning-State Contribution
+        ↓
+Correction information
+
+Reasoning-Process Influence
+        ↓
+Redirect examination
+
+Authority / Latitude Boundary
+        ↓
+Current objective constrained
+```
+
+No new Core Dimension is required.
+
+---
+
+# Potential Counter-example — AI Refusal to Continue a Branch
+
+Suppose AI determines:
+
+```text
+"This branch is unsupported
+and should not be extended."
+```
+
+This can be represented as:
+
+```text
+Reasoning-State Contribution
+        ↓
+Support assessment
+
+Reasoning-Process Influence
+        ↓
+Stop recommendation
+
+Authority / Latitude Boundary
+        ↓
+Determines operational effect
+```
+
+Again, no new Core Dimension is required.
+
+---
+
+# Potential Counter-example — Human Changes Objective
+
+Suppose Human changes the research objective.
+
+This is a strong interaction.
+
+It can be represented as:
+
+```text
+Reasoning-State Contribution
+        ↓
+New objective
+
+Reasoning-Process Influence
+        ↓
+Reasoning direction changes
+
+Authority / Latitude Boundary
+        ↓
+New operational scope
+```
+
+No additional Coupling Mechanism is necessary.
+
+---
+
+# Potential Counter-example — AI Requests Human Judgment
+
+Suppose AI reaches a point where Human judgment is required.
+
+```text
+AI:
+"Two valid options remain.
+Human selection is required."
+```
+
+This is:
+
+```text
+Reasoning-State Contribution
+        +
+Process Influence
+        +
+Recognition of
+Authority / Latitude Boundary
+```
+
+Again, the current model is sufficient.
+
+---
+
+# Potential Counter-example — Human Declines to Decide
+
+Suppose Human says:
+
+```text
+"Continue examining before
+I decide."
+```
+
+This can be represented as:
+
+```text
+Contribution
+        ↓
+Decision deferred
+
+Influence
+        ↓
+Examination continues
+
+Authority
+        ↓
+Decision capacity retained
+
+Latitude
+        ↓
+AI examination extended
+```
+
+Again, no fourth Core Dimension is necessary.
+
+---
+
+# Potential Counter-example — Joint Restabilization
+
+Suppose Human identifies one dependency and AI identifies another.
+
+Together these contributions lead to Restabilization.
+
+This can be represented as:
+
+```text
+Human Contribution
+        +
+AI Contribution
+        ↓
+06 Restabilization Mechanism
+```
+
+07 does not need a separate:
+
+```text
+Joint Judgment Mechanism
+```
+
+because the structural Restabilization responsibility remains in 06.
+
+---
+
+# Potential Counter-example — Disagreement
+
+Suppose:
+
+```text
+Human:
+"Preserve."
+
+AI:
+"Revision appears necessary."
+```
+
+This produces:
+
+```text
+Multiple Reasoning-State
+Contributions
+        +
+Process Influence
+        +
+Potential Authority Question
+```
+
+05 still determines the Structural Disposition mechanism.
+
+Therefore disagreement does not require a new Coupling Dimension.
+
+---
+
+# Potential Counter-example — Repeated Non-intervention
+
+Suppose the Human remains in Observation Mode across several reasoning cycles.
+
+This remains:
+
+```text
+Existing Coupling Configuration
+        +
+Maintained AI Latitude
+        +
+Retained Human participation capacity
+```
+
+No new mechanism is required.
+
+---
+
+# Counter-example Search Result
+
+No observed major interaction requires expansion beyond:
+
+```text
+Contribution
+Influence
+Authority / Latitude Boundary
+```
+
+Therefore the Core Candidate survives the current counter-example search.
+
+---
+
+# Core Mechanism Restabilization Candidate
+
+The Core Mechanism can now be considered:
+
+> **Restabilized Candidate**
+
+because:
+
+```text
+Relevant Interaction Types
+        ↓
+Sufficiently examined
+
+Major Counter-examples
+        ↓
+Representable
+
+Unnecessary distinctions
+        ↓
+Compressed
+
+Material unresolved
+Core contradiction
+        ↓
+Not identified
+```
+
+---
+
+# Restabilization Does Not Mean Final Validation
+
+As established in 06:
+
+```text
+Restabilized
+        ≠
+Final
+```
+
+Therefore the Core Candidate remains open to future Revision if materially relevant evidence emerges.
+
+---
+
+# Core Mechanism Freeze Is Premature
+
+Although the Core Candidate is Restabilized, the full 07 asset is not yet ready for Freeze.
+
+Remaining responsibilities include:
+
+```text
+Operational Requirements
+
+Operational Invariants
+
+Failure Protections
+
+Protocol Candidate
+
+03–07 Responsibility Fit
+
+Mission-level Drift Check
+
+Placement Fit
+
+Externalization Assessment
+
+Freeze Assessment
+```
+
+These belong to later sections.
+
+---
+
+# Boundary with 06
+
+The Restabilization language used here must not cause 07 to absorb 06.
+
+06 remains responsible for:
+
+```text
+Restabilization of
+the Reasoning State
+```
+
+Here the term:
+
+```text
+Core Mechanism Restabilized
+```
+
+is a development-status judgment about the 07 candidate.
+
+It does not redefine the 06 mechanism.
+
+---
+
+# Developmental Evidence
+
+The 07 examination has so far followed the same bounded pattern observed in 03–06:
+
+```text
+Bounded Question
+        ↓
+Candidate Formation
+        ↓
+Counter-test
+        ↓
+Compression
+        ↓
+Boundary Examination
+        ↓
+Restabilization Candidate
+```
+
+This recurrence is noteworthy.
+
+However:
+
+> **it is not promoted here into a new methodological branch.**
+
+That Meta-Observation remains secondary to Mission 002 completion.
+
+---
+
+# Role Drift Protection
+
+The examination has also repeatedly rejected expansion into:
+
+```text
+General AI Governance
+
+General Human–AI Ethics
+
+Universal Authority Theory
+
+Autonomy Theory
+
+Collaboration Psychology
+
+Interface Design
+
+Multi-agent Architecture
+
+Responsibility Theory
+```
+
+This is important for maintaining Mission alignment.
+
+However, the formal Mission-level Drift Check remains reserved for the final Responsibility Fit stage.
+
+---
+
+# Current Boundary Summary
+
+The current Core Candidate preserves:
+
+```text
+Contribution
+        ≠
+Influence
+
+Influence
+        ≠
+Authority
+
+Authority
+        ≠
+Structural Truth
+
+Authority
+        ≠
+Micromanagement
+
+Authority Retention
+        ≠
+Authority Exercise
+
+Operational Latitude
+        ≠
+Authority Transfer
+
+Operational Latitude
+        ≠
+Unlimited Autonomy
+
+Non-intervention
+        ≠
+Human Absence
+
+Silence
+        ≠
+Consent
+
+Silence
+        ≠
+Authority Transfer
+
+Proposal
+        ≠
+Decision
+
+Recommendation
+        ≠
+Binding Constraint
+
+Shared Participation
+        ≠
+Shared Responsibility
+
+Shared Dimensions
+        ≠
+Operational Symmetry
+
+Coupling
+        ≠
+Agreement
+
+Coupling
+        ≠
+Conversation
+
+Coupling
+        ≠
+General Collaboration
+```
+
+---
+
+# Current Positive Structure
+
+The positive structure is:
+
+```text
+Human
+        │
+        ├── may contribute
+        │
+        ├── may influence
+        │
+        └── operates within
+            authority / latitude boundary
+                 │
+                 ▼
+        CURRENT REASONING
+        STATE / PROCESS
+                 ▲
+                 │
+AI
+        │
+        ├── may contribute
+        │
+        ├── may influence
+        │
+        └── operates within
+            authority / latitude boundary
+```
+
+The boundaries need not be identical for Human and AI.
+
+---
+
+# Context-Sensitive Asymmetry
+
+The model therefore supports:
+
+```text
+Human Authority > AI Authority
+```
+
+in one operation,
+
+while potentially allowing:
+
+```text
+AI Operational Latitude
+        =
+relatively broad
+```
+
+within another bounded operation.
+
+The model does not require a single scalar authority relationship.
+
+---
+
+# Why No Authority Score Is Introduced
+
+It might be tempting to express authority numerically:
+
+```text
+Human Authority = 80%
+AI Authority = 20%
+```
+
+The current evidence does not support this.
+
+Such scoring would create false precision.
+
+Therefore:
+
+> **No numerical Authority or Latitude metric is introduced.**
+
+---
+
+# Why No Coupling Score Is Introduced
+
+Similarly:
+
+```text
+Coupling Strength = 0.85
+```
+
+would not currently have an evidence-supported interpretation.
+
+Therefore:
+
+> **Human–AI Coupling remains structurally described rather than numerically scored.**
+
+---
+
+# Why No Fixed State Machine Is Introduced Yet
+
+A future protocol implementation may define states such as:
+
+```text
+Human-Led
+
+AI-Latitude
+
+Joint Examination
+
+Human Review Required
+
+Externalization Pending
+```
+
+But the current evidence does not require these exact states.
+
+Mission 002 should first preserve the underlying responsibility structure.
+
+Therefore no final Coupling State Machine is created here.
+
+---
+
+# Minimal Operational Test
+
+The Three-Part Core Candidate can be operationally tested through three questions:
+
+```text
+Q1
+What materially entered
+the Reasoning State,
+and from whom?
+
+Q2
+What materially changed
+or maintained how
+reasoning proceeded?
+
+Q3
+Within what Authority /
+Operational Latitude Boundary
+did that interaction occur?
+```
+
+These questions are intentionally compact.
+
+---
+
+# Extended Operational Test
+
+Where greater precision is necessary:
+
+```text
+1.
+What did the Human contribute?
+
+2.
+What did the AI contribute?
+
+3.
+Which contributions were material?
+
+4.
+What changed the Reasoning Process?
+
+5.
+What maintained the current process?
+
+6.
+What was merely proposed?
+
+7.
+What was treated as governing?
+
+8.
+What authority was retained?
+
+9.
+What Operational Latitude existed?
+
+10.
+Was any authority transfer
+actually established?
+
+11.
+Was silence being misread
+as consent?
+
+12.
+Did Coupling alter any
+03–06 responsibility boundary?
+```
+
+This remains an examination aid rather than a final protocol.
+
+---
+
+# Core Mechanism Candidate — Compact Form
+
+```text
+Contribution
+        ↓
+Reasoning State
+
+Influence
+        ↓
+Reasoning Process
+
+Authority / Latitude
+        ↓
+Operational Boundary
+```
+
+Together:
+
+```text
+Human–AI Coupling
+```
+
+---
+
+# Core Mechanism Candidate — Expanded Form
+
+```text
+                    HUMAN
+                      │
+          ┌───────────┼───────────┐
+          │           │           │
+          ▼           ▼           ▼
+     Contribution  Influence   Authority /
+                               Latitude
+          │           │        Boundary
+          │           │           │
+          └─────┬─────┘           │
+                ▼                 │
+         CURRENT REASONING        │
+         STATE / PROCESS          │
+                ▲                 │
+          ┌─────┴─────┐           │
+          │           │           │
+          ▼           ▼           │
+     Contribution  Influence      │
+          │           │           │
+          └───── AI ──┴───────────┘
+```
+
+---
+
+# Core Mechanism Candidate — Dynamic Form
+
+```text
+Human Contribution
+        ↓
+Current Reasoning State
+        ↑
+AI Contribution
+
+        ↕
+
+Human Process Influence
+        ↓
+Current Reasoning Process
+        ↑
+AI Process Influence
+
+        ↕
+
+Authority /
+Operational Latitude Boundary
+```
+
+---
+
+# Current Operational Interpretation
+
+The dynamic interpretation is:
+
+> **Human and AI may both contribute to the evolving Reasoning State and influence the evolving Reasoning Process, while their ability to determine, constrain, continue, or execute operations remains bounded by context-sensitive Authority and Operational Latitude.**
+
+---
+
+# What the Core Candidate Does Not Decide
+
+The candidate does not itself decide:
+
+```text
+Who is always correct?
+
+Who must always approve?
+
+Who owns the reasoning?
+
+Who is legally responsible?
+
+Who should have moral authority?
+
+Who should execute downstream action?
+
+Whether AI should be autonomous?
+
+Whether Human supervision is always required?
+```
+
+These questions exceed the current operational responsibility.
+
+---
+
+# What the Core Candidate Does Decide
+
+The candidate does establish that a Recursive Reasoning Protocol should not collapse:
+
+```text
+Contribution
+
+Influence
+
+Authority
+
+Operational Latitude
+```
+
+into a single undifferentiated concept of:
+
+```text
+Participation
+```
+
+This is the principal structural finding of the current examination.
+
+---
+
+# Current Examination State
+
+At the end of Part 2:
+
+```text
+[✓] Three-Part Core Candidate retained
+
+[✓] Influence distinguished from Authority
+
+[✓] Authority distinguished from Structural Truth
+
+[✓] Authority distinguished from Micromanagement
+
+[✓] Operational Latitude distinguished from Authority
+
+[✓] Operational Latitude distinguished from Unlimited Autonomy
+
+[✓] Human Intervention counter-tested
+
+[✓] Human Observation counter-tested
+
+[✓] Human Judgment counter-tested
+
+[✓] Human Non-intervention counter-tested
+
+[✓] Human Silence counter-tested
+
+[✓] AI Observation counter-tested
+
+[✓] AI Recommendation counter-tested
+
+[✓] AI Proposal counter-tested
+
+[✓] AI Continued Examination counter-tested
+
+[✓] Bounded AI Autonomy compressed
+
+[✓] Symmetry counter-tested
+
+[✓] Coupling-State persistence examined
+
+[✓] Major Counter-example search completed
+
+[✓] Core Mechanism Restabilization Candidate reached
+
+[ ] Full Coverage / Failure Protection consolidation
+
+[ ] Operational Requirements consolidated
+
+[ ] Operational Invariants consolidated
+
+[ ] Protocol Candidate formed
+
+[ ] 03–07 Responsibility Fit completed
+
+[ ] Mission-level Drift Check completed
+
+[ ] Placement Fit completed
+
+[ ] Externalization completeness assessed
+
+[ ] Freeze assessed
+```
+
+---
+
+# Part 2 Result
+
+The current Core Mechanism remains:
+
+> **Human–AI Coupling within Recursive Reasoning is the context-bounded operational relationship through which Human and AI may contribute materially evaluable content to the current Reasoning State, influence how the Reasoning Process proceeds, and act within distinguishable boundaries of authority and operational latitude.**
+
+Compactly:
+
+```text
+Human–AI Coupling
+=
+Reasoning-State Contribution
++
+Reasoning-Process Influence
++
+Context-Bounded
+Authority / Operational Latitude
+```
+
+No fourth Core Dimension is currently required.
+
+---
+
+# Transition to Part 3
+
+Part 3 moves from:
+
+```text
+Core Mechanism Formation
+```
+
+to:
+
+```text
+Coverage
++
+Failure Protection
++
+Operational Consolidation Preparation
+```
+
+The principal task is to test the Restabilized Candidate against difficult boundary cases, including:
+
+```text
+Human Intervention
+
+Human Silence
+
+Non-intervention
+
+AI Proposal
+
+AI Continued Examination
+
+Disagreement
+
+Premature Authority Inference
+
+Authority Transfer Assumption
+
+Coupling Symmetry Assumption
+
+Responsibility Collapse
+```
+
+and to determine whether any material residual remains before the final Operational Requirements and Responsibility Fit are externalized.
+
+---
+
+# End of Part 2/4
+
+**07 — Human–AI Coupling**
+
+**Externalization in Progress**
+
+**Core Mechanism: Restabilized Candidate**
+
+**Next: Part 3/4 — Coverage, Boundary Cases, and Failure Protection**
+
+
+
+
+
