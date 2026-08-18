@@ -6031,3 +6031,2213 @@ without reopening the Restabilization search.
 # End of Part 2/3
 
 
+# 06 — Restabilization
+
+## Part 3/3
+
+---
+
+# Operational Requirements Consolidation
+
+The preceding examination supports a bounded set of Operational Requirements for Restabilization.
+
+These requirements do not attempt to transform Restabilization into a universally deterministic algorithm.
+
+They specify the minimum structural responsibilities that must be preserved if the mechanism is later operationalized as part of a Recursive Reasoning Protocol.
+
+---
+
+# Requirement 1 — Structural Disposition Must Precede Restabilization
+
+Restabilization must not replace or prematurely overlap the Preservation / Revision responsibility.
+
+The expected sequence is:
+
+```text
+Recursive Examination
+        ↓
+Structural Disposition
+        ↓
+Structurally Updated State
+        ↓
+Restabilization
+```
+
+Therefore:
+
+> **Restabilization must operate on the output of Structural Disposition rather than simultaneously deciding what should be preserved or revised.**
+
+---
+
+# Requirement 2 — Preservation Must Remain a Valid Entry State
+
+Restabilization must not assume that Structural Disposition necessarily produced Revision.
+
+The mechanism must accept:
+
+```text
+Preserve
+```
+
+as well as:
+
+```text
+Revise
+```
+
+and:
+
+```text
+Selective Preservation / Revision
+```
+
+as legitimate upstream outcomes.
+
+Therefore:
+
+> **Restabilization must operate after Structural Disposition generally, not only after Revision.**
+
+---
+
+# Requirement 3 — Relevant Consequences Must Be Identified
+
+The mechanism must identify consequences of the Structural Disposition that are materially relevant to the current reasoning state.
+
+It must not infer:
+
+```text
+Structural Update
+        =
+Consequences Already Integrated
+```
+
+Therefore:
+
+> **A Structurally Updated State must be treated as an input requiring consequence examination rather than as automatic evidence of restored stability.**
+
+---
+
+# Requirement 4 — Consequence Propagation Must Be Bounded
+
+The mechanism must not require exhaustive traversal of every theoretically possible downstream implication.
+
+Instead:
+
+```text
+Structural Disposition
+        ↓
+Relevant Consequence
+        ↓
+Material Relevance?
+        │
+        ├── Yes
+        │     ↓
+        │ Continue Integration
+        │
+        └── No
+              ↓
+        Stop This Path
+```
+
+Therefore:
+
+> **Material relevance must bound consequence propagation.**
+
+---
+
+# Requirement 5 — Recognition Must Be Distinguished from Integration
+
+The mechanism must distinguish:
+
+```text
+Consequence Recognized
+```
+
+from:
+
+```text
+Consequence Integrated
+```
+
+Recognizing that an updated structure affects another element is insufficient if the effect has not been incorporated into the current reasoning state.
+
+Therefore:
+
+> **Restabilization requires sufficient integration, not merely consequence detection.**
+
+---
+
+# Requirement 6 — Integration Must Not Imply Automatic Revision
+
+A consequence may be integrated while the affected structure remains unchanged.
+
+For example:
+
+```text
+B → B'
+        ↓
+B' still supports C
+        ↓
+C preserved
+```
+
+Therefore:
+
+> **Consequence Integration must permit reaffirmation as well as further structural change.**
+
+This protects the boundary between 05 and 06.
+
+---
+
+# Requirement 7 — Material Coherence Must Be Evaluated
+
+After relevant consequences have been sufficiently integrated, the mechanism must evaluate whether unresolved material instability remains.
+
+Therefore:
+
+```text
+Relevant Consequences
+Integrated
+        ↓
+Relevant Dependencies
+Re-evaluated
+        ↓
+Material Unresolved
+Instability?
+```
+
+must remain part of the Core Mechanism.
+
+---
+
+# Requirement 8 — Absence of Detected Contradiction Must Not Be Sufficient
+
+The mechanism must not infer:
+
+```text
+No contradiction detected
+        ↓
+Restabilized
+```
+
+when materially relevant consequences remain unexamined.
+
+Therefore:
+
+> **Material Coherence must be assessed only after sufficient Relevant Consequence Integration.**
+
+---
+
+# Requirement 9 — Complete Resolution Must Not Be Required
+
+The mechanism must permit non-material unresolved questions to remain open.
+
+Therefore:
+
+```text
+Unresolved Question Exists
+```
+
+must not automatically produce:
+
+```text
+Not Yet Restabilized
+```
+
+The relevant distinction is:
+
+```text
+Materially Destabilizing
+vs.
+Non-Materially Open
+```
+
+---
+
+# Requirement 10 — Uncertainty Must Not Automatically Prevent Restabilization
+
+A reasoning state may remain:
+
+- provisional
+- uncertain
+- incomplete
+
+while still being structurally Restabilized.
+
+Therefore:
+
+> **Restabilization must not be equated with certainty.**
+
+The relevant criterion is material structural stability within the current context.
+
+---
+
+# Requirement 11 — Restabilization Must Permit Structural Development
+
+The mechanism must not require the reasoning state to return to its pre-recursive configuration.
+
+Therefore:
+
+```text
+Stable A
+        ↓
+Recursive Processing
+        ↓
+Stable B
+```
+
+must remain a valid successful pattern.
+
+---
+
+# Requirement 12 — Valid Redirection Must Be Compatible with Restabilization
+
+The mechanism must not require continuation of the original reasoning path.
+
+A Restabilized State may support:
+
+```text
+Continue
+Redirect
+Revise Objective
+Suspend
+Terminate
+```
+
+depending on downstream responsibility.
+
+Therefore:
+
+> **Restabilization concerns structural readiness, not preservation of the previous trajectory.**
+
+---
+
+# Requirement 13 — Operational Readiness Must Remain an Output Property
+
+Operational Readiness should not be treated as a third independent Restabilization condition.
+
+The retained relation is:
+
+```text
+Relevant Consequences
+Sufficiently Integrated
+        +
+No Material Unresolved
+Instability
+        ↓
+Restabilized State
+        ↓
+Operational Readiness
+```
+
+Therefore:
+
+> **Operational Readiness follows successful Restabilization.**
+
+---
+
+# Requirement 14 — Not Yet Restabilized Must Be a Valid Output
+
+The mechanism must not be biased toward positive closure.
+
+It must permit:
+
+```text
+NOT YET RESTABILIZED
+```
+
+when:
+
+- materially relevant consequences remain insufficiently integrated
+- material dependency incoherence remains
+- the current reasoning state remains structurally blocked
+
+Therefore:
+
+> **A negative Restabilization judgment is a legitimate successful outcome of the mechanism.**
+
+---
+
+# Requirement 15 — Restabilization Failure Must Not Automatically Perform Revision
+
+When material instability is discovered, 06 may identify:
+
+```text
+Material Residual
+```
+
+and output:
+
+```text
+Not Yet Restabilized
+```
+
+It must not automatically absorb:
+
+> how the structure should be revised.
+
+That remains outside the Primary Responsibility of 06.
+
+---
+
+# Requirement 16 — Recursive Routing Must Remain Context-Sensitive
+
+A Not Yet Restabilized state may require:
+
+- continued 06 integration
+- renewed 05 Structural Disposition
+- renewed 04 Target / Depth Selection
+- renewed 03 Trigger / Re-entry judgment
+
+No universal return point is currently supported.
+
+Therefore:
+
+> **The Restabilization mechanism must expose unresolved material instability without imposing an unsupported fixed routing architecture.**
+
+---
+
+# Requirement 17 — Current Recursive Episode Must Have a Stopping Condition
+
+The mechanism must support termination of the current recursive episode when:
+
+```text
+Relevant Consequences
+Sufficiently Integrated
+        +
+No Material Unresolved
+Instability
+```
+
+has been established.
+
+This prevents unlimited recursive continuation.
+
+---
+
+# Requirement 18 — Stopping Must Not Mean Permanent Closure
+
+The mechanism must preserve future revisability.
+
+Therefore:
+
+```text
+Restabilized
+        ≠
+Never Re-enter
+```
+
+New materially relevant observations may later create a new Recursive Trigger.
+
+---
+
+# Requirement 19 — Restabilization Must Be Source-Neutral
+
+Materially relevant information may originate from:
+
+- Human observation
+- AI observation
+- Repository re-entry
+- external evidence
+- another reasoning asset
+
+The Restabilization mechanism should evaluate the structural effect of that information rather than excluding it based solely on source identity.
+
+---
+
+# Requirement 20 — Source-Neutrality Must Not Become Source-Blindness
+
+Source may matter for:
+
+- reliability
+- provenance
+- validation
+- authority
+- interpretation
+
+But these concerns do not replace the Core Restabilization question.
+
+Therefore:
+
+> **Source-neutrality concerns eligibility for material integration, not universal equivalence of evidence sources.**
+
+---
+
+# Requirement 21 — Human Approval Must Not Define Restabilization
+
+Explicit Human approval must not be required as a universal Restabilization condition.
+
+Therefore:
+
+```text
+Human Approval
+        ≠
+Structural Stability
+```
+
+A Human may approve an unstable structure.
+
+A Human may disagree with a stable structure.
+
+The two dimensions must remain distinct.
+
+---
+
+# Requirement 22 — Human Observation Must Remain Materially Actionable
+
+Although Human approval is not required, materially relevant Human observations must be capable of destabilizing a Restabilization Candidate.
+
+For example:
+
+```text
+Restabilization Candidate
+        ↓
+Human identifies
+materially overlooked dependency
+        ↓
+Candidate re-evaluated
+```
+
+Therefore:
+
+> **Human input must neither be universally required nor structurally ignored.**
+
+---
+
+# Requirement 23 — Coupled Input Must Not Cause Responsibility Mixing
+
+06 may accept input generated through Human–AI interaction.
+
+It must not thereby absorb:
+
+- Human intervention policy
+- Human silence interpretation
+- AI autonomy
+- authority allocation
+- responsibility distribution
+- escalation rules
+
+These remain outside the Primary Responsibility of Restabilization.
+
+---
+
+# Requirement 24 — Reasoning State Must Remain the Primary Object
+
+The object being evaluated is:
+
+> **the relevant current Reasoning State**
+
+not the Human participant or AI participant independently.
+
+Therefore:
+
+```text
+Human Input
+AI Input
+Repository Input
+External Input
+        ↓
+Materially Relevant Subset
+        ↓
+Reasoning-State Evaluation
+```
+
+is the preferred orientation.
+
+---
+
+# Requirement 25 — Restabilization Must Remain Distinct from Freeze
+
+A Restabilized reasoning state is not automatically a frozen repository asset.
+
+Therefore:
+
+```text
+Restabilization
+        ≠
+Freeze
+```
+
+Freeze requires a separate externalization / baseline judgment.
+
+---
+
+# Requirement 26 — Restabilization Must Remain Distinct from Externalization Readiness
+
+A reasoning state may be Restabilized while:
+
+- Placement remains unclear
+- responsibility boundaries remain unresolved
+- externalization format remains undecided
+
+Therefore:
+
+> **Restabilization may contribute to Externalization Readiness but does not define it.**
+
+---
+
+# Requirement 27 — Repository Placement Must Remain Contextual
+
+Repository Placement becomes relevant only when the current operation involves Repository Externalization.
+
+It is not a universal Core Condition of Restabilization.
+
+Therefore:
+
+> **Restabilization must not become repository-specific.**
+
+---
+
+# Requirement 28 — Explainability Should Be Preserved
+
+Where the Restabilization judgment is externalized, the reasoning process should preserve enough information to explain:
+
+- what Structural Disposition occurred
+- what consequences were materially relevant
+- what dependencies were re-evaluated
+- what material residual remained, if any
+- why the final Restabilization judgment was reached
+
+This supports later re-entry and review.
+
+---
+
+# Requirement 29 — False Precision Must Be Avoided
+
+The current evidence does not support universal numerical Restabilization scores.
+
+Therefore the mechanism should not invent:
+
+```text
+Stability = 87%
+```
+
+or similar quantitative thresholds without independent evidence.
+
+---
+
+# Requirement 30 — Scope Must Be Explicit When Necessary
+
+Where ambiguity is possible, Restabilization should be understood as:
+
+> **Restabilized within the current reasoning objective and materially relevant dependency scope.**
+
+This protects against accidental claims of global completion.
+
+---
+
+# Operational Invariants
+
+The requirements above support several invariants.
+
+These invariants should remain stable even if later implementation details change.
+
+---
+
+## Invariant A — Structural Update Is Not Stability
+
+```text
+Updated
+        ≠
+Restabilized
+```
+
+---
+
+## Invariant B — Preservation Can Require Restabilization
+
+```text
+Preserved
+        ≠
+No Restabilization Needed
+```
+
+---
+
+## Invariant C — Recognition Is Not Integration
+
+```text
+Recognized
+        ≠
+Integrated
+```
+
+---
+
+## Invariant D — Integration Is Not Necessarily Revision
+
+```text
+Integrated
+        ≠
+Modified
+```
+
+---
+
+## Invariant E — Integration Is Not Coherence
+
+```text
+Integrated
+        ≠
+Coherent
+```
+
+---
+
+## Invariant F — Open Is Not Unstable
+
+```text
+Unresolved
+        ≠
+Materially Destabilizing
+```
+
+---
+
+## Invariant G — Uncertain Is Not Unstable
+
+```text
+Uncertain
+        ≠
+Not Restabilized
+```
+
+---
+
+## Invariant H — Restabilized Is Not Final
+
+```text
+Restabilized
+        ≠
+Permanent Closure
+```
+
+---
+
+## Invariant I — Restabilized Is Not Frozen
+
+```text
+Restabilized
+        ≠
+Repository Freeze
+```
+
+---
+
+## Invariant J — Human Agreement Is Not Stability
+
+```text
+Human Agreement
+        ≠
+Restabilization
+```
+
+---
+
+## Invariant K — Coupled Input Is Not Coupling Responsibility
+
+```text
+Coupled Input
+        ≠
+Human–AI Coupling Architecture
+```
+
+---
+
+## Invariant L — Operational Readiness Is Not Action Selection
+
+```text
+Operationally Ready
+        ≠
+Action Already Selected
+```
+
+---
+
+# Minimum Protocol Candidate
+
+The Restabilization mechanism can now be translated into a minimal Protocol Candidate.
+
+This remains provisional.
+
+It is not yet a final operational protocol.
+
+---
+
+## Step 1 — Receive Structural Disposition Output
+
+Input:
+
+```text
+Structurally Updated /
+Reaffirmed State
+```
+
+from 05.
+
+---
+
+## Step 2 — Identify Materially Relevant Consequences
+
+Ask:
+
+> **What consequences of the Structural Disposition materially affect the current reasoning state?**
+
+Exclude consequences that are clearly peripheral to the current objective and dependency scope.
+
+---
+
+## Step 3 — Integrate Relevant Consequences
+
+For each materially relevant consequence:
+
+> **Has its structural effect been sufficiently incorporated into the current reasoning state?**
+
+If not:
+
+```text
+Continue Integration
+```
+
+---
+
+## Step 4 — Re-evaluate Relevant Dependencies
+
+Ask:
+
+> **Do the affected dependencies remain structurally adequate after the Structural Disposition?**
+
+This may include:
+
+- direct dependencies
+- materially relevant indirect dependencies
+- current findings
+- current objective relations
+
+---
+
+## Step 5 — Inspect Material Residuals
+
+Ask:
+
+> **Does unresolved material instability remain?**
+
+If yes:
+
+```text
+NOT YET RESTABILIZED
+```
+
+If no:
+
+```text
+RESTABILIZED
+```
+
+---
+
+## Step 6 — Recover Operational Readiness
+
+If Restabilized:
+
+```text
+RESTABILIZED
+        ↓
+Operational Readiness
+```
+
+The next operation is selected elsewhere.
+
+---
+
+## Step 7 — Route Negative Outcome Contextually
+
+If:
+
+```text
+NOT YET RESTABILIZED
+```
+
+identify the material residual.
+
+Then determine whether the residual requires:
+
+- further consequence integration
+- renewed Structural Disposition
+- renewed Target / Depth Selection
+- renewed Trigger / Re-entry judgment
+
+No universal routing rule is imposed at this stage.
+
+---
+
+# Minimal Decision Logic
+
+```text
+INPUT:
+Structurally Updated State
+
+        ↓
+
+Q1
+Are materially relevant
+consequences identifiable?
+
+        ↓
+
+Q2
+Have relevant consequences
+been sufficiently integrated?
+
+        ├── NO
+        │     ↓
+        │ Continue Integration
+        │
+        └── YES
+              ↓
+
+Q3
+Have materially affected
+dependencies been re-evaluated?
+
+        ├── NO
+        │     ↓
+        │ Continue Evaluation
+        │
+        └── YES
+              ↓
+
+Q4
+Does unresolved material
+instability remain?
+
+        ├── YES
+        │     ↓
+        │ NOT YET RESTABILIZED
+        │
+        └── NO
+              ↓
+          RESTABILIZED
+              ↓
+        Operational Readiness
+```
+
+---
+
+# Protocol Candidate Caution
+
+This decision logic should not be interpreted as:
+
+> **a complete deterministic algorithm**
+
+because several judgments remain context-sensitive:
+
+- material relevance
+- sufficient integration
+- relevant dependency scope
+- material instability
+
+The protocol candidate specifies:
+
+> **where judgment must occur**
+
+rather than pretending those judgments have already been universally formalized.
+
+---
+
+# Candidate Pseudocode
+
+A descriptive pseudocode representation is:
+
+```text
+function restabilize(updated_state):
+
+    relevant_consequences =
+        identify_materially_relevant_consequences(updated_state)
+
+    for consequence in relevant_consequences:
+
+        integrate(consequence)
+
+        reevaluate_relevant_dependencies(consequence)
+
+    residual =
+        detect_material_unresolved_instability()
+
+    if residual exists:
+
+        return NOT_YET_RESTABILIZED,
+               residual
+
+    else:
+
+        return RESTABILIZED,
+               OPERATIONAL_READINESS
+```
+
+This representation is explanatory.
+
+It is not intended as implementation-ready software specification.
+
+---
+
+# Recursive Routing Candidate
+
+The negative branch can be represented separately:
+
+```text
+NOT YET RESTABILIZED
+        ↓
+Material Residual
+        ↓
+Residual Type / Cause
+        │
+        ├── Integration Incomplete
+        │       ↓
+        │     Continue 06
+        │
+        ├── Structural Disposition
+        │   Inadequate
+        │       ↓
+        │     Revisit 05
+        │
+        ├── Target / Depth
+        │   Inadequate
+        │       ↓
+        │     Revisit 04
+        │
+        └── New Meaningful
+            Trigger Condition
+                ↓
+              Revisit 03
+```
+
+This remains:
+
+> **Context-Sensitive Routing Candidate**
+
+rather than a frozen state machine.
+
+---
+
+# Positive Exit Candidate
+
+The positive branch is simpler:
+
+```text
+RESTABILIZED
+        ↓
+Operational Readiness
+        ↓
+Current Recursive Episode
+May Close
+        ↓
+Valid Next Operation
+```
+
+The valid next operation may include:
+
+```text
+Continue
+Redirect
+Externalize
+Freeze
+Select Action
+Request Human Judgment
+Terminate Current Path
+```
+
+depending on context and downstream responsibility.
+
+---
+
+# Restabilization Exit Condition
+
+The Exit Condition for 06 is:
+
+> **No unresolved material instability remains within the relevant current reasoning context after materially relevant consequences of Structural Disposition have been sufficiently integrated.**
+
+At that point:
+
+```text
+06 Responsibility
+        ↓
+Complete for Current Episode
+```
+
+---
+
+# Negative Exit Is Not Completion
+
+A:
+
+```text
+NOT YET RESTABILIZED
+```
+
+judgment does not necessarily mean 06 has permanently completed.
+
+It may indicate:
+
+```text
+Further 06 Work Required
+```
+
+or:
+
+```text
+Recursive Routing Required
+```
+
+Thus the negative branch is an intermediate state.
+
+---
+
+# Positive Exit Is Episode Closure
+
+A:
+
+```text
+RESTABILIZED
+```
+
+judgment permits:
+
+> **closure of the current Restabilization responsibility for the present recursive episode.**
+
+This remains compatible with future re-entry.
+
+---
+
+# Protocol-Level State Representation
+
+A future implementation may use states such as:
+
+```text
+UPDATED_STATE
+
+RESTABILIZATION_IN_PROGRESS
+
+NOT_YET_RESTABILIZED
+
+RESTABILIZED
+```
+
+Potentially:
+
+```text
+MATERIAL_RESIDUAL_IDENTIFIED
+```
+
+could be recorded as explanatory metadata.
+
+However, Mission 002 does not require a final state-machine implementation.
+
+---
+
+# Minimal State Transition Candidate
+
+```text
+UPDATED_STATE
+        ↓
+RESTABILIZATION_IN_PROGRESS
+        │
+        ├── Material Residual
+        │       ↓
+        │ NOT_YET_RESTABILIZED
+        │       ↓
+        │ Recursive Routing /
+        │ Further Integration
+        │
+        └── No Material Residual
+                ↓
+          RESTABILIZED
+```
+
+---
+
+# Failure Protection Layer
+
+A future protocol implementation should protect against the following errors.
+
+```text
+1. Premature Restabilization
+
+2. Exhaustive-Completion Demand
+
+3. Return-to-Previous-State Bias
+
+4. Revision-Only Entry
+
+5. Consequence Recognition
+   without Integration
+
+6. Integration / Coherence
+   Conflation
+
+7. No-Contradiction Shortcut
+
+8. Continuation Bias
+
+9. Unique-Action Requirement
+
+10. Permanent-Stability Assumption
+
+11. AI-Only Stability
+
+12. Human-Approval Requirement
+
+13. Human-Input Exclusion
+
+14. Human–AI Coupling Absorption
+
+15. 05 Responsibility Absorption
+
+16. Fixed Recursive Routing
+    without Evidence
+
+17. Repository-Specific
+    Overfitting
+
+18. False Numerical Precision
+```
+
+These protections are part of the operational interpretation of the mechanism.
+
+---
+
+# Restabilization Checklist Candidate
+
+A lightweight operational checklist may be:
+
+```text
+[ ] Structural Disposition completed
+
+[ ] Updated / reaffirmed state identified
+
+[ ] Materially relevant consequences identified
+
+[ ] Relevant consequences sufficiently integrated
+
+[ ] Materially affected dependencies re-evaluated
+
+[ ] Material unresolved instability inspected
+
+[ ] Non-material open questions separated
+
+[ ] Restabilization status assigned
+
+[ ] Material residual recorded if present
+
+[ ] Responsibility boundaries preserved
+
+[ ] No unnecessary Human approval requirement added
+
+[ ] No downstream Coupling responsibility absorbed
+```
+
+This checklist is a practical derivative.
+
+It is not itself the Core Mechanism.
+
+---
+
+# Compact Restabilization Test
+
+For high-speed operation, the mechanism may be compressed to four questions:
+
+```text
+1.
+What materially changed
+or was reaffirmed?
+
+2.
+What materially relevant
+consequences follow?
+
+3.
+Have those consequences
+been sufficiently integrated?
+
+4.
+Does any material unresolved
+instability remain?
+```
+
+If:
+
+```text
+NO
+```
+
+to Question 4 after adequate examination:
+
+> **Restabilized**
+
+If:
+
+```text
+YES
+```
+
+> **Not Yet Restabilized**
+
+---
+
+# Accelerated Mode Compatibility
+
+The compact test is compatible with:
+
+> **Bounded Operational Examination — Accelerated Mode**
+
+because it prevents unnecessary branch generation.
+
+The process does not ask:
+
+> What else could Restabilization theoretically mean?
+
+Instead it asks:
+
+> What minimum conditions survive the relevant counter-tests?
+
+This is consistent with the development pattern used during 03–06.
+
+---
+
+# Evidence of Accelerated Examination
+
+Across the current sequence:
+
+```text
+03
+Trigger / Re-entry
+
+04
+Target / Depth
+
+05
+Preservation / Revision
+
+06
+Restabilization
+```
+
+the examination repeatedly followed:
+
+```text
+Bounded Question
+        ↓
+Candidate Formation
+        ↓
+Focused Counter-Test
+        ↓
+Compression
+        ↓
+Boundary Fit
+        ↓
+Externalization
+```
+
+06 again converged without requiring unrestricted conceptual expansion.
+
+This recurrence remains observational evidence.
+
+It is not promoted to a separate methodological claim inside this document.
+
+---
+
+# Why No Additional Branch Is Created
+
+The recurring examination pattern may be important.
+
+However, creating a new methodological branch here would interrupt Mission 002 before its final major responsibility:
+
+> **07 — Human–AI Coupling**
+
+Therefore:
+
+> **Meta-Observation remains on Hold.**
+
+The current priority is completion of Mission 002.
+
+---
+
+# 06 Responsibility Fit — Final Check
+
+Before Freeze, the adjacent responsibilities are checked again.
+
+---
+
+## 05 — Preservation and Revision
+
+Primary Question:
+
+> **What should be preserved and what should be revised?**
+
+Output:
+
+> **Structurally Updated State**
+
+---
+
+## 06 — Restabilization
+
+Primary Question:
+
+> **Have the materially relevant consequences of that Structural Disposition been sufficiently integrated such that no unresolved material instability remains?**
+
+Output:
+
+> **Restabilized State / Not Yet Restabilized**
+
+---
+
+## 07 — Human–AI Coupling
+
+Candidate Primary Question:
+
+> **How do Human and AI observations, judgments, interventions, non-interventions, and responsibilities interact across the recursive reasoning process?**
+
+The exact 07 responsibility remains to be examined.
+
+---
+
+# Final Responsibility Fit
+
+```text
+05
+WHAT CHANGES?
+        ↓
+Updated State
+
+06
+IS THE UPDATED
+REASONING STATE
+SUFFICIENTLY STABLE?
+        ↓
+Restabilized State
+
+07
+HOW DO HUMAN AND AI
+PARTICIPATE IN THE
+RECURSIVE PROCESS?
+```
+
+No Primary Responsibility collision is currently identified.
+
+---
+
+# Placement Fit
+
+The current placement remains:
+
+```text
+20-mission-002-protocol-candidate/
+│
+├── 03-recursive-trigger-and-reentry.md
+├── 04-recursive-target-and-depth.md
+├── 05-preservation-and-revision.md
+├── 06-restabilization.md
+└── 07-human-ai-coupling.md
+```
+
+06 fits this sequence because its responsibility is neither:
+
+- upstream recursive examination selection
+- Structural Disposition
+- Human–AI Coupling
+
+It occupies the responsibility between:
+
+```text
+Structural Update
+```
+
+and:
+
+```text
+subsequent coupled / operational reasoning
+```
+
+---
+
+# Placement Judgment
+
+The current Placement Judgment is:
+
+> **06-restabilization.md fits within Mission 002 as the operational responsibility responsible for restoring sufficient reasoning-state stability after Structural Disposition and before subsequent operation proceeds.**
+
+No alternative placement currently provides a stronger responsibility fit.
+
+---
+
+# Responsibility-Preserving Distribution
+
+The mechanism is therefore distributed as:
+
+```text
+03
+Trigger Recognition
++
+Re-entry Judgment
+
+04
+Target Selection
++
+Depth Selection
+
+05
+Preservation
++
+Revision
+
+06
+Relevant Consequence Integration
++
+Material Coherence
++
+Restabilization Judgment
+
+07
+Human–AI Coupling
+```
+
+This preserves:
+
+> **Responsibility-Preserving Distribution**
+
+across the Mission 002 asset sequence.
+
+---
+
+# Externalization Readiness Reconfirmation
+
+The full 06 examination now contains:
+
+- Purpose
+- Position
+- Core Distinction
+- Initial Candidate
+- Counter-tests
+- Condition Compression
+- Relevant Consequence Integration
+- Material Coherence
+- Operational Readiness analysis
+- Recursive routing boundaries
+- Human–AI boundary examination
+- detailed operational examination
+- Operational Requirements
+- invariants
+- minimum Protocol Candidate
+- failure protections
+- responsibility fit
+- Placement Fit
+- Freeze assessment
+
+No major unresolved internal question currently prevents Externalization.
+
+---
+
+# Residual Questions
+
+Several questions remain intentionally unresolved.
+
+These include:
+
+```text
+How should Human and AI
+responsibilities be distributed?
+
+When should Human intervention occur?
+
+When should AI continue autonomously?
+
+What does Human silence mean
+within coupled reasoning?
+
+Should Coupling be sequential,
+cross-cutting, or both?
+
+How should authority transfer occur?
+
+How should recursive routing
+interact with Human intervention?
+```
+
+These are not defects in 06.
+
+They are evidence that:
+
+> **07 has a distinct unresolved responsibility.**
+
+---
+
+# Residual Classification
+
+The residuals can therefore be classified as:
+
+```text
+Internal 06 Residual
+        ↓
+None currently material
+
+
+Boundary Residual
+        ↓
+Human–AI Coupling
+        ↓
+Belongs to 07 examination
+```
+
+This distinction supports 06 closure.
+
+---
+
+# Stop Condition Reconfirmation
+
+Further 06 exploration would now likely produce one of three outcomes:
+
+```text
+A.
+Repeat already established
+Restabilization distinctions
+
+B.
+Expand into implementation detail
+without new evidence
+
+C.
+Absorb 07 Human–AI
+Coupling responsibility
+```
+
+None currently justifies continued exploration.
+
+Therefore:
+
+> **06 exploration should stop.**
+
+---
+
+# Freeze Criteria
+
+The following Freeze Criteria are satisfied:
+
+```text
+[✓] Primary operational question identified
+
+[✓] Upstream input identified
+
+[✓] Core mechanism identified
+
+[✓] Major alternative interpretations counter-tested
+
+[✓] Conditions compressed
+
+[✓] Output identified
+
+[✓] Negative output identified
+
+[✓] Recursive routing boundary preserved
+
+[✓] Human–AI input compatibility examined
+
+[✓] Upstream responsibility fit confirmed
+
+[✓] Downstream responsibility fit confirmed
+
+[✓] Placement fit confirmed
+
+[✓] Major internal residual absent
+
+[✓] Further exploration yield currently low
+```
+
+---
+
+# Freeze Judgment
+
+The resulting judgment is:
+
+> **06 — Restabilization**
+>
+> **Current Baseline**
+>
+> **Freeze**
+
+This Freeze is evidence-relative.
+
+It does not prohibit future Revision if materially relevant evidence emerges.
+
+---
+
+# Freeze Semantics
+
+Freeze means:
+
+```text
+Do not continue
+unbounded exploration
+        ↓
+Preserve current
+responsibility structure
+        ↓
+Use 06 as current
+Mission 002 baseline
+        ↓
+Reopen only upon
+Meaningful Recursive Trigger
+```
+
+Freeze does not mean:
+
+```text
+Universal Truth
+
+Permanent Finality
+
+Complete Validation
+
+No Future Revision
+
+No Independent Review
+```
+
+---
+
+# Re-entry Condition for 06
+
+Future re-entry into 06 would be justified if new evidence materially challenges:
+
+- the two-condition Core Mechanism
+- the distinction between Integration and Coherence
+- the treatment of Operational Readiness
+- the Material Relevance boundary
+- recursive routing assumptions
+- source-neutrality
+- the 05–06 boundary
+- the 06–07 boundary
+- the current Placement Fit
+
+Such evidence would constitute a candidate:
+
+> **Meaningful Recursive Trigger**
+
+under the mechanism developed in 03.
+
+---
+
+# Self-Applicability
+
+This produces an important but bounded observation.
+
+The 06 asset itself is governed by the broader Recursive Reasoning structure it helps describe.
+
+After Freeze:
+
+```text
+06 Current Baseline
+        ↓
+Future Observation
+        ↓
+Meaningful Trigger?
+        │
+        ├── No
+        │     ↓
+        │ Preserve 06
+        │
+        └── Yes
+              ↓
+        Recursive Re-entry
+              ↓
+        Target / Depth
+              ↓
+        Preserve / Revise
+              ↓
+        Restabilize
+```
+
+This is consistent with Mission 002.
+
+No additional meta-theoretical claim is required.
+
+---
+
+# Current Mission Navigation
+
+```text
+Mission 002
+Protocol Candidate Formation
+
+00 — Entry Definition
+        ✓
+
+01 — Operationalization Analysis
+        ✓
+
+02 — Operational Requirements
+        ✓ FREEZE
+
+03 — Recursive Trigger and Re-entry
+        ✓ FREEZE
+
+04 — Recursive Target and Depth
+        ✓ FREEZE
+
+05 — Preservation and Revision
+        ✓ FREEZE
+
+06 — Restabilization
+        ✓ FREEZE
+
+07 — Human–AI Coupling
+        ← NEXT
+
+Mission 002 Closure
+        ○ PENDING
+```
+
+---
+
+# Mission Progress
+
+The operational sequence currently externalized is:
+
+```text
+Meaningful Observation
+        ↓
+03
+Trigger Recognition
+        ↓
+Re-entry Judgment
+        ↓
+04
+Target Selection
+        ↓
+Depth Selection
+        ↓
+Recursive Examination
+        ↓
+05
+Preservation / Revision
+        ↓
+Structurally Updated State
+        ↓
+06
+Relevant Consequence Integration
+        ↓
+Material Coherence
+        ↓
+Restabilization
+        ↓
+Operational Readiness
+```
+
+The principal unresolved responsibility is now:
+
+```text
+Human–AI Coupling
+```
+
+---
+
+# Transition to 07
+
+The transition should not begin by assuming a predefined Coupling architecture.
+
+Instead, 07 should begin with a bounded operational question.
+
+A strong entry question is:
+
+> **Within the recursive reasoning process already externalized in 03–06, what Human–AI interactions are operationally necessary, and where does responsibility actually shift, remain shared, or remain independent?**
+
+This question preserves:
+
+> **Observe before Design**
+
+and avoids prematurely imposing:
+
+- Human-in-the-loop
+- AI-autonomous
+- supervisory
+- approval-based
+- delegation-based
+
+models.
+
+---
+
+# 07 Examination Caution
+
+The next examination should distinguish at least:
+
+```text
+Human Observation
+        ≠
+Human Approval
+
+Human Intervention
+        ≠
+Human Ownership
+
+AI Reasoning
+        ≠
+AI Authority
+
+Human Silence
+        ≠
+Consent
+
+Shared Input
+        ≠
+Shared Responsibility
+
+Coupled Reasoning
+        ≠
+Responsibility Collapse
+```
+
+These are candidate distinctions only.
+
+They should not be treated as prevalidated 07 findings.
+
+---
+
+# 07 Accelerated Mode Candidate
+
+The same Accelerated Mode may be used.
+
+A bounded sequence would be:
+
+```text
+Existing 03–06 Evidence
+        ↓
+Human–AI Interaction
+Candidates
+        ↓
+Responsibility Counter-Test
+        ↓
+Intervention / Non-intervention
+Counter-Test
+        ↓
+Coupling Boundary
+        ↓
+Responsibility Fit
+        ↓
+Externalization Readiness
+```
+
+This is a working examination plan.
+
+It is not yet 07 content.
+
+---
+
+# Navigation after 06
+
+The human-facing navigation is now:
+
+> **現在地：06完了 / 次：07 Human–AI Coupling / その後：Mission 002 Closure**
+
+Only one substantive Mission 002 mechanism remains before Closure examination.
+
+---
+
+# Final Operational Definition
+
+The current operational definition is:
+
+> **Restabilization is the process by which the materially relevant consequences of a Structural Disposition are sufficiently integrated into the current reasoning state, affected dependencies are re-evaluated, and the current recursive episode is judged sufficiently stable when no unresolved material instability remains that blocks a structurally valid next operation.**
+
+---
+
+# Final Compact Definition
+
+```text
+Restabilization
+=
+Relevant Consequence Integration
++
+Material Coherence
+→
+Operational Readiness
+```
+
+with:
+
+```text
+Operational Readiness
+=
+Output Property
+```
+
+rather than:
+
+```text
+Independent Third Condition
+```
+
+---
+
+# Final Negative Definition
+
+Restabilization is not:
+
+```text
+Complete Resolution
+
+Return to Previous State
+
+Revision Recovery Only
+
+Absence of Detected Contradiction
+
+Certainty
+
+Human Approval
+
+Action Selection
+
+Repository Freeze
+
+Permanent Closure
+```
+
+---
+
+# Final Positive Definition
+
+Restabilization is:
+
+```text
+Sufficient Integration
+of Material Consequences
+
++
+
+Absence of Material
+Unresolved Instability
+
++
+
+Recovery of a Reasoning State
+capable of valid next operation
+```
+
+---
+
+# Canonical Operational Flow
+
+```text
+05
+PRESERVATION / REVISION
+        │
+        ▼
+STRUCTURALLY UPDATED STATE
+        │
+        ▼
+────────────────────────────────
+06 — RESTABILIZATION
+────────────────────────────────
+        │
+        ▼
+IDENTIFY MATERIALLY
+RELEVANT CONSEQUENCES
+        │
+        ▼
+SUFFICIENTLY INTEGRATE
+RELEVANT CONSEQUENCES
+        │
+        ▼
+RE-EVALUATE MATERIALLY
+AFFECTED DEPENDENCIES
+        │
+        ▼
+DOES MATERIAL UNRESOLVED
+INSTABILITY REMAIN?
+        │
+        ├──────── YES
+        │           │
+        │           ▼
+        │     NOT YET
+        │     RESTABILIZED
+        │           │
+        │           ▼
+        │     MATERIAL RESIDUAL
+        │           │
+        │           ▼
+        │     CONTEXT-SENSITIVE
+        │     RECURSIVE ROUTING
+        │
+        └──────── NO
+                    │
+                    ▼
+              RESTABILIZED
+                    │
+                    ▼
+              OPERATIONAL
+              READINESS
+                    │
+                    ▼
+────────────────────────────────
+07 — HUMAN–AI COUPLING
+────────────────────────────────
+```
+
+---
+
+# Canonical Responsibility Boundary
+
+```text
+03
+WHEN SHOULD
+RECURSION BEGIN?
+
+        ↓
+
+04
+WHERE SHOULD
+RECURSION GO,
+AND HOW DEEP?
+
+        ↓
+
+05
+WHAT SHOULD
+BE PRESERVED
+OR REVISED?
+
+        ↓
+
+06
+HAS THE RESULTING
+REASONING STATE
+RESTABILIZED?
+
+        ↓
+
+07
+HOW DO HUMAN
+AND AI PARTICIPATE
+IN THIS PROCESS?
+```
+
+---
+
+# Current Mission 002 Candidate Architecture
+
+```text
+Observation
+        ↓
+Meaningful Recursive Trigger
+        ↓
+Recursive Re-entry
+        ↓
+Recursive Target
+        ↓
+Recursive Depth
+        ↓
+Recursive Examination
+        ↓
+Preservation / Revision
+        ↓
+Structurally Updated State
+        ↓
+Relevant Consequence Integration
+        ↓
+Material Coherence
+        ↓
+Restabilized State
+        ↓
+Operational Readiness
+        ↓
+Human–AI Coupling
+        ↓
+Mission 002 Closure Assessment
+```
+
+This remains:
+
+> **Protocol Candidate Architecture**
+
+rather than:
+
+> final validated protocol.
+
+---
+
+# Status Summary
+
+**Document:** `06-restabilization.md`
+
+**Mission:** Mission 002 — Protocol Candidate Formation
+
+**Primary Responsibility:** Restabilization after Structural Disposition
+
+**Input:** Structurally Updated / Reaffirmed State
+
+**Core Operation:** Relevant Consequence Integration + Material Coherence Evaluation
+
+**Positive Output:** Restabilized State
+
+**Negative Output:** Not Yet Restabilized
+
+**Derived Property:** Operational Readiness
+
+**Upstream Boundary:** 05 — Preservation and Revision
+
+**Downstream Boundary:** 07 — Human–AI Coupling
+
+**Recursive Routing:** Context-Sensitive
+
+**Human–AI Input:** Source-Neutral by Material Relevance
+
+**Human Approval:** Not a Universal Condition
+
+**Completeness:** Not Required
+
+**Future Revisability:** Preserved
+
+**Responsibility Fit:** Confirmed
+
+**Placement Fit:** Confirmed
+
+**Major Internal Residual:** None currently identified
+
+**Externalization:** Complete
+
+**Baseline:** Current Baseline
+
+**Freeze:** Yes
+
+---
+
+# Final Freeze Statement
+
+> **06 — Restabilization is hereby treated as the Current Baseline for Mission 002.**
+>
+> The mechanism is sufficiently developed, counter-tested, compressed, and responsibility-bounded for current use.
+>
+> Further unrestricted exploration is not justified without materially relevant new evidence.
+>
+> Future evidence may reopen this asset through the Recursive Trigger and Re-entry mechanism already externalized in 03.
+>
+> The next unresolved Mission 002 responsibility is **07 — Human–AI Coupling**.
+
+---
+
+# End of 06 — Restabilization
+
+**Part 3/3**
+
+**Externalization Complete**
+
+**Current Baseline**
+
+**Freeze**
+
+**Next: 07 — Human–AI Coupling**
+
+
+
+
