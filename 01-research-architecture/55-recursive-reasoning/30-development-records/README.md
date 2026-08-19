@@ -426,3 +426,306 @@ This boundary is essential.
 Without it, Development Records could gradually become secondary research workspaces rather than historical research assets.
 
 ---
+
+
+# Relationship to Validation
+
+Development Records may preserve when and how Validation occurred within a Mission.
+
+They do not themselves create Validation status.
+
+For example:
+
+```text
+Development Record
+        ↓
+Preserves that a
+Validation transition occurred
+```
+
+while:
+
+```text
+Validation Asset
+        ↓
+Defines the current
+Validation status
+```
+
+Therefore:
+
+```text
+Recording Validation
+        ≠
+Performing Validation
+```
+
+This distinction should remain explicit.
+
+---
+
+# Relationship to Emerging Observations
+
+Development Records may contain observations that became visible during a Mission.
+
+However, not every observation should be promoted into a stronger research claim.
+
+An observation may remain:
+
+```text
+Developmental Observation
+```
+
+until later evidence justifies another responsibility.
+
+Potential future destinations may include:
+
+```text
+Emerging Observation
+
+Comparative Observation
+
+Methodological Candidate
+
+Protocol Candidate
+
+Independent Research Mission
+```
+
+The Development Record itself does not perform this promotion.
+
+---
+
+# Relationship to Methodology
+
+Repeated developmental structures may eventually suggest methodological candidates.
+
+For example, multiple Missions may independently exhibit similar patterns involving:
+
+```text
+Candidate Formation
+
+Counter-testing
+
+Responsibility Fit
+
+Restabilization
+
+Alignment
+
+Integration
+```
+
+Such recurrence may become scientifically interesting.
+
+However:
+
+```text
+Repeated Developmental Observation
+        ≠
+Established Methodology
+```
+
+Methodological interpretation requires separate evidence and responsibility.
+
+Development Records preserve the material from which such future examination may become possible.
+
+They do not perform that examination themselves.
+
+---
+
+# Non-transfer Principle
+
+A developmental process observed in one Mission should not automatically become an operational requirement for another Mission.
+
+For example:
+
+```text
+Accelerated Mode
+observed in Mission 002
+        ≠
+Accelerated Mode required
+for Mission 003
+```
+
+Similarly:
+
+```text
+Alignment Interval
+useful in one Mission
+        ≠
+Fixed Alignment Interval
+for all Missions
+```
+
+and:
+
+```text
+Large Development Asset
+observed
+        ≠
+Large Development Asset
+preferred
+```
+
+Development Records preserve historical evidence.
+
+They do not automatically convert historical recurrence into normative procedure.
+
+---
+
+# Future Development Records
+
+Additional Development Records may be created when future Missions produce developmental trajectories worth preserving.
+
+The expected naming pattern is:
+
+```text
+00-mission-001-development-record.md
+
+01-mission-002-development-record.md
+
+02-mission-003-development-record.md
+
+...
+```
+
+A future Mission does not require a Development Record merely because the numbering convention permits one.
+
+A Development Record should be created when preserving the developmental trajectory provides research value beyond the Mission's stabilized outputs.
+
+---
+
+# Freeze Principle
+
+Once a Development Record accurately preserves the completed Mission trajectory, it should normally be Frozen.
+
+Later research should not continuously rewrite the historical record merely because:
+
+- new Missions begin;
+- later Validation changes confidence;
+- the Protocol evolves;
+- new applications emerge;
+- terminology develops;
+- or the broader Research Architecture changes.
+
+A Frozen Development Record may be revised only when the historical representation of the recorded Mission is materially inaccurate or incomplete.
+
+---
+
+# Navigation Principle
+
+Readers should use this directory when they need to understand:
+
+> **How did this research develop?**
+
+Readers seeking the current research result should instead navigate to the relevant Mission assets.
+
+A simplified navigation rule is:
+
+```text
+Need the Result?
+        ↓
+Mission Asset
+
+Need the Developmental History?
+        ↓
+Development Record
+
+Need an Unresolved Observation?
+        ↓
+Emerging Observations
+```
+
+---
+
+# Current Repository State
+
+```text
+30-development-records/
+│
+├── 00-mission-001-development-record.md
+│      ↓
+│   Mission 001
+│   Developmental Trajectory
+│   FROZEN
+│
+├── 01-mission-002-development-record.md
+│      ↓
+│   Mission 002
+│   Developmental Trajectory
+│   FROZEN
+│
+└── README.md
+       ↓
+    Development Record
+    Responsibility
+    and Navigation
+```
+
+Current developmental coverage:
+
+```text
+Mission 001
+        ↓
+Development Record
+        ✓
+
+Mission 002
+        ↓
+Development Record
+        ✓
+
+Future Mission
+        ↓
+Not Yet Determined
+```
+
+---
+
+# Current Status
+
+**Development Record Layer:** Active
+
+**Mission 001 Development Record:** Frozen
+
+**Mission 002 Development Record:** Frozen
+
+**Mission 003:** Not Yet Determined
+
+**Future Development Records:** Open as Required
+
+---
+
+# Final Principle
+
+The Development Record layer exists because a research result and the development that produced it are not the same research object.
+
+The repository therefore preserves both:
+
+```text
+What the Research Established
+        +
+How the Research Developed
+```
+
+without requiring either representation to absorb the responsibility of the other.
+
+This separation preserves:
+
+```text
+Research Result
+        +
+Developmental Evidence
+        +
+Repository Navigability
+```
+
+while protecting the boundary between historical preservation and future research formation.
+
+---
+
+# End of Development Records README
+
+
+
