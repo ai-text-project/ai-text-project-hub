@@ -56,7 +56,7 @@ Dialogue-Phase Reasoningをはじめとする研究テーマ、
 特定の成果物を見ることよりも、
 対話を通じて新しい研究上・実践上の接点を探索するための入口です。
 
-**→ [対話・協働向け入口](./03-collaboration-entry.md)**
+**→ [対話・協働向け入口](./03-dialogue-entry.md)**
 
 ---
 
