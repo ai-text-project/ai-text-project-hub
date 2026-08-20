@@ -889,3 +889,858 @@ This document does not resolve the tension operationally.
 It defines the boundary that those later assets must respect.
 
 ---
+
+
+# Major Failure Modes
+
+The current Boundary Structure covers the principal Failure Modes identified during Mission 003 Entry and Examination Boundary formation.
+
+## Formation Leakage
+
+```text
+Failure Mode:
+Formation-derived reasoning
+conditions independent judgment
+
+Protected By:
+Judgment Independence
+```
+
+---
+
+## Leading Framing
+
+```text
+Failure Mode:
+Examination framing suggests
+the expected outcome
+
+Protected By:
+Judgment Independence
+```
+
+---
+
+## Insufficient Object Exposure
+
+```text
+Failure Mode:
+Independent instance cannot
+meaningfully examine the
+actual Protocol Candidate
+
+Protected By:
+Object Validity
+```
+
+---
+
+## Object Substitution
+
+```text
+Failure Mode:
+Secondary representation
+silently replaces the
+intended research object
+
+Protected By:
+Object Validity
+```
+
+---
+
+## Protocol Redevelopment During Examination
+
+```text
+Failure Mode:
+Examination becomes
+Protocol formation or redesign
+
+Protected By:
+Responsibility Integrity
+```
+
+---
+
+## Human Steering
+
+```text
+Failure Mode:
+Human intervention materially
+redirects independent judgment
+
+Protected By:
+Judgment Independence
+and, where applicable,
+Responsibility Integrity
+```
+
+---
+
+## Evidence–Interpretation Mixing
+
+```text
+Failure Mode:
+Independent output and
+later interpretation become
+indistinguishable
+
+Protected By:
+Responsibility Integrity
+```
+
+---
+
+# Coverage Principle
+
+The existence of additional specific Failure Modes does not automatically justify adding new top-level Boundary Conditions.
+
+A new Boundary Condition should be considered only when a material failure cannot reasonably be explained through:
+
+```text
+Object Validity
+```
+
+or:
+
+```text
+Judgment Independence
+```
+
+or:
+
+```text
+Responsibility Integrity
+```
+
+At the current stage, no material fourth Boundary Condition has been identified.
+
+Therefore the three-condition structure is retained as the Current Baseline.
+
+---
+
+# Instance Identity Boundary
+
+This document does not define what technical or operational properties make a reasoning instance sufficiently independent.
+
+Questions such as:
+
+```text
+Must it be a fresh instance?
+
+Must it be a separate conversation?
+
+Must it use another model?
+
+May it share prior context?
+
+How much prior knowledge is permissible?
+
+What interaction history is acceptable?
+```
+
+are not resolved here.
+
+These are operational questions belonging primarily to:
+
+`02-independent-instance-protocol.md`
+
+This document provides the property that those decisions must protect:
+
+> **Judgment Independence**
+
+Therefore:
+
+```text
+Instance Identity
+        ≠
+Judgment Independence itself
+```
+
+Instance configuration is a possible mechanism for protecting Judgment Independence.
+
+It is not the boundary definition.
+
+---
+
+# Material Selection Boundary
+
+This document does not specify the exact files, excerpts, summaries, or contextual information presented during examination.
+
+Those decisions belong to:
+
+`03-examination-materials.md`
+
+However, material selection must satisfy two constraints inherited from this document:
+
+```text
+Object Validity
+        ↓
+Enough material to examine
+the actual Protocol Candidate
+```
+
+and:
+
+```text
+Judgment Independence
+        ↓
+Avoid unnecessary transfer
+of formation-derived influence
+```
+
+Therefore `03-examination-materials.md` must operate within the tension established here.
+
+---
+
+# Procedure Boundary
+
+This document does not define:
+
+- exact examination prompts;
+- examination sequence;
+- number of examination passes;
+- response format;
+- Human intervention procedure;
+- evidence capture procedure;
+- or post-examination workflow.
+
+Those responsibilities belong to:
+
+`04-examination-procedure.md`
+
+However, the procedure must preserve:
+
+```text
+Judgment Independence
+        +
+Responsibility Integrity
+```
+
+and must not undermine Object Validity established through the examination materials.
+
+---
+
+# Relationship to 02 — Independent Instance Protocol
+
+The relationship between this asset and `02-independent-instance-protocol.md` is:
+
+```text
+01 Examination Boundary
+        ↓
+Defines required properties
+
+02 Independent Instance Protocol
+        ↓
+Operationalizes the
+independent examination source
+within those properties
+```
+
+In particular:
+
+```text
+01
+Judgment Independence
+        ↓
+Required Property
+```
+
+must not become:
+
+```text
+01
+Use specific instance X
+with configuration Y
+```
+
+The latter belongs downstream.
+
+This responsibility separation prevents the Boundary Asset from prematurely becoming an implementation specification.
+
+---
+
+# Relationship to 03 — Examination Materials
+
+The relationship is:
+
+```text
+01
+Object Validity
++
+Judgment Independence
+        ↓
+Constraints
+```
+
+followed by:
+
+```text
+03
+Examination Materials
+        ↓
+Material Exposure Design
+```
+
+Thus 03 must determine what to expose while respecting both sides of the Information Exposure Tension.
+
+---
+
+# Relationship to 04 — Examination Procedure
+
+The relationship is:
+
+```text
+01
+Judgment Independence
++
+Responsibility Integrity
+        ↓
+Constraints
+```
+
+followed by:
+
+```text
+04
+Examination Procedure
+        ↓
+Operational Examination Flow
+```
+
+The procedure should not redefine the boundaries established here.
+
+It should instantiate them.
+
+---
+
+# Relationship to 05 — Examination Results
+
+The Examination Boundary should be established before examination results exist.
+
+This protects against retrospective boundary design.
+
+The intended sequence is:
+
+```text
+Boundary Formation
+        ↓
+Instance Protocol
+        ↓
+Materials
+        ↓
+Procedure
+        ↓
+Examination
+        ↓
+Results
+```
+
+rather than:
+
+```text
+Results
+        ↓
+Boundary adjusted
+to justify results
+```
+
+If an unforeseen examination condition later reveals a genuine boundary defect, that defect should be recorded explicitly rather than silently rewriting the pre-examination boundary.
+
+---
+
+# Relationship to Validation
+
+This document does not determine Validation status.
+
+It defines conditions relevant to whether later evidence can reasonably be interpreted as independent examination evidence.
+
+Therefore:
+
+```text
+Boundary Satisfaction
+        ≠
+Independent Validation
+```
+
+and:
+
+```text
+Independent Examination
+        ≠
+Automatic Validation
+```
+
+Validation status remains the responsibility of:
+
+`07-validation-status.md`
+
+after examination evidence and comparative assessment exist.
+
+---
+
+# Boundary Satisfaction Is Not Binary Proof
+
+The three Boundary Conditions should not automatically be interpreted as mechanically binary variables.
+
+For example:
+
+```text
+Judgment Independence
+```
+
+may depend on degree of formation exposure and interaction structure.
+
+Similarly:
+
+```text
+Object Validity
+```
+
+may depend on whether the representation presented is sufficiently faithful for the particular examination question.
+
+Therefore this document establishes:
+
+> **Boundary Conditions**
+
+rather than:
+
+> **A complete scoring algorithm**
+
+Operational assessment criteria may emerge later if supported by the examination design and evidence.
+
+They should not be invented prematurely here.
+
+---
+
+# No Absolute Independence Claim
+
+Mission 003 does not require metaphysically or technically absolute independence.
+
+A reasoning instance may share:
+
+- model architecture;
+- training distributions;
+- general domain knowledge;
+- linguistic conventions;
+- or other background properties
+
+with the instance involved in earlier research.
+
+The relevant Mission 003 claim is narrower.
+
+The examination must establish a meaningful separation from the specific formation process whose result is being examined.
+
+Therefore:
+
+```text
+Independent
+```
+
+in Mission 003 means:
+
+> **sufficiently independent from the Protocol Candidate's Mission 002 formation process to provide a materially new examination relation.**
+
+The operational adequacy of that separation remains to be examined in the downstream assets.
+
+---
+
+# Boundary Preservation Principle
+
+Once the Examination Boundary has been established, downstream operational decisions should be evaluated against it.
+
+Conceptually:
+
+```text
+Operational Choice
+        ↓
+Does it preserve
+Object Validity?
+        ↓
+Does it preserve
+Judgment Independence?
+        ↓
+Does it preserve
+Responsibility Integrity?
+```
+
+If an operational choice materially violates one of these conditions, it should not be accepted merely because it is convenient.
+
+Conversely, the Boundary Asset should not prescribe unnecessary operational detail when multiple implementations could satisfy the same requirement.
+
+---
+
+# Minimal Boundary Test
+
+A proposed Independent Examination design should therefore be able to answer three questions.
+
+## Question 1
+
+> **Is the actual Protocol Candidate sufficiently and faithfully represented for meaningful examination?**
+
+If not:
+
+```text
+Object Validity
+        ↓
+NOT SATISFIED
+```
+
+---
+
+## Question 2
+
+> **Can the reasoning instance form a materially independent judgment without excessive conditioning from the Protocol Candidate's formation reasoning or expected outcome?**
+
+If not:
+
+```text
+Judgment Independence
+        ↓
+NOT SATISFIED
+```
+
+---
+
+## Question 3
+
+> **Does the evidence-producing process remain distinguishable from Protocol redevelopment and later interpretation?**
+
+If not:
+
+```text
+Responsibility Integrity
+        ↓
+NOT SATISFIED
+```
+
+These questions provide the minimal boundary interface for downstream design.
+
+---
+
+# Boundary Failure Response
+
+A detected boundary failure does not automatically imply that the entire Mission must be abandoned.
+
+Instead:
+
+```text
+Boundary Failure Detected
+        ↓
+Identify Failure Location
+        ↓
+Do Not Treat Affected Output
+as Stronger Evidence
+than Conditions Permit
+        ↓
+Correct Examination Design
+if Responsibility Allows
+```
+
+The purpose of the Boundary is therefore not merely to reject examinations.
+
+It is to preserve the interpretability of the evidence they generate.
+
+---
+
+# Examination Evidence Principle
+
+Independent Examination Evidence should only be described as independent to the degree that the examination conditions support that interpretation.
+
+Therefore:
+
+```text
+Different Instance
+        ≠
+Automatically Independent Evidence
+```
+
+and:
+
+```text
+Fresh Conversation
+        ≠
+Automatically Independent Evidence
+```
+
+and:
+
+```text
+No Development History
+        ≠
+Automatically Valid Examination
+```
+
+The evidence claim depends on the combined protection of:
+
+```text
+Object Validity
+        +
+Judgment Independence
+        +
+Responsibility Integrity
+```
+
+---
+
+# Responsibility Fit
+
+The Examination Boundary is intentionally positioned upstream of the operational examination assets.
+
+Its responsibility is:
+
+```text
+Define Constraints
+```
+
+not:
+
+```text
+Select Instance
+```
+
+not:
+
+```text
+Select Materials
+```
+
+not:
+
+```text
+Write Examination Prompt
+```
+
+not:
+
+```text
+Perform Examination
+```
+
+not:
+
+```text
+Interpret Results
+```
+
+not:
+
+```text
+Assign Validation Status
+```
+
+This placement preserves the Mission architecture:
+
+```text
+00
+Mission Definition
+        ↓
+Why Independent Examination exists
+
+01
+Examination Boundary
+        ↓
+What must remain protected
+
+02
+Independent Instance Protocol
+        ↓
+How an independent examination
+source is established
+
+03
+Examination Materials
+        ↓
+What is exposed
+
+04
+Examination Procedure
+        ↓
+How examination occurs
+
+==============================
+     EXAMINATION GATE
+==============================
+
+05
+Examination Results
+        ↓
+What was observed
+
+06
+Comparative Assessment
+        ↓
+How internal and independent
+evidence relate
+
+07
+Validation Status
+        ↓
+What can legitimately be claimed
+```
+
+---
+
+# Current Boundary State
+
+The current Examination Boundary is:
+
+```text
+VALID INDEPENDENT EXAMINATION
+                │
+     ┌──────────┼──────────┐
+     ▼          ▼          ▼
+   Object     Judgment   Responsibility
+   Validity   Independence  Integrity
+```
+
+with principal Failure Modes represented as:
+
+```text
+Object Validity
+        │
+        ├── Insufficient Object Exposure
+        └── Object Substitution
+```
+
+```text
+Judgment Independence
+        │
+        ├── Formation Leakage
+        ├── Judgment Steering
+        ├── Outcome Precommitment
+        └── Material Human Steering
+```
+
+```text
+Responsibility Integrity
+        │
+        ├── Protocol Redevelopment
+        ├── Evidence–Interpretation Mixing
+        └── Responsibility Mixing
+```
+
+These Failure Modes do not constitute additional top-level Boundary Conditions.
+
+They are manifestations of failure within the three-condition structure.
+
+---
+
+# Current Status
+
+At the completion of this asset:
+
+```text
+00 — Mission Definition
+        ✓ COMPLETE
+
+01 — Examination Boundary
+        ✓ EXTERNALIZED
+
+02 — Independent Instance Protocol
+        ← NEXT
+
+03 — Examination Materials
+        PENDING
+
+04 — Examination Procedure
+        PENDING
+
+==============================
+     EXAMINATION GATE
+==============================
+
+05 — Examination Results
+        PENDING
+
+06 — Comparative Assessment
+        PENDING
+
+07 — Validation Status
+        PENDING
+
+README
+        PENDING
+```
+
+The Examination Boundary is sufficiently formed to constrain downstream Mission 003 design.
+
+No Independent Instance has yet been selected or operationally defined.
+
+No examination materials have yet been finalized.
+
+No examination procedure has yet been executed.
+
+No independent examination evidence is claimed at this stage.
+
+---
+
+# Next Research Responsibility
+
+The next asset is:
+
+`02-independent-instance-protocol.md`
+
+Its primary question is:
+
+> **How can a reasoning instance be operationally positioned so that its examination provides a materially new judgment relation while respecting Object Validity, Judgment Independence, and Responsibility Integrity?**
+
+The next asset may examine questions involving:
+
+- instance separation;
+- prior-context exposure;
+- formation-history access;
+- Human–AI interaction;
+- independence claims;
+- and operational safeguards.
+
+However, it must not redefine the Examination Boundary established here without material evidence that the current Boundary is insufficient.
+
+---
+
+# Final Boundary Principle
+
+Mission 003 does not seek independence by maximizing isolation.
+
+Nor does it seek examination quality by maximizing information exposure.
+
+It seeks a more precise relation:
+
+```text
+Sufficient Access
+to the Actual Research Object
+        +
+Meaningfully Independent Judgment
+        +
+Traceable Examination Responsibility
+        ↓
+Valid Independent Examination
+```
+
+The Examination Boundary therefore protects the distinction between:
+
+```text
+Seeing too little
+to examine the object
+```
+
+and:
+
+```text
+Seeing so much of the
+formation process that the
+judgment is no longer
+meaningfully independent
+```
+
+while ensuring that the examination itself remains distinguishable from subsequent research development.
+
+This three-condition structure forms the Current Baseline for Mission 003 Independent Examination.
+
+---
+
+# End of Examination Boundary
+
+
+
+
