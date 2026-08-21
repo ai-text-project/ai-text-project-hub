@@ -1484,3 +1484,1056 @@ No material fourth operational safeguard has been identified at the current stag
 ---
 
 # End of Part 1/2
+
+# Protocol Boundary
+
+The Independent Instance Protocol defines the operational conditions required to establish an independent examination source.
+
+It does not define the concrete content presented to that source.
+
+This distinction is essential.
+
+The Protocol may state:
+
+```text
+Necessary Object Context
+must be preserved.
+```
+
+and:
+
+```text
+Formation-conditioning Context
+must be controlled.
+```
+
+However, it must not determine:
+
+```text
+Which exact Mission assets
+constitute Necessary Object Context
+```
+
+or:
+
+```text
+Which exact files,
+sections,
+excerpts,
+summaries,
+or representations
+should be included or excluded.
+```
+
+Those decisions belong to `03-examination-materials.md`.
+
+---
+
+# Context Control versus Material Selection
+
+The responsibility boundary between 02 and 03 is:
+
+```text
+02 — Context Control
+        ↓
+What informational influence
+must be controlled?
+```
+
+versus:
+
+```text
+03 — Material Selection
+        ↓
+What exact information
+should be exposed?
+```
+
+This can also be expressed as:
+
+```text
+02
+Exposure Principle
+        ↓
+constrains
+        ↓
+03
+Exposure Composition
+```
+
+The distinction prevents Context Control from expanding into premature material design.
+
+---
+
+# What 02 May Define
+
+This asset may define requirements such as:
+
+```text
+Necessary Object Context
+must remain available.
+```
+
+```text
+Formation-conditioning Context
+should be restricted where
+it materially weakens
+Formation-Process Separation.
+```
+
+```text
+The examination environment
+should not inherit the active
+Mission 002 reasoning state.
+```
+
+```text
+Formation reasoning should not
+be reintroduced through
+subsequent interaction without
+explicit evidential treatment.
+```
+
+These are operational independence requirements.
+
+---
+
+# What 02 Must Not Define
+
+This asset does not determine:
+
+```text
+Provide file X.
+```
+
+```text
+Withhold file Y.
+```
+
+```text
+Expose section Z.
+```
+
+```text
+Use this summary.
+```
+
+```text
+Provide these exact definitions.
+```
+
+```text
+Present the Protocol in
+this specific sequence.
+```
+
+Those decisions belong downstream.
+
+This boundary preserves the responsibility architecture of Mission 003.
+
+---
+
+# Relationship to 01 — Examination Boundary
+
+`01-examination-boundary.md` defines the properties that must remain protected.
+
+The relevant structure is:
+
+```text
+01
+Object Validity
+        ↓
+02
+Do not achieve independence
+through excessive information
+restriction.
+```
+
+and:
+
+```text
+01
+Judgment Independence
+        ↓
+02
+Establish Formation-Process
+Separation.
+```
+
+and:
+
+```text
+01
+Responsibility Integrity
+        ↓
+02
+Do not allow Independent
+Instance design to become
+Protocol redevelopment or
+evidence interpretation.
+```
+
+Therefore:
+
+```text
+01
+Defines protected properties
+        ↓
+02
+Operationalizes separation
+requirements
+```
+
+02 does not replace or redefine 01.
+
+---
+
+# Relationship to 03 — Examination Materials
+
+`03-examination-materials.md` receives the Context Control requirements established here.
+
+Its responsibility is to determine the concrete information composition presented to the independent examination source.
+
+Conceptually:
+
+```text
+02
+Context Control
+        ↓
+Preserve Necessary Object Context
+Restrict Formation-conditioning Context
+        ↓
+03
+Material Selection
+        ↓
+Concrete exposure composition
+```
+
+03 must therefore answer questions such as:
+
+```text
+Which canonical asset
+represents the Protocol Candidate?
+```
+
+```text
+What Mission context is necessary
+for meaningful examination?
+```
+
+```text
+Which developmental assets
+would introduce unnecessary
+formation influence?
+```
+
+```text
+Are summaries acceptable?
+```
+
+```text
+Are excerpts sufficient?
+```
+
+```text
+What representation fidelity
+must be preserved?
+```
+
+These questions are intentionally not resolved in 02.
+
+---
+
+# Relationship to 04 — Examination Procedure
+
+`04-examination-procedure.md` determines how the independent examination is actually conducted.
+
+This includes operational questions such as:
+
+```text
+How is the examination initiated?
+```
+
+```text
+What instructions are provided?
+```
+
+```text
+What sequence is followed?
+```
+
+```text
+Can Human intervention occur?
+```
+
+```text
+How are clarification requests handled?
+```
+
+```text
+How is the independent output preserved?
+```
+
+```text
+When does the evidence-producing
+examination end?
+```
+
+02 constrains these decisions but does not specify them.
+
+For example:
+
+```text
+02
+Human reintroduction of
+formation reasoning can weaken
+Context Control.
+```
+
+becomes:
+
+```text
+04
+Define the actual Human
+interaction procedure.
+```
+
+Therefore:
+
+```text
+02
+Operational Independence Requirements
+        ↓
+constrain
+        ↓
+04
+Examination Procedure
+```
+
+---
+
+# Relationship to 05 — Examination Results
+
+The Independent Instance Protocol must be established before examination results are known.
+
+The intended sequence is:
+
+```text
+Independent Instance Protocol
+        ↓
+Examination Materials
+        ↓
+Examination Procedure
+        ↓
+EXAMINATION
+        ↓
+Examination Results
+```
+
+This ordering prevents the independence criteria from being retrospectively adjusted to strengthen preferred results.
+
+If an unexpected examination condition later reveals a genuine defect in the Protocol, that defect should be preserved explicitly.
+
+The pre-examination conditions should not be silently rewritten after observing the result.
+
+---
+
+# Relationship to 06 — Comparative Assessment
+
+02 does not compare the independent judgment with Mission 002.
+
+Comparison occurs only after independent evidence has been preserved.
+
+Therefore:
+
+```text
+Independent Instance Protocol
+        ≠
+Comparative Assessment
+```
+
+The sequence must remain:
+
+```text
+Independent Conditions
+        ↓
+Independent Examination
+        ↓
+Independent Output
+        ↓
+Comparative Assessment
+```
+
+rather than:
+
+```text
+Expected Comparison
+        ↓
+Independent Conditions
+designed around expected result
+```
+
+---
+
+# Relationship to 07 — Validation Status
+
+This asset does not assign Validation status.
+
+Successful establishment of an Independent Instance Protocol means only that the examination environment has been designed to support a materially new judgment relation.
+
+It does not mean:
+
+```text
+Protocol Validated
+```
+
+or:
+
+```text
+Independent Validation Complete
+```
+
+or:
+
+```text
+Protocol Confirmed
+```
+
+Validation claims depend on the actual evidence generated and assessed downstream.
+
+Therefore:
+
+```text
+Operational Independence
+        ≠
+Validation
+```
+
+---
+
+# Independence Claim Boundary
+
+Mission 003 should describe independence only to the degree supported by the operational conditions.
+
+The following claims are too strong if based solely on technical separation:
+
+```text
+A new chat was used,
+therefore the examination
+was independent.
+```
+
+```text
+A different model was used,
+therefore the examination
+was independent.
+```
+
+```text
+No prior conversation was visible,
+therefore the examination
+was independent.
+```
+
+Each may describe a useful safeguard.
+
+None alone establishes the complete relation.
+
+A stronger claim requires the combined structure:
+
+```text
+Instance-State Separation
+        +
+Context Control
+        ↓
+Formation-Process Separation
+        ↓
+Judgment Independence
+```
+
+---
+
+# No Absolute Independence Claim
+
+The Independent Instance Protocol does not claim absolute independence.
+
+A reasoning instance may share with earlier instances:
+
+- model architecture;
+- training distributions;
+- general world knowledge;
+- linguistic conventions;
+- common reasoning capabilities;
+- or other background properties.
+
+Mission 003 does not attempt to eliminate all shared priors.
+
+Its target is narrower:
+
+> **meaningful separation from the specific Protocol formation process being examined.**
+
+Therefore the operational claim is:
+
+```text
+Formation-Process Separation
+```
+
+rather than:
+
+```text
+Absolute Cognitive Independence
+```
+
+This narrower claim better matches the available evidence and Mission responsibility.
+
+---
+
+# Same-model Examination Boundary
+
+Use of the same model family does not automatically invalidate Mission 003.
+
+If:
+
+```text
+Instance-State Separation
+        ✓
+
+Context Control
+        ✓
+
+Formation-Process Separation
+        materially supported
+```
+
+then same-model examination may still create a materially new judgment relation.
+
+However, the use of the same model should not be interpreted as equivalent to cross-model validation.
+
+These are different evidential conditions.
+
+The exact evidential strength belongs to later assessment.
+
+---
+
+# Cross-model Examination Boundary
+
+Likewise, cross-model examination may provide additional separation, but it should not automatically be assigned stronger evidential status without examining the actual conditions.
+
+For example:
+
+```text
+Different Model
+        +
+Formation History Reintroduced
+```
+
+may provide weaker Judgment Independence than:
+
+```text
+Same Model
+        +
+Fresh Reasoning State
+        +
+Strong Context Control
+```
+
+depending on the actual examination design.
+
+Therefore model difference is a potentially relevant examination property, but not a substitute for the Core Operational Structure.
+
+---
+
+# Independent Instance Minimal Test
+
+Before an examination source is treated as operationally suitable for Mission 003, the design should be able to answer the following questions.
+
+## Question 1 — State Separation
+
+> **Has the examination reasoning state been meaningfully separated from the active reasoning state through which the Protocol Candidate was formed?**
+
+If not:
+
+```text
+Instance-State Separation
+        NOT SATISFIED
+```
+
+---
+
+## Question 2 — Context Control
+
+> **Is sufficient object context available while unnecessary formation-conditioning information is restricted?**
+
+If not:
+
+```text
+Context Control
+        NOT SATISFIED
+```
+
+---
+
+## Question 3 — Formation Separation
+
+> **Do the combined conditions support a meaningful separation between the Protocol formation process and the examination process?**
+
+If not:
+
+```text
+Formation-Process Separation
+        NOT SUFFICIENTLY SUPPORTED
+```
+
+---
+
+## Question 4 — Judgment Relation
+
+> **Can the resulting judgment reasonably be treated as materially new rather than primarily a continuation or reconstruction of Mission 002 reasoning?**
+
+If not:
+
+```text
+Materially New Judgment Relation
+        NOT ESTABLISHED
+```
+
+These questions constitute the minimal operational interface of this Protocol.
+
+---
+
+# Protocol Failure Response
+
+If a failure is detected before examination begins:
+
+```text
+Operational Failure
+        ↓
+Identify Safeguard Failure
+        ↓
+Correct Examination Design
+        ↓
+Reassess Readiness
+```
+
+If a failure occurs during examination:
+
+```text
+Operational Failure
+        ↓
+Preserve the Failure
+        ↓
+Do Not Overstate
+Affected Evidence
+        ↓
+Determine whether
+a clean examination
+must be repeated
+```
+
+The Protocol does not predetermine whether every failure requires complete repetition.
+
+That decision depends on the materiality of the failure and belongs to later procedural and evidential assessment.
+
+---
+
+# Traceability Principle
+
+The Independent Instance Protocol should remain traceable enough that later assessment can distinguish:
+
+```text
+How the reasoning state
+was separated
+```
+
+from:
+
+```text
+What information
+was presented
+```
+
+from:
+
+```text
+How the examination
+was conducted
+```
+
+from:
+
+```text
+What judgment
+was produced
+```
+
+This yields:
+
+```text
+02
+Independent Instance Protocol
+        ↓
+03
+Examination Materials
+        ↓
+04
+Examination Procedure
+        ↓
+05
+Examination Results
+```
+
+Traceability protects Responsibility Integrity across the Mission.
+
+---
+
+# Pre-examination Architecture
+
+The Mission 003 architecture before the Examination Gate is:
+
+```text
+00 — Mission Definition
+        ↓
+Why Independent Examination exists
+
+01 — Examination Boundary
+        ↓
+What must remain protected
+
+02 — Independent Instance Protocol
+        ↓
+What operational separation
+must exist
+
+03 — Examination Materials
+        ↓
+What exactly is exposed
+
+04 — Examination Procedure
+        ↓
+How examination occurs
+
+==============================
+       EXAMINATION GATE
+==============================
+```
+
+Each asset constrains the next without absorbing its responsibility.
+
+---
+
+# Responsibility Fit
+
+The responsibility of 02 remains:
+
+```text
+Define Operational Separation
+```
+
+It does not become:
+
+```text
+Define Examination Boundary
+```
+
+because that belongs to 01.
+
+It does not become:
+
+```text
+Select Examination Materials
+```
+
+because that belongs to 03.
+
+It does not become:
+
+```text
+Design Examination Procedure
+```
+
+because that belongs to 04.
+
+It does not become:
+
+```text
+Produce Examination Evidence
+```
+
+because that occurs through the Examination Gate and is preserved in 05.
+
+It does not become:
+
+```text
+Compare Evidence
+```
+
+because that belongs to 06.
+
+It does not become:
+
+```text
+Assign Validation Status
+```
+
+because that belongs to 07.
+
+Therefore the Current Baseline passes the Mission-level Responsibility Fit requirement.
+
+---
+
+# Core Protocol Representation
+
+The complete Independent Instance Protocol can be represented as:
+
+```text
+            EXISTING FORMATION ENVIRONMENT
+                        │
+                        ▼
+             Instance-State Separation
+                        │
+                        ▼
+               Fresh Reasoning State
+                        │
+                        │
+              ┌─────────┴─────────┐
+              ▼                   ▼
+       Necessary Object     Formation-conditioning
+           Context                Context
+              │                   │
+          PRESERVE             RESTRICT
+              │                   │
+              └─────────┬─────────┘
+                        ▼
+                  Context Control
+                        │
+                        ▼
+             Formation-Process
+                 Separation
+                        │
+                        ▼
+               Judgment Independence
+                        │
+                        ▼
+          Materially New Judgment Relation
+                        │
+                        ▼
+              Independent Examination
+```
+
+This representation preserves both sides of the operational problem:
+
+```text
+Enough information
+to examine the object
+```
+
+and:
+
+```text
+Enough separation
+to protect judgment independence
+```
+
+---
+
+# Core Invariants
+
+The Current Baseline preserves the following invariants.
+
+## Invariant 1
+
+```text
+Different Instance
+        ≠
+Independent by definition
+```
+
+---
+
+## Invariant 2
+
+```text
+Fresh Reasoning State
+        ≠
+Sufficient by itself
+```
+
+---
+
+## Invariant 3
+
+```text
+Context Restriction
+        ≠
+Context Elimination
+```
+
+---
+
+## Invariant 4
+
+```text
+Formation-Process Separation
+        =
+Primary Operational Target
+```
+
+---
+
+## Invariant 5
+
+```text
+Instance-State Separation
+        +
+Context Control
+        =
+Primary Operational Safeguards
+```
+
+---
+
+## Invariant 6
+
+```text
+Different Model
+        =
+Possible Strengthener
+not Mandatory Condition
+```
+
+---
+
+## Invariant 7
+
+```text
+Same Conclusion
+        ≠
+Dependence
+```
+
+and:
+
+```text
+Different Conclusion
+        ≠
+Independence
+```
+
+---
+
+## Invariant 8
+
+```text
+Operational Independence
+        ≠
+Validation
+```
+
+These invariants should remain stable unless downstream evidence demonstrates a material inadequacy.
+
+---
+
+# Current Protocol State
+
+At completion of this asset:
+
+```text
+00 — Mission Definition
+        ✓ COMPLETE
+
+01 — Examination Boundary
+        ✓ COMPLETE
+
+02 — Independent Instance Protocol
+        ✓ EXTERNALIZED
+
+03 — Examination Materials
+        ← NEXT
+
+04 — Examination Procedure
+        PENDING
+
+==============================
+       EXAMINATION GATE
+==============================
+
+05 — Examination Results
+        PENDING
+
+06 — Comparative Assessment
+        PENDING
+
+07 — Validation Status
+        PENDING
+
+README
+        PENDING
+```
+
+No independent examination has yet occurred.
+
+No specific examination material set has yet been finalized.
+
+No examination procedure has yet been executed.
+
+No independent evidence is claimed at this stage.
+
+---
+
+# Next Research Responsibility
+
+The next asset is:
+
+`03-examination-materials.md`
+
+Its primary question is:
+
+> **What exact information should be presented to the independent examination source so that Object Validity is preserved without unnecessarily weakening Formation-Process Separation?**
+
+The next asset may therefore examine:
+
+- canonical Protocol representation;
+- necessary Mission context;
+- material sufficiency;
+- representation fidelity;
+- developmental-history exposure;
+- inclusion and exclusion decisions;
+- summary versus canonical asset exposure;
+- and Formation-conditioning risk.
+
+However, it should not redefine the Independent Instance Protocol established here unless material evidence demonstrates that the Current Baseline is insufficient.
+
+---
+
+# Final Protocol Principle
+
+Mission 003 does not create independence merely by changing the technical identity of the reasoning instance.
+
+Nor does it create independence by withholding as much information as possible.
+
+The operational objective is:
+
+```text
+Break Active Formation-State Continuity
+        +
+Control Formation-conditioning Context
+        +
+Preserve Necessary Object Context
+        ↓
+Formation-Process Separation
+        ↓
+Judgment Independence
+        ↓
+Materially New Judgment Relation
+```
+
+The Independent Instance Protocol therefore treats independence as a **structured separation relation**, not as an instance label.
+
+This relation forms the Current Baseline for establishing the examination source used in Mission 003.
+
+---
+
+# End of Independent Instance Protocol
+
+
+
