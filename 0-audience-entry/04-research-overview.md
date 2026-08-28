@@ -115,6 +115,17 @@ The Research Space therefore serves not only as a repository for research output
 
 The structures and materials presented here may therefore be understood not simply as the work of a single individual, but as records of a research process formed through **Human–AI Dialogue**.
 
+
+### Observing Structural Change in the Research Space
+
+A simple historical comparison is available showing how the structure of this Research Space changed between two actual points preserved in the GitHub history.
+
+→ **[Research Space — Structural Change Example](./06-research-space-structural-change-example.md)**
+
+This comparison does not attempt to explain the entire formation process of the Research Space.  
+It provides one observable example of structural change at the repository level.
+
+
 ---
 
 ## Research Journey
