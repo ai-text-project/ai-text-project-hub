@@ -31,6 +31,16 @@ AI Text Projectでは、AIとの継続的な対話や研究活動を通じて、
 ここで公開されている構造や成果物を、特定の個人だけによる一方向的な制作物としてではなく、  
 **Human–AI Dialogueから形成された研究過程の記録**としてご覧いただければ幸いです。
 
+### Research Spaceの構造変化を見る
+
+このResearch Spaceが時間とともにどのように構造変化してきたのかについて、  
+GitHubの実際の履歴から二つの時点を比較した簡単な例をご覧いただけます。
+
+→ **[Research Space — Structural Change Example](./06-research-space-structural-change-example.md)**
+
+この比較は、Research Spaceの形成過程全体を説明するものではなく、  
+Repository上で観察可能な構造変化の一例を示すものです。
+
 ---
 
 ## Research Journey
