@@ -84,8 +84,6 @@ The resulting experience emphasized:
 - optional exploration; and
 - early exit permission.
 
----
-
 ### Case B — Enterprise Audience Entry
 
 A second observation concerned enterprise visitors encountering the Research Program.
@@ -236,3 +234,185 @@ Human Value and Placement Judgment
         │
         ▼
 Audience Entry Formation
+```
+
+The components appear to perform different responsibilities.
+
+### Human Exploratory Judgment
+
+Introduces questions that may not arise from a predefined analytical procedure.
+
+Example:
+
+> Could historical repository trees simply be compared?
+
+### Bounded Role
+
+Restricts attention to the visitor experience and prevents unnecessary redesign of the underlying Research Program.
+
+### Machine-Readable Evidence
+
+Provides structured, recoverable evidence that can be compared without manually reconstructing the entire research history.
+
+### AI-Scale Comparative Processing
+
+Makes it possible to scan historical records, identify candidate snapshots, compare structures, control evidence boundaries, and compress findings into human-reviewable units.
+
+### Human Placement Judgment
+
+Determines whether the resulting observation is useful, where it belongs, and how strongly it should be exposed to external visitors.
+
+---
+
+## 9. Why the Combination Matters
+
+None of these elements alone appears sufficient to explain the observed result.
+
+A bounded role without accessible historical evidence would still require substantial manual reconstruction.
+
+Machine-readable evidence without a bounded role could encourage excessive historical analysis unrelated to the visitor's actual need.
+
+AI-scale processing without human exploratory judgment might efficiently analyze the wrong question.
+
+Human exploratory judgment without scalable processing could identify useful questions but make systematic historical comparison costly.
+
+The observed capability therefore appears to arise from their combination rather than from a single component.
+
+A provisional formulation is:
+
+> **Bounded selective attention × machine-readable evidence × AI-scale comparative processing × human exploratory judgment may enable rapid formation of evidence-linked Research Entry experiences.**
+
+This formulation is descriptive rather than methodological.
+
+---
+
+## 10. Content Expansion vs. Relationship Design
+
+Another observation concerns the nature of the resulting improvement.
+
+The Audience Entry did not improve primarily because large amounts of new explanatory content were created.
+
+Instead, existing and newly observed assets were connected differently.
+
+The significant transition was approximately:
+
+```text
+Explanation
+```
+
+to:
+
+```text
+Explanation
+     ↓
+Optional Evidence
+     ↓
+Optional Exploration
+```
+
+The improvement therefore appears closer to **Relationship Design** than to simple Content Expansion.
+
+The visitor receives additional depth without being required to consume additional depth.
+
+---
+
+## 11. Evidence Boundary
+
+This observation does **not** establish that:
+
+- a general Research Experience Design Methodology has been completed;
+- GitHub automatically produces effective Research Entry Architecture;
+- AI processing alone explains the quality of the resulting Entry;
+- the observed configuration will generalize to other repositories or research programs;
+- every repository structural change represents Research Space evolution; or
+- every observed change was caused by Human–AI Dialogue.
+
+The current evidence comes from a limited number of cases within the same broader Research Program.
+
+The present record should therefore remain provisional.
+
+---
+
+## 12. Relationship to Existing Observations
+
+This observation is related to, but distinct from, earlier records concerning:
+
+- Research Entry Architecture emergence;
+- Role Boundary;
+- AI-supported structural observation;
+- Audience-specific projection;
+- Research Program capability evolution; and
+- methodological emergence.
+
+The present document does not replace those observations.
+
+Its specific focus is the **combined capability configuration** that appeared to support rapid Audience Entry formation.
+
+In particular:
+
+> **Role Boundary determines what should receive attention.**
+
+> **Machine-readable evidence determines what can be efficiently observed.**
+
+> **AI-scale processing expands the amount of evidence that can be compared consistently.**
+
+> **Human judgment determines which questions matter and which observations should become part of the Research Experience.**
+
+---
+
+## 13. Meta Observation
+
+A notable recursive feature appeared during this process.
+
+The Research Overview describes the Research Space as something that has been formed and updated through sustained Human–AI Dialogue.
+
+The attempt to provide observable evidence for that statement itself followed a similar process:
+
+**Human Spot Question  
+→ AI-supported Historical Observation  
+→ Structural Comparison  
+→ Human Placement Judgment  
+→ New Audience Entry Asset  
+→ Updated Research Space**
+
+The observation method therefore became part of the Research Space that it was observing.
+
+This correspondence is noteworthy, but no stronger theoretical interpretation is made at this stage.
+
+---
+
+## 14. Current Interpretation
+
+The strongest interpretation currently supported is:
+
+> **A bounded Research Experience Design role, combined with machine-readable repository evidence, AI-scale comparative processing, and human exploratory judgment, appeared to enable rapid transformation of existing research assets into an evidence-linked Audience Entry experience.**
+
+This is currently treated as a **Research Program Capability Evolution observation**.
+
+It is not yet treated as a stable methodology.
+
+---
+
+## 15. Future Validation Questions
+
+Future cases may examine:
+
+1. Does the same capability configuration appear with a different audience?
+2. Does it appear in a different repository?
+3. Does it remain effective when historical evidence is less structured than GitHub?
+4. Which parts of the configuration are necessary, and which are merely helpful?
+5. Does the same bounded-role pattern produce different Entry Architectures under different audience conditions?
+6. Can the process be reproduced by another AI instance or another human–AI pairing?
+7. At what point does repeated capability become sufficiently stable to justify methodological formalization?
+
+---
+
+## 16. Status
+
+**Current Status: Provisional Meta Observation**
+
+The observation is preserved because the combination of role boundary, machine-readable evidence, AI-scale comparative processing, and human judgment produced a sufficiently distinct capability to warrant future comparison.
+
+No methodological freeze is proposed at this stage.
+
+Further independent cases should determine whether this remains a local capability observation or develops into a more general Research Experience Design methodology.
