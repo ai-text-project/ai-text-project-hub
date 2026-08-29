@@ -31,8 +31,6 @@ AI Text Projectでは、AIとの継続的な対話や研究活動を通じて、
 ここで公開されている構造や成果物を、特定の個人だけによる一方向的な制作物としてではなく、  
 **Human–AI Dialogueから形成された研究過程の記録**としてご覧いただければ幸いです。
 
-### Research Spaceの構造変化を見る
-
 ### Human–AI Research Practiceを見る
 
 このResearch Spaceにおいて、人間と複数のAI Instanceがどのような関係で研究活動を行っているのかについて、  
@@ -130,8 +128,6 @@ The Research Space therefore serves not only as a repository for research output
 
 The structures and materials presented here may therefore be understood not simply as the work of a single individual, but as records of a research process formed through **Human–AI Dialogue**.
 
-
-### Observing Structural Change in the Research Space
 
 ### Observing Human–AI Research Practice
 
