@@ -66,8 +66,9 @@ Dialogue-Phase Reasoningをはじめとする研究テーマ、
 「どのような研究プログラムなのか」
 を最初に把握したい方はこちらです。
 
-研究全体を俯瞰してから、
-より詳しい研究資産へ進むための入口です。
+研究全体を俯瞰するとともに、
+Human–AI Research PracticeやResearch Spaceの構造変化など、
+このResearch Spaceそのものについての観察へ進むこともできます。
 
 **→ [研究概要を見る](./04-research-overview.md)**
 
@@ -138,17 +139,18 @@ research organizations, and enterprises.
 This entry is intended for exploring possible connections
 through dialogue rather than beginning with a specific research asset.
 
-**→ [Explore Dialogue / Collaboration](./03-collaboration-entry.md)**
+**→ [Explore Dialogue / Collaboration](./03-dialogue-entry.md)**
 
 ---
 
 ## Research Overview
 
 For visitors who would first like to understand
-the overall research program and the structure of the research space.
+the overall research program and the Research Space itself.
 
-This entry provides an overview before proceeding
-to more specific research assets.
+This entry provides an overview of the research and also offers
+optional paths for observing Human–AI Research Practice
+and structural change within the Research Space.
 
 **→ [View the Research Overview](./04-research-overview.md)**
 
