@@ -133,6 +133,19 @@ The structures and materials presented here may therefore be understood not simp
 
 ### Observing Structural Change in the Research Space
 
+### Observing Human–AI Research Practice
+
+A concise observational example is available showing how a Human and multiple AI instances participate in research activity within this Research Space.
+
+→ **[Human–AI Research Practice](./07-human-ai-research-practice.md)**
+
+The example illustrates how multiple AI instances take differentiated Roles and become connected to Research Artifacts and the Research Space through Human dialogue, judgment, routing, and handover.
+
+It does not propose a new Multi-Agent Architecture or a general model of Human–AI Collaboration.  
+Instead, it provides a Visitor-facing view of a Research Practice currently observed within this Research Space.
+
+### Observing Structural Change in the Research Space
+
 A simple historical comparison is available showing how the structure of this Research Space changed between two actual points preserved in the GitHub history.
 
 → **[Research Space — Structural Change Example](./06-research-space-structural-change-example.md)**
