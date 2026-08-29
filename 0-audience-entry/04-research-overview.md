@@ -33,6 +33,21 @@ AI Text Projectでは、AIとの継続的な対話や研究活動を通じて、
 
 ### Research Spaceの構造変化を見る
 
+### Human–AI Research Practiceを見る
+
+このResearch Spaceにおいて、人間と複数のAI Instanceがどのような関係で研究活動を行っているのかについて、  
+簡潔な観察例をご覧いただけます。
+
+→ **[Human–AI Research Practice](./07-human-ai-research-practice.md)**
+
+この例では、複数のAI Instanceが異なるRoleを担当し、Humanによる対話、判断、Routing、Handoverを通じて、  
+Research ArtifactやResearch Spaceへ接続していく関係を示しています。
+
+これは、新しいMulti-Agent Architectureや一般的なHuman–AI Collaboration Modelを提示するものではなく、  
+このResearch Spaceで現在観察されているResearch PracticeをVisitor向けに示したものです。
+
+### Research Spaceの構造変化を見る
+
 このResearch Spaceが時間とともにどのように構造変化してきたのかについて、  
 GitHubの実際の履歴から二つの時点を比較した簡単な例をご覧いただけます。
 
