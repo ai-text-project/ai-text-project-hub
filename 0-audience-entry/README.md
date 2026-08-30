@@ -18,6 +18,15 @@ AI Text Projectでは、AI、人間とAIの対話・協働、研究方法論、
 構造表現、プレゼンテーション、比較観察など、
 異なる目的を持つ研究資産が蓄積されています。
 
+これらの研究資産は、それぞれ異なる役割や位置づけを持つ場合があります。
+
+Research Space内の研究資産をどのように理解すればよいかを
+最初に確認したい方は、
+**→ [Understanding This Research Space](./00-understanding-this-research-space.md)**
+をご覧ください。
+
+このOrientationは必須ではありません。
+
 すべてを順番に読む必要はありません。
 
 ご自身の関心や目的に最も近い入口からお進みください。
@@ -97,7 +106,17 @@ This research space contains different types of research assets,
 including papers, research frameworks, methodologies,
 structural representations, presentations, and comparative observations.
 
-You do not need to explore them in any particular order.
+These research assets may serve different functions and occupy
+different positions within the Research Space.
+
+If you would first like a brief orientation for understanding
+the different kinds of research records you may encounter, see:
+
+**→ [Understanding This Research Space](./00-understanding-this-research-space.md)**
+
+This orientation is optional.
+
+You do not need to explore the research assets in any particular order.
 
 Please choose the entry point that best matches your interests or purpose.
 
