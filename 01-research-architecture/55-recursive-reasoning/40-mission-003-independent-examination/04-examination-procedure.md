@@ -1144,3 +1144,1453 @@ Independent Examination Environment
 It does not automatically support universal claims about how all AI instances would reason under arbitrary conditions.
 
 This limitation belongs to the Evidence Boundary.
+
+
+
+---
+
+# Failure Attribution
+
+The Pre-Execution Failure Test showed that Independent Examination difficulty does not necessarily imply a failure of the Examination Procedure.
+
+A difficulty observed during examination may originate from several different sources.
+
+The Current Baseline therefore distinguishes:
+
+```text
+Examination Difficulty
+        │
+        ├── Environment Issue
+        │
+        ├── Material Issue
+        │
+        ├── Protocol Object Issue
+        │
+        └── Judgment Outcome
+```
+
+These categories are not final analytical classifications.
+
+They provide an initial attribution structure so that materially different failure sources are not prematurely collapsed into:
+
+```text
+"The Independent Examination failed."
+```
+
+---
+
+# Environment Issue
+
+An Environment Issue occurs when the conditions required for Independent Examination were not sufficiently maintained.
+
+Examples may include:
+
+- prior formation reasoning remaining active;
+- unintended developmental history exposure;
+- Human Judgment Steering;
+- unrecorded additional material exposure;
+- or failure to maintain Context Control.
+
+Conceptually:
+
+```text
+Protocol Object
+        ✓
+
+Materials
+        ✓
+
+BUT
+
+Examination Environment
+        ✗
+```
+
+In such cases, the resulting judgment may still be informative, but its independence claim must be qualified.
+
+---
+
+# Material Issue
+
+A Material Issue occurs when the Independent Instance cannot meaningfully examine the intended object because the Examination Material Package is insufficient, ambiguous, distorted, or improperly composed.
+
+Examples include:
+
+```text
+Missing Necessary Context
+
+Ambiguous Terminology
+
+Incomplete Canonical Object
+
+Representation Fidelity Problem
+```
+
+Conceptually:
+
+```text
+Environment
+        ✓
+
+Protocol Object
+        ?
+
+BUT
+
+Presented Materials
+        ✗
+```
+
+A Material Issue should not automatically be interpreted as a weakness in the Protocol Candidate itself.
+
+---
+
+# Protocol Object Issue
+
+A Protocol Object Issue occurs when the examination difficulty arises from the Protocol Candidate itself.
+
+Examples may include:
+
+- structural ambiguity;
+- hidden dependencies;
+- insufficient self-containment;
+- contradictory responsibilities;
+- missing procedural conditions;
+- or unstable relationships among Protocol components.
+
+Conceptually:
+
+```text
+Environment
+        ✓
+
+Materials
+        ✓
+
+Independent Examination
+        ↓
+
+Material problem appears
+inside the Protocol Candidate
+```
+
+Such observations are particularly important because they may directly motivate Protocol revision.
+
+---
+
+# Judgment Outcome
+
+A Judgment Outcome is not necessarily an issue at all.
+
+It may include:
+
+```text
+Preserve
+
+Revise
+
+Qualify
+
+Reject
+
+Unable to Reach
+a Justified Judgment
+
+Unexpected Observation
+```
+
+The procedure must not convert an unfavorable or incomplete judgment into a procedural failure merely because it differs from prior expectations.
+
+---
+
+# Attribution Is Not Yet Final Interpretation
+
+04 preserves attribution possibilities.
+
+It does not decide them conclusively.
+
+For example:
+
+```text
+Independent Instance
+cannot interpret X
+```
+
+may initially appear to indicate:
+
+```text
+Material Issue
+```
+
+but later examination may suggest:
+
+```text
+Protocol Object Issue
+```
+
+The final relationship belongs downstream.
+
+Therefore:
+
+```text
+04
+Preserve observable conditions
+        ↓
+05
+Record results
+        ↓
+06
+Compare and assess
+```
+
+---
+
+# Examination Termination
+
+The Independent Examination may terminate under more than one condition.
+
+## Normal Completion
+
+```text
+Independent Instance
+        ↓
+Completes examination
+        ↓
+Produces justified judgment
+        ↓
+Raw Output Capture
+```
+
+---
+
+## Qualified Completion
+
+The Independent Instance may produce a judgment while explicitly identifying limitations.
+
+For example:
+
+```text
+Judgment
+        +
+Material uncertainty
+        +
+Qualification
+```
+
+This remains a legitimate examination result.
+
+---
+
+## Non-Completion
+
+The Independent Instance may determine that meaningful examination cannot continue.
+
+Possible reasons include:
+
+```text
+Insufficient Information
+
+Unresolvable Ambiguity
+
+Clarification Conflict
+
+Object Representation Problem
+
+Other Material Constraint
+```
+
+Non-completion must not be overridden merely to obtain a substantive judgment.
+
+---
+
+# Termination Principle
+
+The Current Baseline is:
+
+> **The examination should terminate when the Independent Instance has produced its justified judgment, or when it determines that a justified judgment cannot be reached under the available examination conditions.**
+
+This prevents artificial continuation beyond the evidential capacity of the examination environment.
+
+---
+
+# No Forced Resolution
+
+The Human should not respond to non-completion by progressively revealing Formation History until the Independent Instance eventually produces a judgment.
+
+Such a process could transform:
+
+```text
+Independent Examination
+```
+
+into:
+
+```text
+Guided Reconstruction
+```
+
+If substantial additional exposure becomes necessary, that fact should be preserved and considered when interpreting the evidence.
+
+---
+
+# Evidence Capture Package
+
+At termination, the examination record should preserve an Evidence Capture Package.
+
+The Current Baseline includes:
+
+```text
+Initial Material Package
+        +
+Examination Prompt
+        +
+Independent Examination Output
+        +
+Clarification Requests
+        +
+Clarification Responses
+        +
+Additional Material Exposure
+        +
+Termination Condition
+```
+
+where applicable.
+
+The purpose is traceability rather than procedural bureaucracy.
+
+---
+
+# Raw Evidence Principle
+
+The primary evidence record should preserve the Independent Instance's output before retrospective interpretation.
+
+Thus:
+
+```text
+Independent Output
+        ↓
+RAW PRESERVATION
+        ↓
+Interpretation Later
+```
+
+rather than:
+
+```text
+Independent Output
+        ↓
+Immediate Research Interpretation
+        ↓
+Only Summary Preserved
+```
+
+The latter would weaken the distinction between Evidence Production and Evidence Interpretation.
+
+---
+
+# Traceability Principle
+
+A later researcher or reasoning instance should be able to reconstruct the examination conditions sufficiently to answer:
+
+```text
+What object was examined?
+
+What materials were available?
+
+What instructions were given?
+
+Was clarification requested?
+
+What additional information
+was provided?
+
+How did the examination terminate?
+
+What judgment was produced?
+```
+
+This does not require reconstructing every internal reasoning state.
+
+It requires preserving the externally observable examination conditions relevant to evidence interpretation.
+
+---
+
+# Procedural Event Log
+
+A lightweight Procedural Event Log may therefore accompany the examination.
+
+For example:
+
+```text
+T0 — Independent environment initialized
+
+T1 — Initial material package exposed
+
+T2 — Examination initiated
+
+T3 — Clarification requested
+     [if applicable]
+
+T4 — Additional context provided
+     [if applicable]
+
+T5 — Examination completed
+     or terminated
+
+T6 — Raw output preserved
+```
+
+The event log should remain descriptive.
+
+It should not contain retrospective claims such as:
+
+```text
+"The instance correctly understood X."
+```
+
+unless such a judgment is made later under the appropriate analytical responsibility.
+
+---
+
+# Human Responsibility
+
+The Human functions as a mediator of the examination environment.
+
+The Human does not disappear from the procedure.
+
+Instead, Human responsibility is decomposed.
+
+```text
+Human Responsibility
+
+Environment Establishment
+        ✓
+
+Material Transfer
+        ✓
+
+Clarification Mediation
+        ✓
+
+Procedural Logging
+        ✓
+
+Raw Evidence Preservation
+        ✓
+
+Judgment Steering
+        ✗
+
+Outcome Correction
+        ✗
+
+Premature Validation Claim
+        ✗
+```
+
+This distinction is essential because Human presence alone does not invalidate Independent Examination.
+
+The relevant issue is whether Human participation materially shapes the Independent Judgment.
+
+---
+
+# Independent Instance Responsibility
+
+The Independent Instance is responsible for:
+
+```text
+Object Interpretation
+
+Independent Examination
+
+Detection of Missing Information
+
+Clarification Requests
+
+Judgment Formation
+
+Qualification of Judgment
+
+Unexpected Observation
+```
+
+The Independent Instance is not responsible for assigning the final research-level Validation Status of the Protocol.
+
+That remains downstream.
+
+---
+
+# Responsibility Separation
+
+The procedure therefore preserves:
+
+```text
+Human
+        ↓
+Examination Environment
+
+Independent Instance
+        ↓
+Examination Judgment
+
+Mission 003 downstream analysis
+        ↓
+Evidence Interpretation
+```
+
+These responsibilities should not be collapsed.
+
+---
+
+# Judgment Independence versus Judgment Correctness
+
+Mission 003 does not assume:
+
+```text
+Independent Judgment
+        =
+Correct Judgment
+```
+
+An Independent Instance may:
+
+- misunderstand;
+- overlook;
+- overemphasize;
+- underemphasize;
+- or incorrectly infer.
+
+The purpose of Mission 003 is not to declare independent output infallible.
+
+The purpose is to create a materially new judgment relation sufficiently separated from the Protocol's formation process.
+
+Therefore:
+
+```text
+Judgment Independence
+        ≠
+Judgment Correctness
+```
+
+This distinction must remain visible in downstream assessment.
+
+---
+
+# Object Fidelity Check
+
+Because undetected misinterpretation cannot be completely prevented during examination, the Raw Examination Output should preserve enough reasoning context to permit later consideration of Object Fidelity.
+
+The procedure should not continuously correct the Independent Instance during examination merely to maximize interpretive agreement.
+
+Instead:
+
+```text
+Independent Interpretation
+        ↓
+Preserve
+        ↓
+Later assess whether
+material object substitution
+or misinterpretation occurred
+```
+
+This protects Judgment Independence while retaining the ability to assess evidence quality.
+
+---
+
+# Agreement Is Not Validation
+
+If the Independent Judgment substantially agrees with Mission 002:
+
+```text
+Independent Judgment
+        ≈
+Mission 002 Judgment
+```
+
+the result may support convergence.
+
+However, agreement alone does not establish:
+
+```text
+Independent Validation
+```
+
+Possible alternative explanations may include:
+
+```text
+Shared Model Tendencies
+
+Common Interpretive Bias
+
+Material Framing Effects
+
+Common Architectural Assumptions
+```
+
+These possibilities belong to Comparative Assessment.
+
+---
+
+# Disagreement Is Not Refutation
+
+Likewise:
+
+```text
+Independent Judgment
+        ≠
+Mission 002 Judgment
+```
+
+does not automatically establish that the Protocol Candidate is invalid.
+
+Disagreement may arise from:
+
+- a genuine structural weakness;
+- different interpretation;
+- material insufficiency;
+- object ambiguity;
+- model-specific reasoning tendencies;
+- or another examination condition.
+
+Therefore disagreement must first be preserved as evidence.
+
+---
+
+# Procedure-Induced Context
+
+Independent Examination is not context-free reasoning.
+
+The procedure intentionally establishes:
+
+```text
+An Examination Mandate
+
+A Material Package
+
+A Prompt
+
+A Controlled Environment
+```
+
+These necessarily shape the examination context.
+
+Mission 003 therefore does not claim absolute independence.
+
+The relevant claim is narrower:
+
+> **The examination is operationally separated from the specific formation trajectory of the Protocol Candidate to a degree sufficient to create a materially new judgment relation.**
+
+This is the appropriate Independence Claim Boundary for the Current Baseline.
+
+---
+
+# Pre-Execution Failure Test Result
+
+The Procedure was tested against the following major failure scenarios:
+
+```text
+1. Task-Framing Bias
+
+2. Undetected Object Misinterpretation
+
+3. Clarification Deadlock
+
+4. Human Intervention Leakage
+
+5. No Substantive Judgment
+
+6. Unstructured Output
+
+7. Near-Perfect Agreement
+
+8. Procedure-Induced Context
+```
+
+The result was:
+
+```text
+Material Procedure Failure
+        NOT DETECTED
+```
+
+Residual risks remain.
+
+However, they are either:
+
+```text
+Controlled
+
+Traceable
+
+Legitimate Examination Outcomes
+
+or
+
+Downstream Evidence-Quality Questions
+```
+
+No additional top-level procedural stage was required.
+
+---
+
+# Procedure Hardening
+
+The Pre-Execution Failure Test produced two explicit hardening principles.
+
+## Hardening Principle 1
+
+```text
+Non-completion
+        =
+Legitimate Examination Result
+```
+
+when a justified judgment cannot be reached under the available examination conditions.
+
+---
+
+## Hardening Principle 2
+
+```text
+Light Output Structure
+        >
+Rigid Judgment Schema
+```
+
+for the initial Independent Examination.
+
+This preserves unexpected observation while retaining enough structure for evidence capture.
+
+---
+
+# Failure Recovery Principle
+
+The procedure is not designed to guarantee that the Independent Examination succeeds.
+
+It is designed so that failure or difficulty can remain informative.
+
+Thus:
+
+```text
+Examination Difficulty
+        ↓
+Do not immediately repair
+until judgment is obtained
+        ↓
+Preserve condition
+        ↓
+Identify possible source
+        ↓
+Use as evidence
+```
+
+This is particularly important because excessive repair may remove the phenomenon that the examination is intended to reveal.
+
+---
+
+# Pre-Examination Readiness Test
+
+Before crossing the Examination Gate, the following conditions should be checked.
+
+## Boundary Readiness
+
+```text
+Object Validity requirement
+        ✓
+
+Judgment Independence requirement
+        ✓
+
+Responsibility Integrity requirement
+        ✓
+```
+
+---
+
+## Independent Source Readiness
+
+```text
+Instance-State Separation
+        ✓
+
+Context Control
+        ✓
+
+Formation-Process Separation
+        operationally plausible
+```
+
+---
+
+## Material Readiness
+
+```text
+Examination Mandate
+        ✓
+
+Necessary Object Context
+        ✓
+
+Canonical Protocol Object
+        ✓
+
+Evidence Boundary
+        ✓
+
+Formation History
+        excluded by default
+```
+
+---
+
+## Procedure Readiness
+
+```text
+Initialization Rule
+        ✓
+
+Material Exposure Rule
+        ✓
+
+Judgment Freedom
+        ✓
+
+Clarification Gate
+        ✓
+
+Human Intervention Boundary
+        ✓
+
+Additional Exposure Logging
+        ✓
+
+Termination Rule
+        ✓
+
+Raw Judgment Capture
+        ✓
+```
+
+---
+
+# Examination Gate
+
+If the readiness conditions are satisfied, Mission 003 may cross:
+
+```text
+==============================
+       EXAMINATION GATE
+==============================
+```
+
+The transition is:
+
+```text
+Pre-Examination Architecture
+        ↓
+Actual Independent Examination
+        ↓
+Independent Evidence Production
+```
+
+This is a substantive Mission transition.
+
+Before the Gate, Mission 003 is designing the conditions of examination.
+
+After the Gate, Mission 003 is observing what occurs under those conditions.
+
+---
+
+# Gate Discipline
+
+Once Actual Independent Examination begins, the current Mission 003 design assets should not be silently rewritten in response to the emerging result.
+
+If a procedural problem occurs:
+
+```text
+Observe
+        ↓
+Record
+        ↓
+Preserve
+```
+
+before redesign.
+
+Otherwise the examination environment could be retrospectively modified to produce a preferred result.
+
+Any later revision should be explicitly distinguished from the original examination run.
+
+---
+
+# First Examination Run
+
+The first Independent Examination should be treated as:
+
+```text
+Examination Run 001
+```
+
+rather than as the definitive test of the Protocol Candidate.
+
+This permits:
+
+```text
+Run 001
+        ↓
+Evidence
+        ↓
+Assessment
+        ↓
+Possible Revision
+        ↓
+Future Examination
+```
+
+without retroactively changing the evidential meaning of the first run.
+
+---
+
+# Run Identity
+
+Each examination run should have a stable identity.
+
+A minimal record may include:
+
+```text
+Run ID
+
+Date
+
+Examination Environment
+
+Material Package Version
+
+Procedure Version
+
+Clarification Events
+
+Termination Condition
+
+Raw Output Reference
+```
+
+This becomes especially important if later Mission development produces additional Independent Examination runs.
+
+---
+
+# No Silent Rerun
+
+If the first examination produces an unexpected or unfavorable result, the procedure should not immediately be restarted with modified instructions and only the improved result retained.
+
+Instead:
+
+```text
+Run 001
+        ↓
+Preserve
+
+Revision
+        ↓
+Explicit
+
+Run 002
+        ↓
+New Evidence
+```
+
+This protects provenance.
+
+---
+
+# Evidence Creation Point
+
+Evidence is not created merely because an Independent Instance exists.
+
+Nor is it created merely because materials have been uploaded.
+
+The relevant Evidence Creation Point occurs when:
+
+```text
+Independent Examination Environment
+        +
+Controlled Material Exposure
+        +
+Independent Judgment Formation
+        +
+Traceable Capture
+        ↓
+New Examination Evidence
+```
+
+This distinction prevents premature claims before the actual examination occurs.
+
+---
+
+# Relationship to 05 — Examination Results
+
+`05-examination-results.md` begins only after Actual Independent Examination has produced a traceable result.
+
+05 should record:
+
+```text
+What occurred?
+
+What judgment was produced?
+
+What clarification occurred?
+
+How did the examination terminate?
+
+What directly observable evidence exists?
+```
+
+05 should not prematurely answer:
+
+```text
+What does this prove?
+```
+
+That responsibility remains downstream.
+
+---
+
+# Relationship to 06 — Comparative Assessment
+
+06 compares the independent evidence with the prior internal evidence.
+
+Conceptually:
+
+```text
+Mission 002
+Internal Evidence
+        │
+        │
+        ▼
+Comparative Assessment
+        ▲
+        │
+        │
+Mission 003
+Independent Evidence
+```
+
+04 must not perform this comparison.
+
+---
+
+# Relationship to 07 — Validation Status
+
+07 determines what evidential status may legitimately be assigned after Independent Examination and Comparative Assessment.
+
+Therefore:
+
+```text
+04
+Procedure
+        ↓
+05
+Results
+        ↓
+06
+Comparative Assessment
+        ↓
+07
+Validation Status
+```
+
+The sequence protects against premature escalation from:
+
+```text
+Independent Examination
+```
+
+to:
+
+```text
+Independent Validation
+```
+
+---
+
+# Core Procedure Representation
+
+The Current Baseline is:
+
+```text
+            MISSION 003
+      INDEPENDENT EXAMINATION
+
+                │
+                ▼
+     Fresh Examination State
+                │
+                ▼
+    Controlled Material Exposure
+                │
+                ▼
+     Independent Examination
+                │
+                ▼
+      Information Gap?
+           │          │
+          NO         YES
+           │          │
+           │          ▼
+           │   Clarification Gate
+           │          │
+           │    ┌─────┴─────┐
+           │    ▼           ▼
+           │  Minimal     Cannot Resolve
+           │  Neutral     without material
+           │  Context     independence loss
+           │    │           │
+           │    ▼           ▼
+           │ Continue    Non-completion
+           │    │           │
+           └────┴─────┬─────┘
+                      ▼
+             Judgment / Outcome
+                      │
+                      ▼
+              Raw Output Capture
+                      │
+                      ▼
+              Procedural Logging
+                      │
+                      ▼
+==============================
+       EVIDENCE CREATED
+==============================
+                      │
+                      ▼
+         05 Examination Results
+```
+
+---
+
+# Core Invariants
+
+The Current Baseline preserves the following procedural invariants.
+
+## Invariant 1 — Fresh Reasoning State
+
+```text
+Active Formation State
+        ↓
+must not simply continue into
+Independent Examination
+```
+
+---
+
+## Invariant 2 — Controlled Exposure
+
+```text
+Necessary Object Information
+        ✓
+
+Formation-conditioning Information
+        restricted
+```
+
+---
+
+## Invariant 3 — Judgment Freedom
+
+```text
+Preserve
+Revise
+Qualify
+Reject
+Unable to Judge
+Unexpected Observation
+```
+
+must remain legitimate outcomes.
+
+---
+
+## Invariant 4 — Context Control Continues
+
+Context Control applies throughout the examination, not only during initialization.
+
+---
+
+## Invariant 5 — Clarification Is Controlled
+
+Clarification must be:
+
+```text
+Necessary
+Minimal
+Object-directed
+Formation-neutral where possible
+Traceable
+```
+
+---
+
+## Invariant 6 — Non-Completion Is Legitimate
+
+```text
+Cannot reach justified judgment
+        ≠
+Automatic Procedure Failure
+```
+
+---
+
+## Invariant 7 — Capture Before Interpretation
+
+```text
+Raw Output
+        ↓
+Preserve First
+        ↓
+Interpret Later
+```
+
+---
+
+## Invariant 8 — Agreement Is Not Validation
+
+```text
+Agreement
+        ≠
+Automatic Independent Validation
+```
+
+---
+
+## Invariant 9 — Disagreement Is Not Refutation
+
+```text
+Disagreement
+        ≠
+Automatic Protocol Invalidity
+```
+
+---
+
+## Invariant 10 — No Silent Rerun
+
+```text
+Unexpected Result
+        ↓
+Preserve Run
+        ↓
+Explicit Revision
+        ↓
+New Run
+```
+
+---
+
+# Procedure Boundary
+
+This procedure is intentionally limited.
+
+It does not attempt to define every possible future Independent Examination configuration.
+
+It does not determine:
+
+- how many independent instances are ultimately required;
+- whether cross-model examination is mandatory;
+- whether multiple examination runs are necessary for later validation;
+- how transfer to unrelated research tasks should occur;
+- or how the final Operational Protocol should be deployed.
+
+Those questions may become downstream Mission responsibilities.
+
+The Current Baseline is designed only to make the first credible Independent Examination possible.
+
+---
+
+# Accelerated Evidence Mode
+
+Mission 003 currently operates under Accelerated Evidence Mode.
+
+For 04, this means:
+
+```text
+Procedure Candidate
+        ↓
+Strong Counter-test
+        ↓
+Pre-Execution Failure Test
+        ↓
+Material Gap Assessment
+        ↓
+Externalization
+```
+
+Further desk-based procedural expansion is not required unless a material risk prevents credible examination.
+
+The Current Baseline has reached the point where:
+
+> **Actual Independent Examination is expected to produce more useful evidence than additional pre-execution reasoning.**
+
+---
+
+# Restabilization Judgment
+
+Following the Strong Counter-test and Pre-Execution Failure Test:
+
+```text
+Material Procedure Failure?
+        NO
+
+Uncontrolled Boundary Failure?
+        NO
+
+Irreversible Architecture Problem?
+        NO
+
+Evidence Claim Escalation?
+        NO
+
+Residual Risks Identifiable?
+        YES
+
+Residual Risks Traceable?
+        YES
+
+Further Desk Reasoning
+more informative than execution?
+        NO
+```
+
+Therefore:
+
+```text
+04 — Examination Procedure
+        ↓
+RESTABILIZED
+        ↓
+EXTERNALIZATION COMPLETE
+```
+
+No further pre-execution Counter-test is currently required.
+
+---
+
+# Current Mission State
+
+At completion of this asset:
+
+```text
+00 — Mission Definition
+        ✓ COMPLETE
+
+01 — Examination Boundary
+        ✓ COMPLETE
+
+02 — Independent Instance Protocol
+        ✓ COMPLETE
+
+03 — Examination Materials
+        ✓ COMPLETE
+
+04 — Examination Procedure
+        ✓ COMPLETE
+
+==============================
+       EXAMINATION GATE
+==============================
+
+05 — Examination Results
+        PENDING ACTUAL EXAMINATION
+
+06 — Comparative Assessment
+        PENDING
+
+07 — Validation Status
+        PENDING
+
+README
+        PENDING
+```
+
+Mission 003 has now completed its Pre-Examination Architecture.
+
+No Independent Examination result is claimed by this asset.
+
+---
+
+# Next Research Responsibility
+
+The next responsibility is not to draft `05-examination-results.md`.
+
+The next responsibility is:
+
+> **Conduct the first Actual Independent Examination under the Current Baseline established by 01–04.**
+
+Only after that examination produces a traceable result should `05-examination-results.md` be populated.
+
+The operational transition is:
+
+```text
+04 Examination Procedure
+        ✓ COMPLETE
+        ↓
+==============================
+       EXAMINATION GATE
+==============================
+        ↓
+Examination Run 001
+        ↓
+Raw Independent Evidence
+        ↓
+05 Examination Results
+```
+
+---
+
+# Final Procedure Principle
+
+The Independent Examination Procedure is designed neither to produce agreement nor to produce criticism.
+
+It is designed to create conditions under which:
+
+```text
+A sufficiently separated
+reasoning source
+        ↓
+receives a sufficiently valid
+representation of the object
+        ↓
+forms its own judgment
+        ↓
+under controlled and
+traceable conditions
+        ↓
+and produces evidence
+that can later be compared
+without reconstructing
+the Protocol's formation process.
+```
+
+The final procedural principle is therefore:
+
+> **Separate the judgment source, control the informational environment, preserve the examination object, allow the judgment to remain genuinely open, and capture what actually occurs before interpreting what it means.**
+
+With this procedure externalized, Mission 003 is ready to move from:
+
+```text
+Design
+```
+
+to:
+
+```text
+Evidence Production
+```
+
+through Actual Independent Examination.
+
+---
+
+# End of Examination Procedure
