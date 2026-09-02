@@ -45,6 +45,7 @@ These stages may inform one another sequentially.
 
 They should not be treated as equivalent.
 
+
 ---
 
 # Core Boundary
@@ -74,6 +75,57 @@ Protocol validation
 ```
 
 Mission 004 should preserve these distinctions throughout operational observation.
+
+---
+
+# Operational Naturalness Boundary
+
+The separation among Operational Event, Observation, Assessment, and Downstream Implication is a separation of evidential responsibility.
+
+It does not require complete temporal separation during actual Protocol use.
+
+Operational reasoning may itself require interpretation in order for the Protocol to continue.
+
+For example:
+
+```text
+Operational Event
+        ↓
+Observation
+        ↓
+Operational Interpretation
+        ↓
+Protocol Judgment / Action
+```
+
+may occur naturally within the reasoning process.
+
+Mission 004 should not artificially interrupt or restructure this operational behavior merely to create cleaner observation records.
+
+The governing principle is therefore:
+
+> **Preserve evidential distinguishability without materially distorting operational behavior.**
+
+Observation procedures should remain sufficiently lightweight that the act of recording the Protocol does not become a material intervention in the Protocol's behavior.
+
+Accordingly:
+
+```text
+Evidence Preservation
+        ✓
+
+Evidence Preservation that materially
+changes the behavior being observed
+        ✗
+```
+
+When contemporaneous recording would materially interfere with operational reasoning, preservation may occur at the nearest reasonable point after the relevant event.
+
+Any such delayed preservation should remain identifiable as such.
+
+This boundary protects Mission 004 against an observation-induced distortion in which the observation procedure itself becomes a material cause of the behavior being observed.
+
+
 
 ---
 
