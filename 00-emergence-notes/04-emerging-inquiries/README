@@ -1,0 +1,189 @@
+# Emerging Inquiries
+
+**Repository:** AI Text Project Hub  
+**Location:** `00-emergence-notes/04-emerging-inquiries/`  
+**Status:** Active  
+**Document Role:** Folder Entry and Inquiry Index
+
+---
+
+# Purpose
+
+This folder provides a bounded space for emerging research questions whose appropriate long-term placement within the Research Architecture has not yet been determined.
+
+An Emerging Inquiry may begin when an observation, unexpected correspondence, unresolved question, or newly visible phenomenon requires more structured investigation before its research responsibility can be decided.
+
+The purpose of this folder is therefore:
+
+> **to allow a question to be investigated before its final placement is determined.**
+
+---
+
+# Position within Emergence Notes
+
+```text
+00-emergence-notes/
+│
+├── 00-research-space-evolution/
+├── 01-research-program-capability-evolution/
+├── 02-methodological-evolution/
+├── 03-meta-observation/
+└── 04-emerging-inquiries/
+```
+
+`04-emerging-inquiries/` is an **Inquiry Formation Space**.
+
+It is not, by itself:
+
+- a formal Research Mission;
+- a Methodology;
+- a Protocol;
+- a Theory layer;
+- or a Structural Representation research area.
+
+---
+
+# Placement Principle
+
+The governing principle is:
+
+> **Question before Placement.**
+
+A newly emerging question should not be assigned prematurely to an existing research domain when that placement would already imply an interpretation of the phenomenon.
+
+The preferred direction is:
+
+```text
+Emerging Question
+        ↓
+Bounded Inquiry
+        ↓
+Observation / Examination
+        ↓
+Provisional Judgment
+        ↓
+Placement or Closure Decision
+```
+
+Investigation should inform placement.
+
+Placement should not predetermine the investigation.
+
+---
+
+# Boundary
+
+This folder should be used when:
+
+- a research question has become sufficiently distinct to require bounded investigation;
+- its final research responsibility is not yet clear;
+- several research domains appear potentially relevant;
+- or premature placement could constrain observation.
+
+It should not become a general storage location for every unresolved or interesting question.
+
+When the appropriate research responsibility is already clear, the question should normally remain within that existing responsibility.
+
+---
+
+# Inquiry Independence
+
+Each inquiry should be treated as an independent research object.
+
+The structure used by one inquiry does not automatically become the required structure for later inquiries.
+
+Therefore:
+
+```text
+Inquiry 001 Architecture
+        ≠
+Universal Emerging Inquiry Methodology
+```
+
+Future inquiries may require different:
+
+- source structures;
+- observation sequences;
+- document architectures;
+- Evidence Boundaries;
+- or closure conditions.
+
+Common patterns may be assessed only after sufficient cases accumulate.
+
+---
+
+# Closure and Handover
+
+An Emerging Inquiry may conclude in different ways.
+
+For example:
+
+```text
+Inquiry
+   ↓
+   ├── Close
+   ├── Retain as Observation
+   ├── Retain as Working Hypothesis
+   ├── Handover
+   ├── Open Independent Validation
+   └── Remain Unresolved
+```
+
+Handover does not mean that the receiving research area has already been validated as the correct explanation.
+
+It means only that a sufficiently differentiated residual question now belongs more appropriately to another research responsibility.
+
+---
+
+# Inquiry Index
+
+## `001-human-ai-experience-formation/`
+
+**Status:** Completed Provisional Inquiry — Frozen
+
+Examines whether sustained Human–AI Dialogue can generate an interaction-level structure that reorganizes subsequent Human perception and research experience.
+
+The inquiry closes without establishing the emergence of a new conscious subject.
+
+A bounded residual question concerning the representational status of the observed Experience-Organizing Structure is identified for possible handover to Structural Representation Research.
+
+See:
+
+```text
+001-human-ai-experience-formation/README.md
+```
+
+for the inquiry-specific architecture, findings, Evidence Boundary, and handover assessment.
+
+---
+
+# Future Inquiries
+
+Additional inquiries may be added sequentially when warranted:
+
+```text
+04-emerging-inquiries/
+│
+├── README.md
+│
+├── 001-human-ai-experience-formation/
+├── 002-[future-inquiry]/
+├── 003-[future-inquiry]/
+└── ...
+```
+
+The numbering records inquiry formation within this space.
+
+It does not imply theoretical dependency among inquiries.
+
+---
+
+# Repository Responsibility
+
+The responsibility of `04-emerging-inquiries/` is intentionally limited:
+
+> **Preserve a governed space in which an emerging question can become sufficiently differentiated before the Research Program decides where, if anywhere, it belongs.**
+
+Detailed inquiry architecture, evidence, judgments, and handover decisions belong inside each individual inquiry folder.
+
+This README provides only the stable entry point and index for that space.
